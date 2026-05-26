@@ -1,6 +1,6 @@
 # readMELTs
 
-the outputs of petrological simulation algorithm **MELTs** are recorded in the file *melts.out* which are hardly applied in the latter calculations and visualization.
+the outputs of petrological simulation algorithm **MELTs** are recorded in the file *melts.out* which are hardly applied in the subsequent calculations and visualization.
 
 the readMELTs generates a spreadsheet based on the outputs of MELTs simulations to help with data visualization and support extensions of MELTs simulations.
 
