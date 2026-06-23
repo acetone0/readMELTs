@@ -1,0 +1,2950 @@
+
+**********----------**********
+Title: dummy
+
+T = 1500.00 (C)  P = 1.000 (kbars)  log(10) f O2 = -6.51  delta HM = -6.54  NNO = -1.81  QFM = -1.08  COH = 1.36  IW = 2.15
+
+Constraint Flags: Fractionate Solids  
+
+Liquid           mass = 100.36 (gm)  density = 2.63 (gm/cc)  viscosity = 1.12 (log 10 poise)     (analysis in wt %)
+ 		G = -1727342.79 (J)  H = -1197912.20 (J)  S = 298.58 (J/K)  V = 38.21 (cc)  Cp = 153.19 (J/K)  
+        SiO2   TiO2  Al2O3  Fe2O3  Cr2O3    FeO    MnO    MgO    NiO    CoO    CaO   Na2O    K2O   P2O5    H2O    CO2    SO3 Cl2O-1  F2O-1
+       48.50   1.01  17.58   0.89   0.04   7.56   0.00   9.07   0.00   0.00  12.41   2.64   0.03   0.08   0.20   0.00   0.00   0.00   0.00
+
+Total solids     mass = 0.00 (gm)  density = 0.00 (gm/cc)
+                 G = 0.00 (J)  H = 0.00 (J)  S = 0.00 (J/K)  V = 0.00 (cc)  Cp = 0.00 (J/K)  
+
+Summary of all fractionated phases: (total mass = 0.00 grams)
+
+Viscosity of the System: 1.12 (log 10 poise)
+
+System           mass = 100.36 (gm)  density = 2.63 (gm/cc)
+                 G = -1727342.79 (J)  H = -1197912.20 (J)  S = 298.58 (J/K)  V = 38.21 (cc)  Cp = 153.19 (J/K)  
+
+**********----------**********
+Title: dummy
+
+T = 1495.00 (C)  P = 1.000 (kbars)  log(10) f O2 = -6.55  delta HM = -6.54  NNO = -1.81  QFM = -1.08  COH = 1.35  IW = 2.16
+
+Constraint Flags: Fractionate Solids  
+
+Liquid           mass = 100.36 (gm)  density = 2.63 (gm/cc)  viscosity = 1.13 (log 10 poise)     (analysis in wt %)
+ 		G = -1725850.96 (J)  H = -1198678.14 (J)  S = 298.15 (J/K)  V = 38.19 (cc)  Cp = 153.19 (J/K)  
+        SiO2   TiO2  Al2O3  Fe2O3  Cr2O3    FeO    MnO    MgO    NiO    CoO    CaO   Na2O    K2O   P2O5    H2O    CO2    SO3 Cl2O-1  F2O-1
+       48.50   1.01  17.58   0.89   0.04   7.56   0.00   9.07   0.00   0.00  12.41   2.64   0.03   0.08   0.20   0.00   0.00   0.00   0.00
+
+Total solids     mass = 0.00 (gm)  density = 0.00 (gm/cc)
+                 G = 0.00 (J)  H = 0.00 (J)  S = 0.00 (J/K)  V = 0.00 (cc)  Cp = 0.00 (J/K)  
+
+Summary of all fractionated phases: (total mass = 0.00 grams)
+
+Viscosity of the System: 1.13 (log 10 poise)
+
+System           mass = 100.36 (gm)  density = 2.63 (gm/cc)
+                 G = -1725850.96 (J)  H = -1198678.14 (J)  S = 298.15 (J/K)  V = 38.19 (cc)  Cp = 153.19 (J/K)  
+
+**********----------**********
+Title: dummy
+
+T = 1490.00 (C)  P = 1.000 (kbars)  log(10) f O2 = -6.59  delta HM = -6.54  NNO = -1.81  QFM = -1.08  COH = 1.35  IW = 2.16
+
+Constraint Flags: Fractionate Solids  
+
+Liquid           mass = 100.36 (gm)  density = 2.63 (gm/cc)  viscosity = 1.15 (log 10 poise)     (analysis in wt %)
+ 		G = -1724361.30 (J)  H = -1199444.08 (J)  S = 297.72 (J/K)  V = 38.18 (cc)  Cp = 153.19 (J/K)  
+        SiO2   TiO2  Al2O3  Fe2O3  Cr2O3    FeO    MnO    MgO    NiO    CoO    CaO   Na2O    K2O   P2O5    H2O    CO2    SO3 Cl2O-1  F2O-1
+       48.50   1.01  17.58   0.89   0.04   7.56   0.00   9.07   0.00   0.00  12.41   2.64   0.03   0.08   0.20   0.00   0.00   0.00   0.00
+
+Total solids     mass = 0.00 (gm)  density = 0.00 (gm/cc)
+                 G = 0.00 (J)  H = 0.00 (J)  S = 0.00 (J/K)  V = 0.00 (cc)  Cp = 0.00 (J/K)  
+
+Summary of all fractionated phases: (total mass = 0.00 grams)
+
+Viscosity of the System: 1.15 (log 10 poise)
+
+System           mass = 100.36 (gm)  density = 2.63 (gm/cc)
+                 G = -1724361.30 (J)  H = -1199444.08 (J)  S = 297.72 (J/K)  V = 38.18 (cc)  Cp = 153.19 (J/K)  
+
+**********----------**********
+Title: dummy
+
+T = 1485.00 (C)  P = 1.000 (kbars)  log(10) f O2 = -6.63  delta HM = -6.54  NNO = -1.81  QFM = -1.08  COH = 1.34  IW = 2.16
+
+Constraint Flags: Fractionate Solids  
+
+Liquid           mass = 100.36 (gm)  density = 2.63 (gm/cc)  viscosity = 1.16 (log 10 poise)     (analysis in wt %)
+ 		G = -1722873.81 (J)  H = -1200210.02 (J)  S = 297.28 (J/K)  V = 38.17 (cc)  Cp = 153.19 (J/K)  
+        SiO2   TiO2  Al2O3  Fe2O3  Cr2O3    FeO    MnO    MgO    NiO    CoO    CaO   Na2O    K2O   P2O5    H2O    CO2    SO3 Cl2O-1  F2O-1
+       48.50   1.01  17.58   0.89   0.04   7.56   0.00   9.07   0.00   0.00  12.41   2.64   0.03   0.08   0.20   0.00   0.00   0.00   0.00
+
+Total solids     mass = 0.00 (gm)  density = 0.00 (gm/cc)
+                 G = 0.00 (J)  H = 0.00 (J)  S = 0.00 (J/K)  V = 0.00 (cc)  Cp = 0.00 (J/K)  
+
+Summary of all fractionated phases: (total mass = 0.00 grams)
+
+Viscosity of the System: 1.16 (log 10 poise)
+
+System           mass = 100.36 (gm)  density = 2.63 (gm/cc)
+                 G = -1722873.81 (J)  H = -1200210.02 (J)  S = 297.28 (J/K)  V = 38.17 (cc)  Cp = 153.19 (J/K)  
+
+**********----------**********
+Title: dummy
+
+T = 1480.00 (C)  P = 1.000 (kbars)  log(10) f O2 = -6.67  delta HM = -6.54  NNO = -1.81  QFM = -1.08  COH = 1.34  IW = 2.17
+
+Constraint Flags: Fractionate Solids  
+
+Liquid           mass = 100.36 (gm)  density = 2.63 (gm/cc)  viscosity = 1.18 (log 10 poise)     (analysis in wt %)
+ 		G = -1721388.49 (J)  H = -1200975.95 (J)  S = 296.84 (J/K)  V = 38.15 (cc)  Cp = 153.19 (J/K)  
+        SiO2   TiO2  Al2O3  Fe2O3  Cr2O3    FeO    MnO    MgO    NiO    CoO    CaO   Na2O    K2O   P2O5    H2O    CO2    SO3 Cl2O-1  F2O-1
+       48.50   1.01  17.58   0.89   0.04   7.56   0.00   9.07   0.00   0.00  12.41   2.64   0.03   0.08   0.20   0.00   0.00   0.00   0.00
+
+Total solids     mass = 0.00 (gm)  density = 0.00 (gm/cc)
+                 G = 0.00 (J)  H = 0.00 (J)  S = 0.00 (J/K)  V = 0.00 (cc)  Cp = 0.00 (J/K)  
+
+Summary of all fractionated phases: (total mass = 0.00 grams)
+
+Viscosity of the System: 1.18 (log 10 poise)
+
+System           mass = 100.36 (gm)  density = 2.63 (gm/cc)
+                 G = -1721388.49 (J)  H = -1200975.95 (J)  S = 296.84 (J/K)  V = 38.15 (cc)  Cp = 153.19 (J/K)  
+
+**********----------**********
+Title: dummy
+
+T = 1475.00 (C)  P = 1.000 (kbars)  log(10) f O2 = -6.71  delta HM = -6.55  NNO = -1.81  QFM = -1.08  COH = 1.34  IW = 2.17
+
+Constraint Flags: Fractionate Solids  
+
+Liquid           mass = 100.36 (gm)  density = 2.63 (gm/cc)  viscosity = 1.19 (log 10 poise)     (analysis in wt %)
+ 		G = -1719905.37 (J)  H = -1201741.89 (J)  S = 296.41 (J/K)  V = 38.14 (cc)  Cp = 153.19 (J/K)  
+        SiO2   TiO2  Al2O3  Fe2O3  Cr2O3    FeO    MnO    MgO    NiO    CoO    CaO   Na2O    K2O   P2O5    H2O    CO2    SO3 Cl2O-1  F2O-1
+       48.50   1.01  17.58   0.89   0.04   7.56   0.00   9.07   0.00   0.00  12.41   2.64   0.03   0.08   0.20   0.00   0.00   0.00   0.00
+
+Total solids     mass = 0.00 (gm)  density = 0.00 (gm/cc)
+                 G = 0.00 (J)  H = 0.00 (J)  S = 0.00 (J/K)  V = 0.00 (cc)  Cp = 0.00 (J/K)  
+
+Summary of all fractionated phases: (total mass = 0.00 grams)
+
+Viscosity of the System: 1.19 (log 10 poise)
+
+System           mass = 100.36 (gm)  density = 2.63 (gm/cc)
+                 G = -1719905.37 (J)  H = -1201741.89 (J)  S = 296.41 (J/K)  V = 38.14 (cc)  Cp = 153.19 (J/K)  
+
+**********----------**********
+Title: dummy
+
+T = 1470.00 (C)  P = 1.000 (kbars)  log(10) f O2 = -6.75  delta HM = -6.55  NNO = -1.81  QFM = -1.08  COH = 1.33  IW = 2.17
+
+Constraint Flags: Fractionate Solids  
+
+Liquid           mass = 100.36 (gm)  density = 2.63 (gm/cc)  viscosity = 1.21 (log 10 poise)     (analysis in wt %)
+ 		G = -1718424.43 (J)  H = -1202507.82 (J)  S = 295.97 (J/K)  V = 38.12 (cc)  Cp = 153.19 (J/K)  
+        SiO2   TiO2  Al2O3  Fe2O3  Cr2O3    FeO    MnO    MgO    NiO    CoO    CaO   Na2O    K2O   P2O5    H2O    CO2    SO3 Cl2O-1  F2O-1
+       48.50   1.01  17.58   0.89   0.04   7.56   0.00   9.07   0.00   0.00  12.41   2.64   0.03   0.08   0.20   0.00   0.00   0.00   0.00
+
+Total solids     mass = 0.00 (gm)  density = 0.00 (gm/cc)
+                 G = 0.00 (J)  H = 0.00 (J)  S = 0.00 (J/K)  V = 0.00 (cc)  Cp = 0.00 (J/K)  
+
+Summary of all fractionated phases: (total mass = 0.00 grams)
+
+Viscosity of the System: 1.21 (log 10 poise)
+
+System           mass = 100.36 (gm)  density = 2.63 (gm/cc)
+                 G = -1718424.43 (J)  H = -1202507.82 (J)  S = 295.97 (J/K)  V = 38.12 (cc)  Cp = 153.19 (J/K)  
+
+**********----------**********
+Title: dummy
+
+T = 1465.00 (C)  P = 1.000 (kbars)  log(10) f O2 = -6.79  delta HM = -6.55  NNO = -1.81  QFM = -1.08  COH = 1.33  IW = 2.18
+
+Constraint Flags: Fractionate Solids  
+
+Liquid           mass = 100.36 (gm)  density = 2.63 (gm/cc)  viscosity = 1.23 (log 10 poise)     (analysis in wt %)
+ 		G = -1716945.69 (J)  H = -1203273.75 (J)  S = 295.53 (J/K)  V = 38.11 (cc)  Cp = 153.19 (J/K)  
+        SiO2   TiO2  Al2O3  Fe2O3  Cr2O3    FeO    MnO    MgO    NiO    CoO    CaO   Na2O    K2O   P2O5    H2O    CO2    SO3 Cl2O-1  F2O-1
+       48.50   1.01  17.58   0.89   0.04   7.56   0.00   9.07   0.00   0.00  12.41   2.64   0.03   0.08   0.20   0.00   0.00   0.00   0.00
+
+Total solids     mass = 0.00 (gm)  density = 0.00 (gm/cc)
+                 G = 0.00 (J)  H = 0.00 (J)  S = 0.00 (J/K)  V = 0.00 (cc)  Cp = 0.00 (J/K)  
+
+Summary of all fractionated phases: (total mass = 0.00 grams)
+
+Viscosity of the System: 1.23 (log 10 poise)
+
+System           mass = 100.36 (gm)  density = 2.63 (gm/cc)
+                 G = -1716945.69 (J)  H = -1203273.75 (J)  S = 295.53 (J/K)  V = 38.11 (cc)  Cp = 153.19 (J/K)  
+
+**********----------**********
+Title: dummy
+
+T = 1460.00 (C)  P = 1.000 (kbars)  log(10) f O2 = -6.83  delta HM = -6.55  NNO = -1.81  QFM = -1.08  COH = 1.32  IW = 2.18
+
+Constraint Flags: Fractionate Solids  
+
+Liquid           mass = 100.36 (gm)  density = 2.63 (gm/cc)  viscosity = 1.24 (log 10 poise)     (analysis in wt %)
+ 		G = -1715469.15 (J)  H = -1204039.68 (J)  S = 295.09 (J/K)  V = 38.10 (cc)  Cp = 153.19 (J/K)  
+        SiO2   TiO2  Al2O3  Fe2O3  Cr2O3    FeO    MnO    MgO    NiO    CoO    CaO   Na2O    K2O   P2O5    H2O    CO2    SO3 Cl2O-1  F2O-1
+       48.50   1.01  17.58   0.89   0.04   7.56   0.00   9.07   0.00   0.00  12.41   2.64   0.03   0.08   0.20   0.00   0.00   0.00   0.00
+
+Total solids     mass = 0.00 (gm)  density = 0.00 (gm/cc)
+                 G = 0.00 (J)  H = 0.00 (J)  S = 0.00 (J/K)  V = 0.00 (cc)  Cp = 0.00 (J/K)  
+
+Summary of all fractionated phases: (total mass = 0.00 grams)
+
+Viscosity of the System: 1.24 (log 10 poise)
+
+System           mass = 100.36 (gm)  density = 2.63 (gm/cc)
+                 G = -1715469.15 (J)  H = -1204039.68 (J)  S = 295.09 (J/K)  V = 38.10 (cc)  Cp = 153.19 (J/K)  
+
+**********----------**********
+Title: dummy
+
+T = 1455.00 (C)  P = 1.000 (kbars)  log(10) f O2 = -6.87  delta HM = -6.55  NNO = -1.81  QFM = -1.08  COH = 1.32  IW = 2.18
+
+Constraint Flags: Fractionate Solids  
+
+Liquid           mass = 100.36 (gm)  density = 2.64 (gm/cc)  viscosity = 1.26 (log 10 poise)     (analysis in wt %)
+ 		G = -1713994.82 (J)  H = -1204805.61 (J)  S = 294.64 (J/K)  V = 38.08 (cc)  Cp = 153.19 (J/K)  
+        SiO2   TiO2  Al2O3  Fe2O3  Cr2O3    FeO    MnO    MgO    NiO    CoO    CaO   Na2O    K2O   P2O5    H2O    CO2    SO3 Cl2O-1  F2O-1
+       48.50   1.01  17.58   0.89   0.04   7.56   0.00   9.07   0.00   0.00  12.41   2.64   0.03   0.08   0.20   0.00   0.00   0.00   0.00
+
+Total solids     mass = 0.00 (gm)  density = 0.00 (gm/cc)
+                 G = 0.00 (J)  H = 0.00 (J)  S = 0.00 (J/K)  V = 0.00 (cc)  Cp = 0.00 (J/K)  
+
+Summary of all fractionated phases: (total mass = 0.00 grams)
+
+Viscosity of the System: 1.26 (log 10 poise)
+
+System           mass = 100.36 (gm)  density = 2.64 (gm/cc)
+                 G = -1713994.82 (J)  H = -1204805.61 (J)  S = 294.64 (J/K)  V = 38.08 (cc)  Cp = 153.19 (J/K)  
+
+**********----------**********
+Title: dummy
+
+T = 1450.00 (C)  P = 1.000 (kbars)  log(10) f O2 = -6.91  delta HM = -6.55  NNO = -1.81  QFM = -1.08  COH = 1.31  IW = 2.19
+
+Constraint Flags: Fractionate Solids  
+
+Liquid           mass = 100.36 (gm)  density = 2.64 (gm/cc)  viscosity = 1.27 (log 10 poise)     (analysis in wt %)
+ 		G = -1712522.71 (J)  H = -1205571.53 (J)  S = 294.20 (J/K)  V = 38.07 (cc)  Cp = 153.18 (J/K)  
+        SiO2   TiO2  Al2O3  Fe2O3  Cr2O3    FeO    MnO    MgO    NiO    CoO    CaO   Na2O    K2O   P2O5    H2O    CO2    SO3 Cl2O-1  F2O-1
+       48.50   1.01  17.58   0.89   0.04   7.56   0.00   9.07   0.00   0.00  12.41   2.64   0.03   0.08   0.20   0.00   0.00   0.00   0.00
+
+Total solids     mass = 0.00 (gm)  density = 0.00 (gm/cc)
+                 G = 0.00 (J)  H = 0.00 (J)  S = 0.00 (J/K)  V = 0.00 (cc)  Cp = 0.00 (J/K)  
+
+Summary of all fractionated phases: (total mass = 0.00 grams)
+
+Viscosity of the System: 1.27 (log 10 poise)
+
+System           mass = 100.36 (gm)  density = 2.64 (gm/cc)
+                 G = -1712522.71 (J)  H = -1205571.53 (J)  S = 294.20 (J/K)  V = 38.07 (cc)  Cp = 153.18 (J/K)  
+
+**********----------**********
+Title: dummy
+
+T = 1445.00 (C)  P = 1.000 (kbars)  log(10) f O2 = -6.96  delta HM = -6.56  NNO = -1.81  QFM = -1.08  COH = 1.31  IW = 2.19
+
+Constraint Flags: Fractionate Solids  
+
+Liquid           mass = 100.36 (gm)  density = 2.64 (gm/cc)  viscosity = 1.29 (log 10 poise)     (analysis in wt %)
+ 		G = -1711052.82 (J)  H = -1206337.45 (J)  S = 293.76 (J/K)  V = 38.06 (cc)  Cp = 153.18 (J/K)  
+        SiO2   TiO2  Al2O3  Fe2O3  Cr2O3    FeO    MnO    MgO    NiO    CoO    CaO   Na2O    K2O   P2O5    H2O    CO2    SO3 Cl2O-1  F2O-1
+       48.50   1.01  17.58   0.89   0.04   7.56   0.00   9.07   0.00   0.00  12.41   2.64   0.03   0.08   0.20   0.00   0.00   0.00   0.00
+
+Total solids     mass = 0.00 (gm)  density = 0.00 (gm/cc)
+                 G = 0.00 (J)  H = 0.00 (J)  S = 0.00 (J/K)  V = 0.00 (cc)  Cp = 0.00 (J/K)  
+
+Summary of all fractionated phases: (total mass = 0.00 grams)
+
+Viscosity of the System: 1.29 (log 10 poise)
+
+System           mass = 100.36 (gm)  density = 2.64 (gm/cc)
+                 G = -1711052.82 (J)  H = -1206337.45 (J)  S = 293.76 (J/K)  V = 38.06 (cc)  Cp = 153.18 (J/K)  
+
+**********----------**********
+Title: dummy
+
+T = 1440.00 (C)  P = 1.000 (kbars)  log(10) f O2 = -7.00  delta HM = -6.56  NNO = -1.81  QFM = -1.09  COH = 1.30  IW = 2.19
+
+Constraint Flags: Fractionate Solids  
+
+Liquid           mass = 100.36 (gm)  density = 2.64 (gm/cc)  viscosity = 1.30 (log 10 poise)     (analysis in wt %)
+ 		G = -1709585.16 (J)  H = -1207103.37 (J)  S = 293.31 (J/K)  V = 38.04 (cc)  Cp = 153.18 (J/K)  
+        SiO2   TiO2  Al2O3  Fe2O3  Cr2O3    FeO    MnO    MgO    NiO    CoO    CaO   Na2O    K2O   P2O5    H2O    CO2    SO3 Cl2O-1  F2O-1
+       48.50   1.01  17.58   0.89   0.04   7.56   0.00   9.07   0.00   0.00  12.41   2.64   0.03   0.08   0.20   0.00   0.00   0.00   0.00
+
+Total solids     mass = 0.00 (gm)  density = 0.00 (gm/cc)
+                 G = 0.00 (J)  H = 0.00 (J)  S = 0.00 (J/K)  V = 0.00 (cc)  Cp = 0.00 (J/K)  
+
+Summary of all fractionated phases: (total mass = 0.00 grams)
+
+Viscosity of the System: 1.30 (log 10 poise)
+
+System           mass = 100.36 (gm)  density = 2.64 (gm/cc)
+                 G = -1709585.16 (J)  H = -1207103.37 (J)  S = 293.31 (J/K)  V = 38.04 (cc)  Cp = 153.18 (J/K)  
+
+**********----------**********
+Title: dummy
+
+T = 1435.00 (C)  P = 1.000 (kbars)  log(10) f O2 = -7.04  delta HM = -6.56  NNO = -1.81  QFM = -1.09  COH = 1.30  IW = 2.20
+
+Constraint Flags: Fractionate Solids  
+
+Liquid           mass = 100.36 (gm)  density = 2.64 (gm/cc)  viscosity = 1.32 (log 10 poise)     (analysis in wt %)
+ 		G = -1708119.74 (J)  H = -1207869.29 (J)  S = 292.86 (J/K)  V = 38.03 (cc)  Cp = 153.18 (J/K)  
+        SiO2   TiO2  Al2O3  Fe2O3  Cr2O3    FeO    MnO    MgO    NiO    CoO    CaO   Na2O    K2O   P2O5    H2O    CO2    SO3 Cl2O-1  F2O-1
+       48.50   1.01  17.58   0.89   0.04   7.56   0.00   9.07   0.00   0.00  12.41   2.64   0.03   0.08   0.20   0.00   0.00   0.00   0.00
+
+Total solids     mass = 0.00 (gm)  density = 0.00 (gm/cc)
+                 G = 0.00 (J)  H = 0.00 (J)  S = 0.00 (J/K)  V = 0.00 (cc)  Cp = 0.00 (J/K)  
+
+Summary of all fractionated phases: (total mass = 0.00 grams)
+
+Viscosity of the System: 1.32 (log 10 poise)
+
+System           mass = 100.36 (gm)  density = 2.64 (gm/cc)
+                 G = -1708119.74 (J)  H = -1207869.29 (J)  S = 292.86 (J/K)  V = 38.03 (cc)  Cp = 153.18 (J/K)  
+
+**********----------**********
+Title: dummy
+
+T = 1430.00 (C)  P = 1.000 (kbars)  log(10) f O2 = -7.09  delta HM = -6.56  NNO = -1.81  QFM = -1.09  COH = 1.29  IW = 2.20
+
+Constraint Flags: Fractionate Solids  
+
+Liquid           mass = 100.36 (gm)  density = 2.64 (gm/cc)  viscosity = 1.34 (log 10 poise)     (analysis in wt %)
+ 		G = -1706656.56 (J)  H = -1208635.21 (J)  S = 292.41 (J/K)  V = 38.02 (cc)  Cp = 153.18 (J/K)  
+        SiO2   TiO2  Al2O3  Fe2O3  Cr2O3    FeO    MnO    MgO    NiO    CoO    CaO   Na2O    K2O   P2O5    H2O    CO2    SO3 Cl2O-1  F2O-1
+       48.50   1.01  17.58   0.89   0.04   7.56   0.00   9.07   0.00   0.00  12.41   2.64   0.03   0.08   0.20   0.00   0.00   0.00   0.00
+
+Total solids     mass = 0.00 (gm)  density = 0.00 (gm/cc)
+                 G = 0.00 (J)  H = 0.00 (J)  S = 0.00 (J/K)  V = 0.00 (cc)  Cp = 0.00 (J/K)  
+
+Summary of all fractionated phases: (total mass = 0.00 grams)
+
+Viscosity of the System: 1.34 (log 10 poise)
+
+System           mass = 100.36 (gm)  density = 2.64 (gm/cc)
+                 G = -1706656.56 (J)  H = -1208635.21 (J)  S = 292.41 (J/K)  V = 38.02 (cc)  Cp = 153.18 (J/K)  
+
+**********----------**********
+Title: dummy
+
+T = 1425.00 (C)  P = 1.000 (kbars)  log(10) f O2 = -7.13  delta HM = -6.57  NNO = -1.81  QFM = -1.09  COH = 1.29  IW = 2.20
+
+Constraint Flags: Fractionate Solids  
+
+Liquid           mass = 100.36 (gm)  density = 2.64 (gm/cc)  viscosity = 1.35 (log 10 poise)     (analysis in wt %)
+ 		G = -1705195.62 (J)  H = -1209401.13 (J)  S = 291.96 (J/K)  V = 38.00 (cc)  Cp = 153.18 (J/K)  
+        SiO2   TiO2  Al2O3  Fe2O3  Cr2O3    FeO    MnO    MgO    NiO    CoO    CaO   Na2O    K2O   P2O5    H2O    CO2    SO3 Cl2O-1  F2O-1
+       48.50   1.01  17.58   0.89   0.04   7.56   0.00   9.07   0.00   0.00  12.41   2.64   0.03   0.08   0.20   0.00   0.00   0.00   0.00
+
+Total solids     mass = 0.00 (gm)  density = 0.00 (gm/cc)
+                 G = 0.00 (J)  H = 0.00 (J)  S = 0.00 (J/K)  V = 0.00 (cc)  Cp = 0.00 (J/K)  
+
+Summary of all fractionated phases: (total mass = 0.00 grams)
+
+Viscosity of the System: 1.35 (log 10 poise)
+
+System           mass = 100.36 (gm)  density = 2.64 (gm/cc)
+                 G = -1705195.62 (J)  H = -1209401.13 (J)  S = 291.96 (J/K)  V = 38.00 (cc)  Cp = 153.18 (J/K)  
+
+**********----------**********
+Title: dummy
+
+T = 1420.00 (C)  P = 1.000 (kbars)  log(10) f O2 = -7.17  delta HM = -6.57  NNO = -1.81  QFM = -1.09  COH = 1.28  IW = 2.21
+
+Constraint Flags: Fractionate Solids  
+
+Liquid           mass = 100.36 (gm)  density = 2.64 (gm/cc)  viscosity = 1.37 (log 10 poise)     (analysis in wt %)
+ 		G = -1703736.94 (J)  H = -1210167.04 (J)  S = 291.51 (J/K)  V = 37.99 (cc)  Cp = 153.18 (J/K)  
+        SiO2   TiO2  Al2O3  Fe2O3  Cr2O3    FeO    MnO    MgO    NiO    CoO    CaO   Na2O    K2O   P2O5    H2O    CO2    SO3 Cl2O-1  F2O-1
+       48.50   1.01  17.58   0.89   0.04   7.56   0.00   9.07   0.00   0.00  12.41   2.64   0.03   0.08   0.20   0.00   0.00   0.00   0.00
+
+Total solids     mass = 0.00 (gm)  density = 0.00 (gm/cc)
+                 G = 0.00 (J)  H = 0.00 (J)  S = 0.00 (J/K)  V = 0.00 (cc)  Cp = 0.00 (J/K)  
+
+Summary of all fractionated phases: (total mass = 0.00 grams)
+
+Viscosity of the System: 1.37 (log 10 poise)
+
+System           mass = 100.36 (gm)  density = 2.64 (gm/cc)
+                 G = -1703736.94 (J)  H = -1210167.04 (J)  S = 291.51 (J/K)  V = 37.99 (cc)  Cp = 153.18 (J/K)  
+
+**********----------**********
+Title: dummy
+
+T = 1415.00 (C)  P = 1.000 (kbars)  log(10) f O2 = -7.22  delta HM = -6.57  NNO = -1.81  QFM = -1.09  COH = 1.28  IW = 2.21
+
+Constraint Flags: Fractionate Solids  
+
+Liquid           mass = 100.36 (gm)  density = 2.64 (gm/cc)  viscosity = 1.39 (log 10 poise)     (analysis in wt %)
+ 		G = -1702280.53 (J)  H = -1210932.95 (J)  S = 291.06 (J/K)  V = 37.97 (cc)  Cp = 153.18 (J/K)  
+        SiO2   TiO2  Al2O3  Fe2O3  Cr2O3    FeO    MnO    MgO    NiO    CoO    CaO   Na2O    K2O   P2O5    H2O    CO2    SO3 Cl2O-1  F2O-1
+       48.50   1.01  17.58   0.89   0.04   7.56   0.00   9.07   0.00   0.00  12.41   2.64   0.03   0.08   0.20   0.00   0.00   0.00   0.00
+
+Total solids     mass = 0.00 (gm)  density = 0.00 (gm/cc)
+                 G = 0.00 (J)  H = 0.00 (J)  S = 0.00 (J/K)  V = 0.00 (cc)  Cp = 0.00 (J/K)  
+
+Summary of all fractionated phases: (total mass = 0.00 grams)
+
+Viscosity of the System: 1.39 (log 10 poise)
+
+System           mass = 100.36 (gm)  density = 2.64 (gm/cc)
+                 G = -1702280.53 (J)  H = -1210932.95 (J)  S = 291.06 (J/K)  V = 37.97 (cc)  Cp = 153.18 (J/K)  
+
+**********----------**********
+Title: dummy
+
+T = 1410.00 (C)  P = 1.000 (kbars)  log(10) f O2 = -7.26  delta HM = -6.57  NNO = -1.81  QFM = -1.09  COH = 1.27  IW = 2.21
+
+Constraint Flags: Fractionate Solids  
+
+Liquid           mass = 100.36 (gm)  density = 2.64 (gm/cc)  viscosity = 1.40 (log 10 poise)     (analysis in wt %)
+ 		G = -1700826.38 (J)  H = -1211698.86 (J)  S = 290.60 (J/K)  V = 37.96 (cc)  Cp = 153.18 (J/K)  
+        SiO2   TiO2  Al2O3  Fe2O3  Cr2O3    FeO    MnO    MgO    NiO    CoO    CaO   Na2O    K2O   P2O5    H2O    CO2    SO3 Cl2O-1  F2O-1
+       48.50   1.01  17.58   0.89   0.04   7.56   0.00   9.07   0.00   0.00  12.41   2.64   0.03   0.08   0.20   0.00   0.00   0.00   0.00
+
+Total solids     mass = 0.00 (gm)  density = 0.00 (gm/cc)
+                 G = 0.00 (J)  H = 0.00 (J)  S = 0.00 (J/K)  V = 0.00 (cc)  Cp = 0.00 (J/K)  
+
+Summary of all fractionated phases: (total mass = 0.00 grams)
+
+Viscosity of the System: 1.40 (log 10 poise)
+
+System           mass = 100.36 (gm)  density = 2.64 (gm/cc)
+                 G = -1700826.38 (J)  H = -1211698.86 (J)  S = 290.60 (J/K)  V = 37.96 (cc)  Cp = 153.18 (J/K)  
+
+**********----------**********
+Title: dummy
+
+T = 1405.00 (C)  P = 1.000 (kbars)  log(10) f O2 = -7.31  delta HM = -6.58  NNO = -1.81  QFM = -1.10  COH = 1.27  IW = 2.21
+
+Constraint Flags: Fractionate Solids  
+
+Liquid           mass = 100.36 (gm)  density = 2.64 (gm/cc)  viscosity = 1.42 (log 10 poise)     (analysis in wt %)
+ 		G = -1699374.50 (J)  H = -1212464.77 (J)  S = 290.15 (J/K)  V = 37.95 (cc)  Cp = 153.18 (J/K)  
+        SiO2   TiO2  Al2O3  Fe2O3  Cr2O3    FeO    MnO    MgO    NiO    CoO    CaO   Na2O    K2O   P2O5    H2O    CO2    SO3 Cl2O-1  F2O-1
+       48.50   1.01  17.58   0.89   0.04   7.56   0.00   9.07   0.00   0.00  12.41   2.64   0.03   0.08   0.20   0.00   0.00   0.00   0.00
+
+Total solids     mass = 0.00 (gm)  density = 0.00 (gm/cc)
+                 G = 0.00 (J)  H = 0.00 (J)  S = 0.00 (J/K)  V = 0.00 (cc)  Cp = 0.00 (J/K)  
+
+Summary of all fractionated phases: (total mass = 0.00 grams)
+
+Viscosity of the System: 1.42 (log 10 poise)
+
+System           mass = 100.36 (gm)  density = 2.64 (gm/cc)
+                 G = -1699374.50 (J)  H = -1212464.77 (J)  S = 290.15 (J/K)  V = 37.95 (cc)  Cp = 153.18 (J/K)  
+
+**********----------**********
+Title: dummy
+
+T = 1400.00 (C)  P = 1.000 (kbars)  log(10) f O2 = -7.35  delta HM = -6.58  NNO = -1.81  QFM = -1.10  COH = 1.26  IW = 2.22
+
+Constraint Flags: Fractionate Solids  
+
+Liquid           mass = 100.36 (gm)  density = 2.65 (gm/cc)  viscosity = 1.44 (log 10 poise)     (analysis in wt %)
+ 		G = -1697924.91 (J)  H = -1213230.67 (J)  S = 289.69 (J/K)  V = 37.93 (cc)  Cp = 153.18 (J/K)  
+        SiO2   TiO2  Al2O3  Fe2O3  Cr2O3    FeO    MnO    MgO    NiO    CoO    CaO   Na2O    K2O   P2O5    H2O    CO2    SO3 Cl2O-1  F2O-1
+       48.50   1.01  17.58   0.89   0.04   7.56   0.00   9.07   0.00   0.00  12.41   2.64   0.03   0.08   0.20   0.00   0.00   0.00   0.00
+
+Total solids     mass = 0.00 (gm)  density = 0.00 (gm/cc)
+                 G = 0.00 (J)  H = 0.00 (J)  S = 0.00 (J/K)  V = 0.00 (cc)  Cp = 0.00 (J/K)  
+
+Summary of all fractionated phases: (total mass = 0.00 grams)
+
+Viscosity of the System: 1.44 (log 10 poise)
+
+System           mass = 100.36 (gm)  density = 2.65 (gm/cc)
+                 G = -1697924.91 (J)  H = -1213230.67 (J)  S = 289.69 (J/K)  V = 37.93 (cc)  Cp = 153.18 (J/K)  
+
+**********----------**********
+Title: dummy
+
+T = 1395.00 (C)  P = 1.000 (kbars)  log(10) f O2 = -7.40  delta HM = -6.58  NNO = -1.81  QFM = -1.10  COH = 1.25  IW = 2.22
+
+Constraint Flags: Fractionate Solids  
+
+Liquid           mass = 100.36 (gm)  density = 2.65 (gm/cc)  viscosity = 1.45 (log 10 poise)     (analysis in wt %)
+ 		G = -1696477.61 (J)  H = -1213996.58 (J)  S = 289.23 (J/K)  V = 37.92 (cc)  Cp = 153.18 (J/K)  
+        SiO2   TiO2  Al2O3  Fe2O3  Cr2O3    FeO    MnO    MgO    NiO    CoO    CaO   Na2O    K2O   P2O5    H2O    CO2    SO3 Cl2O-1  F2O-1
+       48.50   1.01  17.58   0.89   0.04   7.56   0.00   9.07   0.00   0.00  12.41   2.64   0.03   0.08   0.20   0.00   0.00   0.00   0.00
+
+Total solids     mass = 0.00 (gm)  density = 0.00 (gm/cc)
+                 G = 0.00 (J)  H = 0.00 (J)  S = 0.00 (J/K)  V = 0.00 (cc)  Cp = 0.00 (J/K)  
+
+Summary of all fractionated phases: (total mass = 0.00 grams)
+
+Viscosity of the System: 1.45 (log 10 poise)
+
+System           mass = 100.36 (gm)  density = 2.65 (gm/cc)
+                 G = -1696477.61 (J)  H = -1213996.58 (J)  S = 289.23 (J/K)  V = 37.92 (cc)  Cp = 153.18 (J/K)  
+
+**********----------**********
+Title: dummy
+
+T = 1390.00 (C)  P = 1.000 (kbars)  log(10) f O2 = -7.44  delta HM = -6.58  NNO = -1.81  QFM = -1.10  COH = 1.25  IW = 2.22
+
+Constraint Flags: Fractionate Solids  
+
+Liquid           mass = 100.36 (gm)  density = 2.65 (gm/cc)  viscosity = 1.47 (log 10 poise)     (analysis in wt %)
+ 		G = -1695032.60 (J)  H = -1214762.48 (J)  S = 288.77 (J/K)  V = 37.91 (cc)  Cp = 153.18 (J/K)  
+        SiO2   TiO2  Al2O3  Fe2O3  Cr2O3    FeO    MnO    MgO    NiO    CoO    CaO   Na2O    K2O   P2O5    H2O    CO2    SO3 Cl2O-1  F2O-1
+       48.50   1.01  17.58   0.89   0.04   7.56   0.00   9.07   0.00   0.00  12.41   2.64   0.03   0.08   0.20   0.00   0.00   0.00   0.00
+
+Total solids     mass = 0.00 (gm)  density = 0.00 (gm/cc)
+                 G = 0.00 (J)  H = 0.00 (J)  S = 0.00 (J/K)  V = 0.00 (cc)  Cp = 0.00 (J/K)  
+
+Summary of all fractionated phases: (total mass = 0.00 grams)
+
+Viscosity of the System: 1.47 (log 10 poise)
+
+System           mass = 100.36 (gm)  density = 2.65 (gm/cc)
+                 G = -1695032.60 (J)  H = -1214762.48 (J)  S = 288.77 (J/K)  V = 37.91 (cc)  Cp = 153.18 (J/K)  
+
+**********----------**********
+Title: dummy
+
+T = 1385.00 (C)  P = 1.000 (kbars)  log(10) f O2 = -7.49  delta HM = -6.59  NNO = -1.81  QFM = -1.10  COH = 1.24  IW = 2.22
+
+Constraint Flags: Fractionate Solids  
+
+Liquid           mass = 100.36 (gm)  density = 2.65 (gm/cc)  viscosity = 1.49 (log 10 poise)     (analysis in wt %)
+ 		G = -1693589.90 (J)  H = -1215528.38 (J)  S = 288.31 (J/K)  V = 37.89 (cc)  Cp = 153.18 (J/K)  
+        SiO2   TiO2  Al2O3  Fe2O3  Cr2O3    FeO    MnO    MgO    NiO    CoO    CaO   Na2O    K2O   P2O5    H2O    CO2    SO3 Cl2O-1  F2O-1
+       48.50   1.01  17.58   0.89   0.04   7.56   0.00   9.07   0.00   0.00  12.41   2.64   0.03   0.08   0.20   0.00   0.00   0.00   0.00
+
+Total solids     mass = 0.00 (gm)  density = 0.00 (gm/cc)
+                 G = 0.00 (J)  H = 0.00 (J)  S = 0.00 (J/K)  V = 0.00 (cc)  Cp = 0.00 (J/K)  
+
+Summary of all fractionated phases: (total mass = 0.00 grams)
+
+Viscosity of the System: 1.49 (log 10 poise)
+
+System           mass = 100.36 (gm)  density = 2.65 (gm/cc)
+                 G = -1693589.90 (J)  H = -1215528.38 (J)  S = 288.31 (J/K)  V = 37.89 (cc)  Cp = 153.18 (J/K)  
+
+**********----------**********
+Title: dummy
+
+T = 1380.00 (C)  P = 1.000 (kbars)  log(10) f O2 = -7.54  delta HM = -6.59  NNO = -1.81  QFM = -1.11  COH = 1.24  IW = 2.23
+
+Constraint Flags: Fractionate Solids  
+
+Liquid           mass = 100.36 (gm)  density = 2.65 (gm/cc)  viscosity = 1.50 (log 10 poise)     (analysis in wt %)
+ 		G = -1692149.50 (J)  H = -1216294.27 (J)  S = 287.85 (J/K)  V = 37.88 (cc)  Cp = 153.18 (J/K)  
+        SiO2   TiO2  Al2O3  Fe2O3  Cr2O3    FeO    MnO    MgO    NiO    CoO    CaO   Na2O    K2O   P2O5    H2O    CO2    SO3 Cl2O-1  F2O-1
+       48.50   1.01  17.58   0.89   0.04   7.56   0.00   9.07   0.00   0.00  12.41   2.64   0.03   0.08   0.20   0.00   0.00   0.00   0.00
+
+Total solids     mass = 0.00 (gm)  density = 0.00 (gm/cc)
+                 G = 0.00 (J)  H = 0.00 (J)  S = 0.00 (J/K)  V = 0.00 (cc)  Cp = 0.00 (J/K)  
+
+Summary of all fractionated phases: (total mass = 0.00 grams)
+
+Viscosity of the System: 1.50 (log 10 poise)
+
+System           mass = 100.36 (gm)  density = 2.65 (gm/cc)
+                 G = -1692149.50 (J)  H = -1216294.27 (J)  S = 287.85 (J/K)  V = 37.88 (cc)  Cp = 153.18 (J/K)  
+
+**********----------**********
+Title: dummy
+
+T = 1375.00 (C)  P = 1.000 (kbars)  log(10) f O2 = -7.58  delta HM = -6.59  NNO = -1.82  QFM = -1.11  COH = 1.23  IW = 2.23
+
+Constraint Flags: Fractionate Solids  
+
+Liquid           mass = 100.36 (gm)  density = 2.65 (gm/cc)  viscosity = 1.52 (log 10 poise)     (analysis in wt %)
+ 		G = -1690711.42 (J)  H = -1217060.17 (J)  S = 287.38 (J/K)  V = 37.86 (cc)  Cp = 153.18 (J/K)  
+        SiO2   TiO2  Al2O3  Fe2O3  Cr2O3    FeO    MnO    MgO    NiO    CoO    CaO   Na2O    K2O   P2O5    H2O    CO2    SO3 Cl2O-1  F2O-1
+       48.50   1.01  17.58   0.89   0.04   7.56   0.00   9.07   0.00   0.00  12.41   2.64   0.03   0.08   0.20   0.00   0.00   0.00   0.00
+
+Total solids     mass = 0.00 (gm)  density = 0.00 (gm/cc)
+                 G = 0.00 (J)  H = 0.00 (J)  S = 0.00 (J/K)  V = 0.00 (cc)  Cp = 0.00 (J/K)  
+
+Summary of all fractionated phases: (total mass = 0.00 grams)
+
+Viscosity of the System: 1.52 (log 10 poise)
+
+System           mass = 100.36 (gm)  density = 2.65 (gm/cc)
+                 G = -1690711.42 (J)  H = -1217060.17 (J)  S = 287.38 (J/K)  V = 37.86 (cc)  Cp = 153.18 (J/K)  
+
+**********----------**********
+Title: dummy
+
+T = 1370.00 (C)  P = 1.000 (kbars)  log(10) f O2 = -7.63  delta HM = -6.60  NNO = -1.82  QFM = -1.11  COH = 1.22  IW = 2.23
+
+Constraint Flags: Fractionate Solids  
+
+Liquid           mass = 100.36 (gm)  density = 2.65 (gm/cc)  viscosity = 1.54 (log 10 poise)     (analysis in wt %)
+ 		G = -1689275.67 (J)  H = -1217826.06 (J)  S = 286.92 (J/K)  V = 37.85 (cc)  Cp = 153.18 (J/K)  
+        SiO2   TiO2  Al2O3  Fe2O3  Cr2O3    FeO    MnO    MgO    NiO    CoO    CaO   Na2O    K2O   P2O5    H2O    CO2    SO3 Cl2O-1  F2O-1
+       48.50   1.01  17.58   0.89   0.04   7.56   0.00   9.07   0.00   0.00  12.41   2.64   0.03   0.08   0.20   0.00   0.00   0.00   0.00
+
+Total solids     mass = 0.00 (gm)  density = 0.00 (gm/cc)
+                 G = 0.00 (J)  H = 0.00 (J)  S = 0.00 (J/K)  V = 0.00 (cc)  Cp = 0.00 (J/K)  
+
+Summary of all fractionated phases: (total mass = 0.00 grams)
+
+Viscosity of the System: 1.54 (log 10 poise)
+
+System           mass = 100.36 (gm)  density = 2.65 (gm/cc)
+                 G = -1689275.67 (J)  H = -1217826.06 (J)  S = 286.92 (J/K)  V = 37.85 (cc)  Cp = 153.18 (J/K)  
+
+**********----------**********
+Title: dummy
+
+T = 1365.00 (C)  P = 1.000 (kbars)  log(10) f O2 = -7.68  delta HM = -6.60  NNO = -1.82  QFM = -1.11  COH = 1.22  IW = 2.23
+
+Constraint Flags: Fractionate Solids  
+
+Liquid           mass = 100.36 (gm)  density = 2.65 (gm/cc)  viscosity = 1.56 (log 10 poise)     (analysis in wt %)
+ 		G = -1687842.24 (J)  H = -1218591.96 (J)  S = 286.45 (J/K)  V = 37.84 (cc)  Cp = 153.18 (J/K)  
+        SiO2   TiO2  Al2O3  Fe2O3  Cr2O3    FeO    MnO    MgO    NiO    CoO    CaO   Na2O    K2O   P2O5    H2O    CO2    SO3 Cl2O-1  F2O-1
+       48.50   1.01  17.58   0.89   0.04   7.56   0.00   9.07   0.00   0.00  12.41   2.64   0.03   0.08   0.20   0.00   0.00   0.00   0.00
+
+Total solids     mass = 0.00 (gm)  density = 0.00 (gm/cc)
+                 G = 0.00 (J)  H = 0.00 (J)  S = 0.00 (J/K)  V = 0.00 (cc)  Cp = 0.00 (J/K)  
+
+Summary of all fractionated phases: (total mass = 0.00 grams)
+
+Viscosity of the System: 1.56 (log 10 poise)
+
+System           mass = 100.36 (gm)  density = 2.65 (gm/cc)
+                 G = -1687842.24 (J)  H = -1218591.96 (J)  S = 286.45 (J/K)  V = 37.84 (cc)  Cp = 153.18 (J/K)  
+
+**********----------**********
+Title: dummy
+
+T = 1360.00 (C)  P = 1.000 (kbars)  log(10) f O2 = -7.72  delta HM = -6.60  NNO = -1.82  QFM = -1.12  COH = 1.21  IW = 2.24
+
+Constraint Flags: Fractionate Solids  
+
+Liquid           mass = 100.36 (gm)  density = 2.65 (gm/cc)  viscosity = 1.57 (log 10 poise)     (analysis in wt %)
+ 		G = -1686411.16 (J)  H = -1219357.85 (J)  S = 285.98 (J/K)  V = 37.82 (cc)  Cp = 153.18 (J/K)  
+        SiO2   TiO2  Al2O3  Fe2O3  Cr2O3    FeO    MnO    MgO    NiO    CoO    CaO   Na2O    K2O   P2O5    H2O    CO2    SO3 Cl2O-1  F2O-1
+       48.50   1.01  17.58   0.89   0.04   7.56   0.00   9.07   0.00   0.00  12.41   2.64   0.03   0.08   0.20   0.00   0.00   0.00   0.00
+
+Total solids     mass = 0.00 (gm)  density = 0.00 (gm/cc)
+                 G = 0.00 (J)  H = 0.00 (J)  S = 0.00 (J/K)  V = 0.00 (cc)  Cp = 0.00 (J/K)  
+
+Summary of all fractionated phases: (total mass = 0.00 grams)
+
+Viscosity of the System: 1.57 (log 10 poise)
+
+System           mass = 100.36 (gm)  density = 2.65 (gm/cc)
+                 G = -1686411.16 (J)  H = -1219357.85 (J)  S = 285.98 (J/K)  V = 37.82 (cc)  Cp = 153.18 (J/K)  
+
+**********----------**********
+Title: dummy
+
+T = 1355.00 (C)  P = 1.000 (kbars)  log(10) f O2 = -7.77  delta HM = -6.61  NNO = -1.82  QFM = -1.12  COH = 1.20  IW = 2.24
+
+Constraint Flags: Fractionate Solids  
+
+Liquid           mass = 100.36 (gm)  density = 2.65 (gm/cc)  viscosity = 1.59 (log 10 poise)     (analysis in wt %)
+ 		G = -1684982.42 (J)  H = -1220123.74 (J)  S = 285.51 (J/K)  V = 37.81 (cc)  Cp = 153.18 (J/K)  
+        SiO2   TiO2  Al2O3  Fe2O3  Cr2O3    FeO    MnO    MgO    NiO    CoO    CaO   Na2O    K2O   P2O5    H2O    CO2    SO3 Cl2O-1  F2O-1
+       48.50   1.01  17.58   0.89   0.04   7.56   0.00   9.07   0.00   0.00  12.41   2.64   0.03   0.08   0.20   0.00   0.00   0.00   0.00
+
+Total solids     mass = 0.00 (gm)  density = 0.00 (gm/cc)
+                 G = 0.00 (J)  H = 0.00 (J)  S = 0.00 (J/K)  V = 0.00 (cc)  Cp = 0.00 (J/K)  
+
+Summary of all fractionated phases: (total mass = 0.00 grams)
+
+Viscosity of the System: 1.59 (log 10 poise)
+
+System           mass = 100.36 (gm)  density = 2.65 (gm/cc)
+                 G = -1684982.42 (J)  H = -1220123.74 (J)  S = 285.51 (J/K)  V = 37.81 (cc)  Cp = 153.18 (J/K)  
+
+**********----------**********
+Title: dummy
+
+T = 1350.00 (C)  P = 1.000 (kbars)  log(10) f O2 = -7.82  delta HM = -6.61  NNO = -1.82  QFM = -1.12  COH = 1.20  IW = 2.24
+
+Constraint Flags: Fractionate Solids  
+
+Liquid           mass = 100.36 (gm)  density = 2.66 (gm/cc)  viscosity = 1.61 (log 10 poise)     (analysis in wt %)
+ 		G = -1683556.03 (J)  H = -1220889.62 (J)  S = 285.04 (J/K)  V = 37.80 (cc)  Cp = 153.18 (J/K)  
+        SiO2   TiO2  Al2O3  Fe2O3  Cr2O3    FeO    MnO    MgO    NiO    CoO    CaO   Na2O    K2O   P2O5    H2O    CO2    SO3 Cl2O-1  F2O-1
+       48.50   1.01  17.58   0.89   0.04   7.56   0.00   9.07   0.00   0.00  12.41   2.64   0.03   0.08   0.20   0.00   0.00   0.00   0.00
+
+Total solids     mass = 0.00 (gm)  density = 0.00 (gm/cc)
+                 G = 0.00 (J)  H = 0.00 (J)  S = 0.00 (J/K)  V = 0.00 (cc)  Cp = 0.00 (J/K)  
+
+Summary of all fractionated phases: (total mass = 0.00 grams)
+
+Viscosity of the System: 1.61 (log 10 poise)
+
+System           mass = 100.36 (gm)  density = 2.66 (gm/cc)
+                 G = -1683556.03 (J)  H = -1220889.62 (J)  S = 285.04 (J/K)  V = 37.80 (cc)  Cp = 153.18 (J/K)  
+
+**********----------**********
+Title: dummy
+
+T = 1345.00 (C)  P = 1.000 (kbars)  log(10) f O2 = -7.87  delta HM = -6.61  NNO = -1.82  QFM = -1.12  COH = 1.19  IW = 2.24
+
+Constraint Flags: Fractionate Solids  
+
+Liquid           mass = 100.36 (gm)  density = 2.66 (gm/cc)  viscosity = 1.63 (log 10 poise)     (analysis in wt %)
+ 		G = -1682132.00 (J)  H = -1221655.51 (J)  S = 284.57 (J/K)  V = 37.78 (cc)  Cp = 153.18 (J/K)  
+        SiO2   TiO2  Al2O3  Fe2O3  Cr2O3    FeO    MnO    MgO    NiO    CoO    CaO   Na2O    K2O   P2O5    H2O    CO2    SO3 Cl2O-1  F2O-1
+       48.50   1.01  17.58   0.89   0.04   7.56   0.00   9.07   0.00   0.00  12.41   2.64   0.03   0.08   0.20   0.00   0.00   0.00   0.00
+
+Total solids     mass = 0.00 (gm)  density = 0.00 (gm/cc)
+                 G = 0.00 (J)  H = 0.00 (J)  S = 0.00 (J/K)  V = 0.00 (cc)  Cp = 0.00 (J/K)  
+
+Summary of all fractionated phases: (total mass = 0.00 grams)
+
+Viscosity of the System: 1.63 (log 10 poise)
+
+System           mass = 100.36 (gm)  density = 2.66 (gm/cc)
+                 G = -1682132.00 (J)  H = -1221655.51 (J)  S = 284.57 (J/K)  V = 37.78 (cc)  Cp = 153.18 (J/K)  
+
+**********----------**********
+Title: dummy
+
+T = 1340.00 (C)  P = 1.000 (kbars)  log(10) f O2 = -7.92  delta HM = -6.62  NNO = -1.83  QFM = -1.13  COH = 1.18  IW = 2.24
+
+Constraint Flags: Fractionate Solids  
+
+Liquid           mass = 100.36 (gm)  density = 2.66 (gm/cc)  viscosity = 1.65 (log 10 poise)     (analysis in wt %)
+ 		G = -1680710.33 (J)  H = -1222421.39 (J)  S = 284.10 (J/K)  V = 37.77 (cc)  Cp = 153.18 (J/K)  
+        SiO2   TiO2  Al2O3  Fe2O3  Cr2O3    FeO    MnO    MgO    NiO    CoO    CaO   Na2O    K2O   P2O5    H2O    CO2    SO3 Cl2O-1  F2O-1
+       48.50   1.01  17.58   0.89   0.04   7.56   0.00   9.07   0.00   0.00  12.41   2.64   0.03   0.08   0.20   0.00   0.00   0.00   0.00
+
+Total solids     mass = 0.00 (gm)  density = 0.00 (gm/cc)
+                 G = 0.00 (J)  H = 0.00 (J)  S = 0.00 (J/K)  V = 0.00 (cc)  Cp = 0.00 (J/K)  
+
+Summary of all fractionated phases: (total mass = 0.00 grams)
+
+Viscosity of the System: 1.65 (log 10 poise)
+
+System           mass = 100.36 (gm)  density = 2.66 (gm/cc)
+                 G = -1680710.33 (J)  H = -1222421.39 (J)  S = 284.10 (J/K)  V = 37.77 (cc)  Cp = 153.18 (J/K)  
+
+**********----------**********
+Title: dummy
+
+T = 1335.00 (C)  P = 1.000 (kbars)  log(10) f O2 = -7.97  delta HM = -6.62  NNO = -1.83  QFM = -1.13  COH = 1.18  IW = 2.25
+
+Constraint Flags: Fractionate Solids  
+
+Liquid           mass = 100.36 (gm)  density = 2.66 (gm/cc)  viscosity = 1.66 (log 10 poise)     (analysis in wt %)
+ 		G = -1679291.04 (J)  H = -1223187.27 (J)  S = 283.62 (J/K)  V = 37.76 (cc)  Cp = 153.18 (J/K)  
+        SiO2   TiO2  Al2O3  Fe2O3  Cr2O3    FeO    MnO    MgO    NiO    CoO    CaO   Na2O    K2O   P2O5    H2O    CO2    SO3 Cl2O-1  F2O-1
+       48.50   1.01  17.58   0.89   0.04   7.56   0.00   9.07   0.00   0.00  12.41   2.64   0.03   0.08   0.20   0.00   0.00   0.00   0.00
+
+Total solids     mass = 0.00 (gm)  density = 0.00 (gm/cc)
+                 G = 0.00 (J)  H = 0.00 (J)  S = 0.00 (J/K)  V = 0.00 (cc)  Cp = 0.00 (J/K)  
+
+Summary of all fractionated phases: (total mass = 0.00 grams)
+
+Viscosity of the System: 1.66 (log 10 poise)
+
+System           mass = 100.36 (gm)  density = 2.66 (gm/cc)
+                 G = -1679291.04 (J)  H = -1223187.27 (J)  S = 283.62 (J/K)  V = 37.76 (cc)  Cp = 153.18 (J/K)  
+
+**********----------**********
+Title: dummy
+
+T = 1330.00 (C)  P = 1.000 (kbars)  log(10) f O2 = -8.02  delta HM = -6.62  NNO = -1.83  QFM = -1.13  COH = 1.17  IW = 2.25
+
+Constraint Flags: Fractionate Solids  
+
+Liquid           mass = 100.36 (gm)  density = 2.66 (gm/cc)  viscosity = 1.68 (log 10 poise)     (analysis in wt %)
+ 		G = -1677874.13 (J)  H = -1223953.15 (J)  S = 283.14 (J/K)  V = 37.74 (cc)  Cp = 153.18 (J/K)  
+        SiO2   TiO2  Al2O3  Fe2O3  Cr2O3    FeO    MnO    MgO    NiO    CoO    CaO   Na2O    K2O   P2O5    H2O    CO2    SO3 Cl2O-1  F2O-1
+       48.50   1.01  17.58   0.89   0.04   7.56   0.00   9.07   0.00   0.00  12.41   2.64   0.03   0.08   0.20   0.00   0.00   0.00   0.00
+
+Total solids     mass = 0.00 (gm)  density = 0.00 (gm/cc)
+                 G = 0.00 (J)  H = 0.00 (J)  S = 0.00 (J/K)  V = 0.00 (cc)  Cp = 0.00 (J/K)  
+
+Summary of all fractionated phases: (total mass = 0.00 grams)
+
+Viscosity of the System: 1.68 (log 10 poise)
+
+System           mass = 100.36 (gm)  density = 2.66 (gm/cc)
+                 G = -1677874.13 (J)  H = -1223953.15 (J)  S = 283.14 (J/K)  V = 37.74 (cc)  Cp = 153.18 (J/K)  
+
+**********----------**********
+Title: dummy
+
+T = 1325.00 (C)  P = 1.000 (kbars)  log(10) f O2 = -8.07  delta HM = -6.63  NNO = -1.83  QFM = -1.14  COH = 1.16  IW = 2.25
+
+Constraint Flags: Fractionate Solids  
+
+Liquid           mass = 100.36 (gm)  density = 2.66 (gm/cc)  viscosity = 1.70 (log 10 poise)     (analysis in wt %)
+ 		G = -1676459.61 (J)  H = -1224719.03 (J)  S = 282.66 (J/K)  V = 37.73 (cc)  Cp = 153.18 (J/K)  
+        SiO2   TiO2  Al2O3  Fe2O3  Cr2O3    FeO    MnO    MgO    NiO    CoO    CaO   Na2O    K2O   P2O5    H2O    CO2    SO3 Cl2O-1  F2O-1
+       48.50   1.01  17.58   0.89   0.04   7.56   0.00   9.07   0.00   0.00  12.41   2.64   0.03   0.08   0.20   0.00   0.00   0.00   0.00
+
+Total solids     mass = 0.00 (gm)  density = 0.00 (gm/cc)
+                 G = 0.00 (J)  H = 0.00 (J)  S = 0.00 (J/K)  V = 0.00 (cc)  Cp = 0.00 (J/K)  
+
+Summary of all fractionated phases: (total mass = 0.00 grams)
+
+Viscosity of the System: 1.70 (log 10 poise)
+
+System           mass = 100.36 (gm)  density = 2.66 (gm/cc)
+                 G = -1676459.61 (J)  H = -1224719.03 (J)  S = 282.66 (J/K)  V = 37.73 (cc)  Cp = 153.18 (J/K)  
+
+**********----------**********
+Title: dummy
+
+T = 1320.00 (C)  P = 1.000 (kbars)  log(10) f O2 = -8.12  delta HM = -6.63  NNO = -1.83  QFM = -1.14  COH = 1.15  IW = 2.25
+
+Constraint Flags: Fractionate Solids  
+
+Liquid           mass = 100.36 (gm)  density = 2.66 (gm/cc)  viscosity = 1.72 (log 10 poise)     (analysis in wt %)
+ 		G = -1675047.49 (J)  H = -1225484.90 (J)  S = 282.18 (J/K)  V = 37.71 (cc)  Cp = 153.17 (J/K)  
+        SiO2   TiO2  Al2O3  Fe2O3  Cr2O3    FeO    MnO    MgO    NiO    CoO    CaO   Na2O    K2O   P2O5    H2O    CO2    SO3 Cl2O-1  F2O-1
+       48.50   1.01  17.58   0.89   0.04   7.56   0.00   9.07   0.00   0.00  12.41   2.64   0.03   0.08   0.20   0.00   0.00   0.00   0.00
+
+Total solids     mass = 0.00 (gm)  density = 0.00 (gm/cc)
+                 G = 0.00 (J)  H = 0.00 (J)  S = 0.00 (J/K)  V = 0.00 (cc)  Cp = 0.00 (J/K)  
+
+Summary of all fractionated phases: (total mass = 0.00 grams)
+
+Viscosity of the System: 1.72 (log 10 poise)
+
+System           mass = 100.36 (gm)  density = 2.66 (gm/cc)
+                 G = -1675047.49 (J)  H = -1225484.90 (J)  S = 282.18 (J/K)  V = 37.71 (cc)  Cp = 153.17 (J/K)  
+
+**********----------**********
+Title: dummy
+
+T = 1315.00 (C)  P = 1.000 (kbars)  log(10) f O2 = -8.17  delta HM = -6.64  NNO = -1.84  QFM = -1.14  COH = 1.15  IW = 2.25
+
+Constraint Flags: Fractionate Solids  
+
+Liquid           mass = 100.36 (gm)  density = 2.66 (gm/cc)  viscosity = 1.74 (log 10 poise)     (analysis in wt %)
+ 		G = -1673637.77 (J)  H = -1226250.77 (J)  S = 281.70 (J/K)  V = 37.70 (cc)  Cp = 153.17 (J/K)  
+        SiO2   TiO2  Al2O3  Fe2O3  Cr2O3    FeO    MnO    MgO    NiO    CoO    CaO   Na2O    K2O   P2O5    H2O    CO2    SO3 Cl2O-1  F2O-1
+       48.50   1.01  17.58   0.89   0.04   7.56   0.00   9.07   0.00   0.00  12.41   2.64   0.03   0.08   0.20   0.00   0.00   0.00   0.00
+
+Total solids     mass = 0.00 (gm)  density = 0.00 (gm/cc)
+                 G = 0.00 (J)  H = 0.00 (J)  S = 0.00 (J/K)  V = 0.00 (cc)  Cp = 0.00 (J/K)  
+
+Summary of all fractionated phases: (total mass = 0.00 grams)
+
+Viscosity of the System: 1.74 (log 10 poise)
+
+System           mass = 100.36 (gm)  density = 2.66 (gm/cc)
+                 G = -1673637.77 (J)  H = -1226250.77 (J)  S = 281.70 (J/K)  V = 37.70 (cc)  Cp = 153.17 (J/K)  
+
+**********----------**********
+Title: dummy
+
+T = 1310.00 (C)  P = 1.000 (kbars)  log(10) f O2 = -8.22  delta HM = -6.64  NNO = -1.84  QFM = -1.15  COH = 1.14  IW = 2.25
+
+Constraint Flags: Fractionate Solids  
+
+Liquid           mass = 100.36 (gm)  density = 2.66 (gm/cc)  viscosity = 1.76 (log 10 poise)     (analysis in wt %)
+ 		G = -1672230.46 (J)  H = -1227016.65 (J)  S = 281.22 (J/K)  V = 37.69 (cc)  Cp = 153.17 (J/K)  
+        SiO2   TiO2  Al2O3  Fe2O3  Cr2O3    FeO    MnO    MgO    NiO    CoO    CaO   Na2O    K2O   P2O5    H2O    CO2    SO3 Cl2O-1  F2O-1
+       48.50   1.01  17.58   0.89   0.04   7.56   0.00   9.07   0.00   0.00  12.41   2.64   0.03   0.08   0.20   0.00   0.00   0.00   0.00
+
+Total solids     mass = 0.00 (gm)  density = 0.00 (gm/cc)
+                 G = 0.00 (J)  H = 0.00 (J)  S = 0.00 (J/K)  V = 0.00 (cc)  Cp = 0.00 (J/K)  
+
+Summary of all fractionated phases: (total mass = 0.00 grams)
+
+Viscosity of the System: 1.76 (log 10 poise)
+
+System           mass = 100.36 (gm)  density = 2.66 (gm/cc)
+                 G = -1672230.46 (J)  H = -1227016.65 (J)  S = 281.22 (J/K)  V = 37.69 (cc)  Cp = 153.17 (J/K)  
+
+**********----------**********
+Title: dummy
+
+T = 1305.00 (C)  P = 1.000 (kbars)  log(10) f O2 = -8.28  delta HM = -6.65  NNO = -1.84  QFM = -1.15  COH = 1.13  IW = 2.26
+
+Constraint Flags: Fractionate Solids  
+
+Liquid           mass = 100.36 (gm)  density = 2.66 (gm/cc)  viscosity = 1.77 (log 10 poise)     (analysis in wt %)
+ 		G = -1670825.57 (J)  H = -1227782.51 (J)  S = 280.74 (J/K)  V = 37.67 (cc)  Cp = 153.17 (J/K)  
+        SiO2   TiO2  Al2O3  Fe2O3  Cr2O3    FeO    MnO    MgO    NiO    CoO    CaO   Na2O    K2O   P2O5    H2O    CO2    SO3 Cl2O-1  F2O-1
+       48.50   1.01  17.58   0.89   0.04   7.56   0.00   9.07   0.00   0.00  12.41   2.64   0.03   0.08   0.20   0.00   0.00   0.00   0.00
+
+Total solids     mass = 0.00 (gm)  density = 0.00 (gm/cc)
+                 G = 0.00 (J)  H = 0.00 (J)  S = 0.00 (J/K)  V = 0.00 (cc)  Cp = 0.00 (J/K)  
+
+Summary of all fractionated phases: (total mass = 0.00 grams)
+
+Viscosity of the System: 1.77 (log 10 poise)
+
+System           mass = 100.36 (gm)  density = 2.66 (gm/cc)
+                 G = -1670825.57 (J)  H = -1227782.51 (J)  S = 280.74 (J/K)  V = 37.67 (cc)  Cp = 153.17 (J/K)  
+
+**********----------**********
+Title: dummy
+
+T = 1300.00 (C)  P = 1.000 (kbars)  log(10) f O2 = -8.33  delta HM = -6.65  NNO = -1.84  QFM = -1.15  COH = 1.12  IW = 2.26
+
+Constraint Flags: Fractionate Solids  
+
+Liquid           mass = 100.36 (gm)  density = 2.66 (gm/cc)  viscosity = 1.79 (log 10 poise)     (analysis in wt %)
+ 		G = -1669423.10 (J)  H = -1228548.38 (J)  S = 280.25 (J/K)  V = 37.66 (cc)  Cp = 153.17 (J/K)  
+        SiO2   TiO2  Al2O3  Fe2O3  Cr2O3    FeO    MnO    MgO    NiO    CoO    CaO   Na2O    K2O   P2O5    H2O    CO2    SO3 Cl2O-1  F2O-1
+       48.50   1.01  17.58   0.89   0.04   7.56   0.00   9.07   0.00   0.00  12.41   2.64   0.03   0.08   0.20   0.00   0.00   0.00   0.00
+
+Total solids     mass = 0.00 (gm)  density = 0.00 (gm/cc)
+                 G = 0.00 (J)  H = 0.00 (J)  S = 0.00 (J/K)  V = 0.00 (cc)  Cp = 0.00 (J/K)  
+
+Summary of all fractionated phases: (total mass = 0.00 grams)
+
+Viscosity of the System: 1.79 (log 10 poise)
+
+System           mass = 100.36 (gm)  density = 2.66 (gm/cc)
+                 G = -1669423.10 (J)  H = -1228548.38 (J)  S = 280.25 (J/K)  V = 37.66 (cc)  Cp = 153.17 (J/K)  
+
+**********----------**********
+Title: dummy
+
+T = 1295.00 (C)  P = 1.000 (kbars)  log(10) f O2 = -8.38  delta HM = -6.65  NNO = -1.84  QFM = -1.16  COH = 1.11  IW = 2.26
+
+Constraint Flags: Fractionate Solids  
+
+Liquid           mass = 100.36 (gm)  density = 2.67 (gm/cc)  viscosity = 1.81 (log 10 poise)     (analysis in wt %)
+ 		G = -1668023.07 (J)  H = -1229314.25 (J)  S = 279.76 (J/K)  V = 37.65 (cc)  Cp = 153.17 (J/K)  
+        SiO2   TiO2  Al2O3  Fe2O3  Cr2O3    FeO    MnO    MgO    NiO    CoO    CaO   Na2O    K2O   P2O5    H2O    CO2    SO3 Cl2O-1  F2O-1
+       48.50   1.01  17.58   0.89   0.04   7.56   0.00   9.07   0.00   0.00  12.41   2.64   0.03   0.08   0.20   0.00   0.00   0.00   0.00
+
+Total solids     mass = 0.00 (gm)  density = 0.00 (gm/cc)
+                 G = 0.00 (J)  H = 0.00 (J)  S = 0.00 (J/K)  V = 0.00 (cc)  Cp = 0.00 (J/K)  
+
+Summary of all fractionated phases: (total mass = 0.00 grams)
+
+Viscosity of the System: 1.81 (log 10 poise)
+
+System           mass = 100.36 (gm)  density = 2.67 (gm/cc)
+                 G = -1668023.07 (J)  H = -1229314.25 (J)  S = 279.76 (J/K)  V = 37.65 (cc)  Cp = 153.17 (J/K)  
+
+**********----------**********
+Title: dummy
+
+T = 1290.00 (C)  P = 1.000 (kbars)  log(10) f O2 = -8.44  delta HM = -6.66  NNO = -1.85  QFM = -1.16  COH = 1.11  IW = 2.26
+
+Constraint Flags: Fractionate Solids  
+
+Liquid           mass = 100.36 (gm)  density = 2.67 (gm/cc)  viscosity = 1.83 (log 10 poise)     (analysis in wt %)
+ 		G = -1666625.49 (J)  H = -1230080.11 (J)  S = 279.27 (J/K)  V = 37.63 (cc)  Cp = 153.17 (J/K)  
+        SiO2   TiO2  Al2O3  Fe2O3  Cr2O3    FeO    MnO    MgO    NiO    CoO    CaO   Na2O    K2O   P2O5    H2O    CO2    SO3 Cl2O-1  F2O-1
+       48.50   1.01  17.58   0.89   0.04   7.56   0.00   9.07   0.00   0.00  12.41   2.64   0.03   0.08   0.20   0.00   0.00   0.00   0.00
+
+Total solids     mass = 0.00 (gm)  density = 0.00 (gm/cc)
+                 G = 0.00 (J)  H = 0.00 (J)  S = 0.00 (J/K)  V = 0.00 (cc)  Cp = 0.00 (J/K)  
+
+Summary of all fractionated phases: (total mass = 0.00 grams)
+
+Viscosity of the System: 1.83 (log 10 poise)
+
+System           mass = 100.36 (gm)  density = 2.67 (gm/cc)
+                 G = -1666625.49 (J)  H = -1230080.11 (J)  S = 279.27 (J/K)  V = 37.63 (cc)  Cp = 153.17 (J/K)  
+
+**********----------**********
+Title: dummy
+
+T = 1285.00 (C)  P = 1.000 (kbars)  log(10) f O2 = -8.49  delta HM = -6.66  NNO = -1.85  QFM = -1.16  COH = 1.10  IW = 2.26
+
+Constraint Flags: Fractionate Solids  
+
+Liquid           mass = 100.36 (gm)  density = 2.67 (gm/cc)  viscosity = 1.85 (log 10 poise)     (analysis in wt %)
+ 		G = -1665230.35 (J)  H = -1230845.97 (J)  S = 278.78 (J/K)  V = 37.62 (cc)  Cp = 153.17 (J/K)  
+        SiO2   TiO2  Al2O3  Fe2O3  Cr2O3    FeO    MnO    MgO    NiO    CoO    CaO   Na2O    K2O   P2O5    H2O    CO2    SO3 Cl2O-1  F2O-1
+       48.50   1.01  17.58   0.89   0.04   7.56   0.00   9.07   0.00   0.00  12.41   2.64   0.03   0.08   0.20   0.00   0.00   0.00   0.00
+
+Total solids     mass = 0.00 (gm)  density = 0.00 (gm/cc)
+                 G = 0.00 (J)  H = 0.00 (J)  S = 0.00 (J/K)  V = 0.00 (cc)  Cp = 0.00 (J/K)  
+
+Summary of all fractionated phases: (total mass = 0.00 grams)
+
+Viscosity of the System: 1.85 (log 10 poise)
+
+System           mass = 100.36 (gm)  density = 2.67 (gm/cc)
+                 G = -1665230.35 (J)  H = -1230845.97 (J)  S = 278.78 (J/K)  V = 37.62 (cc)  Cp = 153.17 (J/K)  
+
+**********----------**********
+Title: dummy
+
+T = 1280.00 (C)  P = 1.000 (kbars)  log(10) f O2 = -8.54  delta HM = -6.67  NNO = -1.85  QFM = -1.17  COH = 1.09  IW = 2.26
+
+Constraint Flags: Fractionate Solids  
+
+Liquid           mass = 100.36 (gm)  density = 2.67 (gm/cc)  viscosity = 1.87 (log 10 poise)     (analysis in wt %)
+ 		G = -1663837.67 (J)  H = -1231611.83 (J)  S = 278.29 (J/K)  V = 37.60 (cc)  Cp = 153.17 (J/K)  
+        SiO2   TiO2  Al2O3  Fe2O3  Cr2O3    FeO    MnO    MgO    NiO    CoO    CaO   Na2O    K2O   P2O5    H2O    CO2    SO3 Cl2O-1  F2O-1
+       48.50   1.01  17.58   0.89   0.04   7.56   0.00   9.07   0.00   0.00  12.41   2.64   0.03   0.08   0.20   0.00   0.00   0.00   0.00
+
+Total solids     mass = 0.00 (gm)  density = 0.00 (gm/cc)
+                 G = 0.00 (J)  H = 0.00 (J)  S = 0.00 (J/K)  V = 0.00 (cc)  Cp = 0.00 (J/K)  
+
+Summary of all fractionated phases: (total mass = 0.00 grams)
+
+Viscosity of the System: 1.87 (log 10 poise)
+
+System           mass = 100.36 (gm)  density = 2.67 (gm/cc)
+                 G = -1663837.67 (J)  H = -1231611.83 (J)  S = 278.29 (J/K)  V = 37.60 (cc)  Cp = 153.17 (J/K)  
+
+**********----------**********
+Title: dummy
+
+T = 1275.00 (C)  P = 1.000 (kbars)  log(10) f O2 = -8.60  delta HM = -6.67  NNO = -1.86  QFM = -1.17  COH = 1.08  IW = 2.26
+
+Constraint Flags: Fractionate Solids  
+
+Liquid           mass = 100.36 (gm)  density = 2.67 (gm/cc)  viscosity = 1.89 (log 10 poise)     (analysis in wt %)
+ 		G = -1662447.45 (J)  H = -1232377.69 (J)  S = 277.80 (J/K)  V = 37.59 (cc)  Cp = 153.17 (J/K)  
+        SiO2   TiO2  Al2O3  Fe2O3  Cr2O3    FeO    MnO    MgO    NiO    CoO    CaO   Na2O    K2O   P2O5    H2O    CO2    SO3 Cl2O-1  F2O-1
+       48.50   1.01  17.58   0.89   0.04   7.56   0.00   9.07   0.00   0.00  12.41   2.64   0.03   0.08   0.20   0.00   0.00   0.00   0.00
+
+Total solids     mass = 0.00 (gm)  density = 0.00 (gm/cc)
+                 G = 0.00 (J)  H = 0.00 (J)  S = 0.00 (J/K)  V = 0.00 (cc)  Cp = 0.00 (J/K)  
+
+Summary of all fractionated phases: (total mass = 0.00 grams)
+
+Viscosity of the System: 1.89 (log 10 poise)
+
+System           mass = 100.36 (gm)  density = 2.67 (gm/cc)
+                 G = -1662447.45 (J)  H = -1232377.69 (J)  S = 277.80 (J/K)  V = 37.59 (cc)  Cp = 153.17 (J/K)  
+
+**********----------**********
+Title: dummy
+
+T = 1270.00 (C)  P = 1.000 (kbars)  log(10) f O2 = -8.65  delta HM = -6.68  NNO = -1.86  QFM = -1.18  COH = 1.07  IW = 2.27
+
+Constraint Flags: Fractionate Solids  
+
+Liquid           mass = 100.36 (gm)  density = 2.67 (gm/cc)  viscosity = 1.91 (log 10 poise)     (analysis in wt %)
+ 		G = -1661059.71 (J)  H = -1233143.55 (J)  S = 277.30 (J/K)  V = 37.58 (cc)  Cp = 153.17 (J/K)  
+        SiO2   TiO2  Al2O3  Fe2O3  Cr2O3    FeO    MnO    MgO    NiO    CoO    CaO   Na2O    K2O   P2O5    H2O    CO2    SO3 Cl2O-1  F2O-1
+       48.50   1.01  17.58   0.89   0.04   7.56   0.00   9.07   0.00   0.00  12.41   2.64   0.03   0.08   0.20   0.00   0.00   0.00   0.00
+
+Total solids     mass = 0.00 (gm)  density = 0.00 (gm/cc)
+                 G = 0.00 (J)  H = 0.00 (J)  S = 0.00 (J/K)  V = 0.00 (cc)  Cp = 0.00 (J/K)  
+
+Summary of all fractionated phases: (total mass = 0.00 grams)
+
+Viscosity of the System: 1.91 (log 10 poise)
+
+System           mass = 100.36 (gm)  density = 2.67 (gm/cc)
+                 G = -1661059.71 (J)  H = -1233143.55 (J)  S = 277.30 (J/K)  V = 37.58 (cc)  Cp = 153.17 (J/K)  
+
+**********----------**********
+Title: dummy
+
+T = 1265.00 (C)  P = 1.000 (kbars)  log(10) f O2 = -8.71  delta HM = -6.68  NNO = -1.86  QFM = -1.18  COH = 1.06  IW = 2.27
+
+Constraint Flags: Fractionate Solids  
+
+Liquid           mass = 100.36 (gm)  density = 2.67 (gm/cc)  viscosity = 1.93 (log 10 poise)     (analysis in wt %)
+ 		G = -1659674.45 (J)  H = -1233909.40 (J)  S = 276.80 (J/K)  V = 37.56 (cc)  Cp = 153.17 (J/K)  
+        SiO2   TiO2  Al2O3  Fe2O3  Cr2O3    FeO    MnO    MgO    NiO    CoO    CaO   Na2O    K2O   P2O5    H2O    CO2    SO3 Cl2O-1  F2O-1
+       48.50   1.01  17.58   0.89   0.04   7.56   0.00   9.07   0.00   0.00  12.41   2.64   0.03   0.08   0.20   0.00   0.00   0.00   0.00
+
+Total solids     mass = 0.00 (gm)  density = 0.00 (gm/cc)
+                 G = 0.00 (J)  H = 0.00 (J)  S = 0.00 (J/K)  V = 0.00 (cc)  Cp = 0.00 (J/K)  
+
+Summary of all fractionated phases: (total mass = 0.00 grams)
+
+Viscosity of the System: 1.93 (log 10 poise)
+
+System           mass = 100.36 (gm)  density = 2.67 (gm/cc)
+                 G = -1659674.45 (J)  H = -1233909.40 (J)  S = 276.80 (J/K)  V = 37.56 (cc)  Cp = 153.17 (J/K)  
+
+**********----------**********
+Title: dummy
+
+T = 1260.00 (C)  P = 1.000 (kbars)  log(10) f O2 = -8.76  delta HM = -6.69  NNO = -1.86  QFM = -1.18  COH = 1.05  IW = 2.27
+
+Constraint Flags: Fractionate Solids  
+
+Liquid           mass = 100.36 (gm)  density = 2.67 (gm/cc)  viscosity = 1.95 (log 10 poise)     (analysis in wt %)
+ 		G = -1658291.68 (J)  H = -1234675.25 (J)  S = 276.30 (J/K)  V = 37.55 (cc)  Cp = 153.17 (J/K)  
+        SiO2   TiO2  Al2O3  Fe2O3  Cr2O3    FeO    MnO    MgO    NiO    CoO    CaO   Na2O    K2O   P2O5    H2O    CO2    SO3 Cl2O-1  F2O-1
+       48.50   1.01  17.58   0.89   0.04   7.56   0.00   9.07   0.00   0.00  12.41   2.64   0.03   0.08   0.20   0.00   0.00   0.00   0.00
+
+Total solids     mass = 0.00 (gm)  density = 0.00 (gm/cc)
+                 G = 0.00 (J)  H = 0.00 (J)  S = 0.00 (J/K)  V = 0.00 (cc)  Cp = 0.00 (J/K)  
+
+Summary of all fractionated phases: (total mass = 0.00 grams)
+
+Viscosity of the System: 1.95 (log 10 poise)
+
+System           mass = 100.36 (gm)  density = 2.67 (gm/cc)
+                 G = -1658291.68 (J)  H = -1234675.25 (J)  S = 276.30 (J/K)  V = 37.55 (cc)  Cp = 153.17 (J/K)  
+
+**********----------**********
+Title: dummy
+
+T = 1255.00 (C)  P = 1.000 (kbars)  log(10) f O2 = -8.82  delta HM = -6.70  NNO = -1.87  QFM = -1.19  COH = 1.04  IW = 2.27
+
+Constraint Flags: Fractionate Solids  
+
+Liquid           mass = 100.36 (gm)  density = 2.67 (gm/cc)  viscosity = 1.97 (log 10 poise)     (analysis in wt %)
+ 		G = -1656911.41 (J)  H = -1235441.10 (J)  S = 275.80 (J/K)  V = 37.54 (cc)  Cp = 153.17 (J/K)  
+        SiO2   TiO2  Al2O3  Fe2O3  Cr2O3    FeO    MnO    MgO    NiO    CoO    CaO   Na2O    K2O   P2O5    H2O    CO2    SO3 Cl2O-1  F2O-1
+       48.50   1.01  17.58   0.89   0.04   7.56   0.00   9.07   0.00   0.00  12.41   2.64   0.03   0.08   0.20   0.00   0.00   0.00   0.00
+
+Total solids     mass = 0.00 (gm)  density = 0.00 (gm/cc)
+                 G = 0.00 (J)  H = 0.00 (J)  S = 0.00 (J/K)  V = 0.00 (cc)  Cp = 0.00 (J/K)  
+
+Summary of all fractionated phases: (total mass = 0.00 grams)
+
+Viscosity of the System: 1.97 (log 10 poise)
+
+System           mass = 100.36 (gm)  density = 2.67 (gm/cc)
+                 G = -1656911.41 (J)  H = -1235441.10 (J)  S = 275.80 (J/K)  V = 37.54 (cc)  Cp = 153.17 (J/K)  
+
+**********----------**********
+Title: dummy
+
+T = 1250.00 (C)  P = 1.000 (kbars)  log(10) f O2 = -8.88  delta HM = -6.70  NNO = -1.87  QFM = -1.19  COH = 1.04  IW = 2.27
+
+Constraint Flags: Fractionate Solids  
+
+Liquid           mass = 100.36 (gm)  density = 2.67 (gm/cc)  viscosity = 1.99 (log 10 poise)     (analysis in wt %)
+ 		G = -1655533.64 (J)  H = -1236206.95 (J)  S = 275.30 (J/K)  V = 37.52 (cc)  Cp = 153.17 (J/K)  
+        SiO2   TiO2  Al2O3  Fe2O3  Cr2O3    FeO    MnO    MgO    NiO    CoO    CaO   Na2O    K2O   P2O5    H2O    CO2    SO3 Cl2O-1  F2O-1
+       48.50   1.01  17.58   0.89   0.04   7.56   0.00   9.07   0.00   0.00  12.41   2.64   0.03   0.08   0.20   0.00   0.00   0.00   0.00
+
+Total solids     mass = 0.00 (gm)  density = 0.00 (gm/cc)
+                 G = 0.00 (J)  H = 0.00 (J)  S = 0.00 (J/K)  V = 0.00 (cc)  Cp = 0.00 (J/K)  
+
+Summary of all fractionated phases: (total mass = 0.00 grams)
+
+Viscosity of the System: 1.99 (log 10 poise)
+
+System           mass = 100.36 (gm)  density = 2.67 (gm/cc)
+                 G = -1655533.64 (J)  H = -1236206.95 (J)  S = 275.30 (J/K)  V = 37.52 (cc)  Cp = 153.17 (J/K)  
+
+**********----------**********
+Title: dummy
+
+T = 1245.00 (C)  P = 1.000 (kbars)  log(10) f O2 = -8.94  delta HM = -6.71  NNO = -1.87  QFM = -1.20  COH = 1.03  IW = 2.27
+
+Constraint Flags: Fractionate Solids  
+
+Liquid           mass = 100.36 (gm)  density = 2.68 (gm/cc)  viscosity = 2.01 (log 10 poise)     (analysis in wt %)
+ 		G = -1654158.39 (J)  H = -1236972.80 (J)  S = 274.80 (J/K)  V = 37.51 (cc)  Cp = 153.17 (J/K)  
+        SiO2   TiO2  Al2O3  Fe2O3  Cr2O3    FeO    MnO    MgO    NiO    CoO    CaO   Na2O    K2O   P2O5    H2O    CO2    SO3 Cl2O-1  F2O-1
+       48.50   1.01  17.58   0.89   0.04   7.56   0.00   9.07   0.00   0.00  12.41   2.64   0.03   0.08   0.20   0.00   0.00   0.00   0.00
+
+Total solids     mass = 0.00 (gm)  density = 0.00 (gm/cc)
+                 G = 0.00 (J)  H = 0.00 (J)  S = 0.00 (J/K)  V = 0.00 (cc)  Cp = 0.00 (J/K)  
+
+Summary of all fractionated phases: (total mass = 0.00 grams)
+
+Viscosity of the System: 2.01 (log 10 poise)
+
+System           mass = 100.36 (gm)  density = 2.68 (gm/cc)
+                 G = -1654158.39 (J)  H = -1236972.80 (J)  S = 274.80 (J/K)  V = 37.51 (cc)  Cp = 153.17 (J/K)  
+
+**********----------**********
+Title: dummy
+
+T = 1240.00 (C)  P = 1.000 (kbars)  log(10) f O2 = -8.99  delta HM = -6.71  NNO = -1.88  QFM = -1.20  COH = 1.02  IW = 2.27
+
+Constraint Flags: Fractionate Solids  
+
+Liquid           mass = 100.36 (gm)  density = 2.68 (gm/cc)  viscosity = 2.03 (log 10 poise)     (analysis in wt %)
+ 		G = -1652785.66 (J)  H = -1237738.64 (J)  S = 274.29 (J/K)  V = 37.50 (cc)  Cp = 153.17 (J/K)  
+        SiO2   TiO2  Al2O3  Fe2O3  Cr2O3    FeO    MnO    MgO    NiO    CoO    CaO   Na2O    K2O   P2O5    H2O    CO2    SO3 Cl2O-1  F2O-1
+       48.50   1.01  17.58   0.89   0.04   7.56   0.00   9.07   0.00   0.00  12.41   2.64   0.03   0.08   0.20   0.00   0.00   0.00   0.00
+
+Total solids     mass = 0.00 (gm)  density = 0.00 (gm/cc)
+                 G = 0.00 (J)  H = 0.00 (J)  S = 0.00 (J/K)  V = 0.00 (cc)  Cp = 0.00 (J/K)  
+
+Summary of all fractionated phases: (total mass = 0.00 grams)
+
+Viscosity of the System: 2.03 (log 10 poise)
+
+System           mass = 100.36 (gm)  density = 2.68 (gm/cc)
+                 G = -1652785.66 (J)  H = -1237738.64 (J)  S = 274.29 (J/K)  V = 37.50 (cc)  Cp = 153.17 (J/K)  
+
+**********----------**********
+Title: dummy
+
+T = 1235.00 (C)  P = 1.000 (kbars)  log(10) f O2 = -9.05  delta HM = -6.72  NNO = -1.88  QFM = -1.21  COH = 1.01  IW = 2.27
+
+Constraint Flags: Fractionate Solids  
+
+Liquid           mass = 100.36 (gm)  density = 2.68 (gm/cc)  viscosity = 2.05 (log 10 poise)     (analysis in wt %)
+ 		G = -1651415.46 (J)  H = -1238504.49 (J)  S = 273.79 (J/K)  V = 37.48 (cc)  Cp = 153.17 (J/K)  
+        SiO2   TiO2  Al2O3  Fe2O3  Cr2O3    FeO    MnO    MgO    NiO    CoO    CaO   Na2O    K2O   P2O5    H2O    CO2    SO3 Cl2O-1  F2O-1
+       48.50   1.01  17.58   0.89   0.04   7.56   0.00   9.07   0.00   0.00  12.41   2.64   0.03   0.08   0.20   0.00   0.00   0.00   0.00
+
+Total solids     mass = 0.00 (gm)  density = 0.00 (gm/cc)
+                 G = 0.00 (J)  H = 0.00 (J)  S = 0.00 (J/K)  V = 0.00 (cc)  Cp = 0.00 (J/K)  
+
+Summary of all fractionated phases: (total mass = 0.00 grams)
+
+Viscosity of the System: 2.05 (log 10 poise)
+
+System           mass = 100.36 (gm)  density = 2.68 (gm/cc)
+                 G = -1651415.46 (J)  H = -1238504.49 (J)  S = 273.79 (J/K)  V = 37.48 (cc)  Cp = 153.17 (J/K)  
+
+**********----------**********
+Title: dummy
+
+T = 1230.00 (C)  P = 1.000 (kbars)  log(10) f O2 = -9.11  delta HM = -6.73  NNO = -1.88  QFM = -1.21  COH = 1.00  IW = 2.27
+
+Constraint Flags: Fractionate Solids  
+
+Liquid           mass = 100.36 (gm)  density = 2.68 (gm/cc)  viscosity = 2.07 (log 10 poise)     (analysis in wt %)
+ 		G = -1650047.79 (J)  H = -1239270.33 (J)  S = 273.28 (J/K)  V = 37.47 (cc)  Cp = 153.17 (J/K)  
+        SiO2   TiO2  Al2O3  Fe2O3  Cr2O3    FeO    MnO    MgO    NiO    CoO    CaO   Na2O    K2O   P2O5    H2O    CO2    SO3 Cl2O-1  F2O-1
+       48.50   1.01  17.58   0.89   0.04   7.56   0.00   9.07   0.00   0.00  12.41   2.64   0.03   0.08   0.20   0.00   0.00   0.00   0.00
+
+Total solids     mass = 0.00 (gm)  density = 0.00 (gm/cc)
+                 G = 0.00 (J)  H = 0.00 (J)  S = 0.00 (J/K)  V = 0.00 (cc)  Cp = 0.00 (J/K)  
+
+Summary of all fractionated phases: (total mass = 0.00 grams)
+
+Viscosity of the System: 2.07 (log 10 poise)
+
+System           mass = 100.36 (gm)  density = 2.68 (gm/cc)
+                 G = -1650047.79 (J)  H = -1239270.33 (J)  S = 273.28 (J/K)  V = 37.47 (cc)  Cp = 153.17 (J/K)  
+
+**********----------**********
+Title: dummy
+
+T = 1225.00 (C)  P = 1.000 (kbars)  log(10) f O2 = -9.17  delta HM = -6.73  NNO = -1.89  QFM = -1.22  COH = 0.98  IW = 2.27
+
+Constraint Flags: Fractionate Solids  
+
+Liquid           mass = 100.35 (gm)  density = 2.68 (gm/cc)  viscosity = 2.09 (log 10 poise)     (analysis in wt %)
+ 		G = -1648507.65 (J)  H = -1239908.60 (J)  S = 272.74 (J/K)  V = 37.45 (cc)  Cp = 153.15 (J/K)  
+        SiO2   TiO2  Al2O3  Fe2O3  Cr2O3    FeO    MnO    MgO    NiO    CoO    CaO   Na2O    K2O   P2O5    H2O    CO2    SO3 Cl2O-1  F2O-1
+       48.51   1.01  17.57   0.89   0.04   7.56   0.00   9.07   0.00   0.00  12.41   2.64   0.03   0.08   0.20   0.00   0.00   0.00   0.00
+
+spinel           mass = 0.01 (gm)  density = 3.93 (gm/cc)     (analysis in mole %)
+                 Fe''0.23Mg0.79Fe'''0.20Al1.32Cr0.46Ti0.01O4
+                 G = -175.04 (J)  H = -132.31 (J)  S = 0.03 (J/K)  V = 0.00 (cc)  Cp = 0.01 (J/K)  
+           chromite     hercynite     magnetite        spinel    ulvospinel
+              22.88        -12.78          9.77         78.69          1.44
+
+Total solids     mass = 0.01 (gm)  density = 3.93 (gm/cc)
+                 G = -175.04 (J)  H = -132.31 (J)  S = 0.03 (J/K)  V = 0.00 (cc)  Cp = 0.01 (J/K)  
+
+Summary of all fractionated phases: (total mass = 0.00 grams)
+
+Viscosity of the System: 2.09 (log 10 poise)
+
+System           mass = 100.36 (gm)  density = 2.68 (gm/cc)
+                 G = -1648682.69 (J)  H = -1240040.91 (J)  S = 272.76 (J/K)  V = 37.45 (cc)  Cp = 153.16 (J/K)  
+
+**********----------**********
+Title: dummy
+
+T = 1220.00 (C)  P = 1.000 (kbars)  log(10) f O2 = -9.23  delta HM = -6.74  NNO = -1.90  QFM = -1.23  COH = 0.97  IW = 2.27
+
+Constraint Flags: Fractionate Solids  
+
+Liquid           mass = 98.87 (gm)  density = 2.68 (gm/cc)  viscosity = 2.10 (log 10 poise)     (analysis in wt %)
+ 		G = -1621362.31 (J)  H = -1220825.64 (J)  S = 268.25 (J/K)  V = 36.86 (cc)  Cp = 150.91 (J/K)  
+        SiO2   TiO2  Al2O3  Fe2O3  Cr2O3    FeO    MnO    MgO    NiO    CoO    CaO   Na2O    K2O   P2O5    H2O    CO2    SO3 Cl2O-1  F2O-1
+       48.53   1.02  17.33   0.90   0.04   7.67   0.00   9.20   0.00   0.00  12.35   2.65   0.03   0.08   0.20   0.00   0.00   0.00   0.00
+
+feldspar         mass = 1.47 (gm)  density = 2.68 (gm/cc)     (analysis in mole %)
+                 K0.00Na0.19Ca0.81Al1.81Si2.19O8
+                 G = -25653.40 (J)  H = -20253.81 (J)  S = 3.62 (J/K)  V = 0.55 (cc)  Cp = 1.82 (J/K)  
+             albite     anorthite      sanidine
+              18.50         81.48          0.02
+
+spinel           mass = 0.01 (gm)  density = 3.93 (gm/cc)     (analysis in mole %)
+                 Fe''0.23Mg0.79Fe'''0.20Al1.32Cr0.45Ti0.02O4
+                 G = -153.89 (J)  H = -116.53 (J)  S = 0.03 (J/K)  V = 0.00 (cc)  Cp = 0.01 (J/K)  
+           chromite     hercynite     magnetite        spinel    ulvospinel
+              22.56        -12.68          9.78         78.84          1.50
+
+Total solids     mass = 1.48 (gm)  density = 2.68 (gm/cc)
+                 G = -25807.30 (J)  H = -20370.33 (J)  S = 3.64 (J/K)  V = 0.55 (cc)  Cp = 1.83 (J/K)  
+
+Summary of all fractionated phases: (total mass = 0.01 grams)
+
+spinel           mass = 0.01 (gm)  density = 3.93 (gm/cc)	(analysis in mole %)
+		    Fe''0.23Mg0.79Fe'''0.20Al1.32Cr0.46Ti0.01O4
+		    G = -151.13 (J)  H = -114.40 (J)  S = 0.02 (J/K)  V = 0.00 (cc)  Cp = 0.01 (J/K)  
+	      chromite     hercynite     magnetite        spinel    ulvospinel
+	         22.88        -12.78          9.77         78.69          1.44
+
+Viscosity of the System: 2.13 (log 10 poise)
+
+System           mass = 100.36 (gm)  density = 2.68 (gm/cc)
+                 G = -1647320.74 (J)  H = -1241310.38 (J)  S = 271.92 (J/K)  V = 37.42 (cc)  Cp = 152.75 (J/K)  
+
+**********----------**********
+Title: dummy
+
+T = 1215.00 (C)  P = 1.000 (kbars)  log(10) f O2 = -9.25  delta HM = -6.71  NNO = -1.86  QFM = -1.19  COH = 1.00  IW = 2.31
+
+Constraint Flags: Fractionate Solids  
+
+Liquid           mass = 93.83 (gm)  density = 2.68 (gm/cc)  viscosity = 2.12 (log 10 poise)     (analysis in wt %)
+ 		G = -1533779.19 (J)  H = -1155543.84 (J)  S = 254.16 (J/K)  V = 34.96 (cc)  Cp = 142.97 (J/K)  
+        SiO2   TiO2  Al2O3  Fe2O3  Cr2O3    FeO    MnO    MgO    NiO    CoO    CaO   Na2O    K2O   P2O5    H2O    CO2    SO3 Cl2O-1  F2O-1
+       48.66   1.08  16.89   0.95   0.04   7.92   0.00   9.11   0.00   0.00  12.33   2.70   0.03   0.09   0.21   0.00   0.00   0.00   0.00
+
+olivine          mass = 1.20 (gm)  density = 3.24 (gm/cc)     (analysis in mole %)
+                 (Ca0.01Mg0.86Fe''0.14Mn0.00Co0.00Ni0.00)2SiO4
+                 G = -19386.77 (J)  H = -15013.55 (J)  S = 2.94 (J/K)  V = 0.37 (cc)  Cp = 1.51 (J/K)  
+          tephroite      fayalite    co-olivine    ni-olivine  monticellite    forsterite
+               0.00         13.89          0.00          0.00          1.36         84.76
+
+feldspar         mass = 3.84 (gm)  density = 2.67 (gm/cc)     (analysis in mole %)
+                 K0.00Na0.19Ca0.81Al1.81Si2.19O8
+                 G = -66930.67 (J)  H = -52895.58 (J)  S = 9.43 (J/K)  V = 1.44 (cc)  Cp = 4.74 (J/K)  
+             albite     anorthite      sanidine
+              19.28         80.71          0.02
+
+Total solids     mass = 5.04 (gm)  density = 2.79 (gm/cc)
+                 G = -86317.44 (J)  H = -67909.13 (J)  S = 12.37 (J/K)  V = 1.81 (cc)  Cp = 6.25 (J/K)  
+
+Summary of all fractionated phases: (total mass = 1.49 grams)
+
+feldspar         mass = 1.47 (gm)  density = 2.68 (gm/cc)	(analysis in mole %)
+		    K0.00Na0.19Ca0.81Al1.81Si2.19O8
+		    G = -25587.41 (J)  H = -20225.01 (J)  S = 3.60 (J/K)  V = 0.55 (cc)  Cp = 1.81 (J/K)  
+	        albite     anorthite      sanidine
+	         18.50         81.48          0.02
+
+spinel           mass = 0.02 (gm)  density = 3.93 (gm/cc)	(analysis in mole %)
+		    Fe''0.23Mg0.79Fe'''0.20Al1.32Cr0.45Ti0.01O4
+		    G = -281.02 (J)  H = -213.04 (J)  S = 0.05 (J/K)  V = 0.01 (cc)  Cp = 0.02 (J/K)  
+	      chromite     hercynite     magnetite        spinel    ulvospinel
+	         22.74        -12.73          9.77         78.76          1.47
+
+Viscosity of the System: 2.23 (log 10 poise)
+
+System           mass = 100.36 (gm)  density = 2.69 (gm/cc)
+                 G = -1645965.07 (J)  H = -1243891.02 (J)  S = 270.18 (J/K)  V = 37.32 (cc)  Cp = 151.06 (J/K)  
+
+**********----------**********
+Title: dummy
+
+T = 1210.00 (C)  P = 1.000 (kbars)  log(10) f O2 = -9.27  delta HM = -6.67  NNO = -1.82  QFM = -1.15  COH = 1.04  IW = 2.35
+
+Constraint Flags: Fractionate Solids  
+
+Liquid           mass = 88.50 (gm)  density = 2.69 (gm/cc)  viscosity = 2.14 (log 10 poise)     (analysis in wt %)
+ 		G = -1441556.46 (J)  H = -1086598.17 (J)  S = 239.33 (J/K)  V = 32.96 (cc)  Cp = 134.54 (J/K)  
+        SiO2   TiO2  Al2O3  Fe2O3  Cr2O3    FeO    MnO    MgO    NiO    CoO    CaO   Na2O    K2O   P2O5    H2O    CO2    SO3 Cl2O-1  F2O-1
+       48.82   1.14  16.43   1.00   0.04   8.17   0.00   8.92   0.00   0.00  12.34   2.77   0.03   0.09   0.23   0.00   0.00   0.00   0.00
+
+olivine          mass = 1.42 (gm)  density = 3.24 (gm/cc)     (analysis in mole %)
+                 (Ca0.01Mg0.86Fe''0.14Mn0.00Co0.00Ni0.00)2SiO4
+                 G = -22770.60 (J)  H = -17643.12 (J)  S = 3.46 (J/K)  V = 0.44 (cc)  Cp = 1.78 (J/K)  
+          tephroite      fayalite    co-olivine    ni-olivine  monticellite    forsterite
+               0.00         14.37          0.00          0.00          1.38         84.25
+
+feldspar         mass = 3.92 (gm)  density = 2.67 (gm/cc)     (analysis in mole %)
+                 K0.00Na0.20Ca0.80Al1.80Si2.20O8
+                 G = -68257.85 (J)  H = -53997.86 (J)  S = 9.61 (J/K)  V = 1.47 (cc)  Cp = 4.84 (J/K)  
+             albite     anorthite      sanidine
+              20.09         79.89          0.02
+
+Total solids     mass = 5.34 (gm)  density = 2.80 (gm/cc)
+                 G = -91028.45 (J)  H = -71640.98 (J)  S = 13.07 (J/K)  V = 1.90 (cc)  Cp = 6.62 (J/K)  
+
+Summary of all fractionated phases: (total mass = 6.53 grams)
+
+olivine          mass = 1.20 (gm)  density = 3.24 (gm/cc)	(analysis in mole %)
+		    (Ca0.01Mg0.86Fe''0.14Mn0.00Co0.00Ni0.00)2SiO4
+		    G = -19347.94 (J)  H = -15002.37 (J)  S = 2.93 (J/K)  V = 0.37 (cc)  Cp = 1.51 (J/K)  
+	     tephroite      fayalite    co-olivine    ni-olivine  monticellite    forsterite
+	          0.00         13.89          0.00          0.00          1.36         84.76
+
+feldspar         mass = 5.31 (gm)  density = 2.68 (gm/cc)	(analysis in mole %)
+		    K0.00Na0.19Ca0.81Al1.81Si2.19O8
+		    G = -92405.09 (J)  H = -73115.48 (J)  S = 13.01 (J/K)  V = 1.98 (cc)  Cp = 6.55 (J/K)  
+	        albite     anorthite      sanidine
+	         19.06         80.92          0.02
+
+spinel           mass = 0.02 (gm)  density = 3.93 (gm/cc)	(analysis in mole %)
+		    Fe''0.23Mg0.79Fe'''0.20Al1.32Cr0.45Ti0.01O4
+		    G = -280.79 (J)  H = -213.15 (J)  S = 0.05 (J/K)  V = 0.01 (cc)  Cp = 0.02 (J/K)  
+	      chromite     hercynite     magnetite        spinel    ulvospinel
+	         22.74        -12.73          9.77         78.76          1.47
+
+Viscosity of the System: 2.37 (log 10 poise)
+
+System           mass = 100.36 (gm)  density = 2.70 (gm/cc)
+                 G = -1644618.73 (J)  H = -1246570.16 (J)  S = 268.38 (J/K)  V = 37.22 (cc)  Cp = 149.24 (J/K)  
+
+**********----------**********
+Title: dummy
+
+T = 1205.00 (C)  P = 1.000 (kbars)  log(10) f O2 = -9.29  delta HM = -6.63  NNO = -1.78  QFM = -1.11  COH = 1.07  IW = 2.40
+
+Constraint Flags: Fractionate Solids  
+
+Liquid           mass = 83.81 (gm)  density = 2.69 (gm/cc)  viscosity = 2.16 (log 10 poise)     (analysis in wt %)
+ 		G = -1360597.80 (J)  H = -1026112.09 (J)  S = 226.29 (J/K)  V = 31.19 (cc)  Cp = 124.59 (J/K)  
+        SiO2   TiO2  Al2O3  Fe2O3  Cr2O3    FeO    MnO    MgO    NiO    CoO    CaO   Na2O    K2O   P2O5    H2O    CO2    SO3 Cl2O-1  F2O-1
+       48.97   1.20  15.99   1.06   0.05   8.42   0.00   8.75   0.00   0.00  12.36   2.82   0.04   0.10   0.24   0.00   0.00   0.00   0.00
+
+olivine          mass = 1.25 (gm)  density = 3.25 (gm/cc)     (analysis in mole %)
+                 (Ca0.01Mg0.85Fe''0.15Mn0.00Co0.00Ni0.00)2SiO4
+                 G = -19960.83 (J)  H = -15474.17 (J)  S = 3.04 (J/K)  V = 0.38 (cc)  Cp = 1.56 (J/K)  
+          tephroite      fayalite    co-olivine    ni-olivine  monticellite    forsterite
+               0.00         14.85          0.00          0.00          1.41         83.75
+
+feldspar         mass = 3.44 (gm)  density = 2.67 (gm/cc)     (analysis in mole %)
+                 K0.00Na0.21Ca0.79Al1.79Si2.21O8
+                 G = -59877.13 (J)  H = -47415.07 (J)  S = 8.43 (J/K)  V = 1.29 (cc)  Cp = 4.25 (J/K)  
+             albite     anorthite      sanidine
+              20.88         79.10          0.02
+
+Total solids     mass = 4.69 (gm)  density = 2.80 (gm/cc)
+                 G = -79837.97 (J)  H = -62889.24 (J)  S = 11.47 (J/K)  V = 1.67 (cc)  Cp = 5.81 (J/K)  
+
+Summary of all fractionated phases: (total mass = 11.86 grams)
+
+olivine          mass = 2.61 (gm)  density = 3.24 (gm/cc)	(analysis in mole %)
+		    (Ca0.01Mg0.86Fe''0.14Mn0.00Co0.00Ni0.00)2SiO4
+		    G = -42062.53 (J)  H = -32643.21 (J)  S = 6.37 (J/K)  V = 0.81 (cc)  Cp = 3.28 (J/K)  
+	     tephroite      fayalite    co-olivine    ni-olivine  monticellite    forsterite
+	          0.00         14.15          0.00          0.00          1.37         84.48
+
+feldspar         mass = 9.23 (gm)  density = 2.67 (gm/cc)	(analysis in mole %)
+		    K0.00Na0.19Ca0.80Al1.80Si2.20O8
+		    G = -160502.14 (J)  H = -127132.39 (J)  S = 22.58 (J/K)  V = 3.45 (cc)  Cp = 11.38 (J/K)  
+	        albite     anorthite      sanidine
+	         19.50         80.48          0.02
+
+spinel           mass = 0.02 (gm)  density = 3.93 (gm/cc)	(analysis in mole %)
+		    Fe''0.23Mg0.79Fe'''0.20Al1.32Cr0.45Ti0.01O4
+		    G = -280.57 (J)  H = -213.27 (J)  S = 0.05 (J/K)  V = 0.01 (cc)  Cp = 0.02 (J/K)  
+	      chromite     hercynite     magnetite        spinel    ulvospinel
+	         22.74        -12.73          9.77         78.76          1.47
+
+Viscosity of the System: 2.50 (log 10 poise)
+
+System           mass = 100.36 (gm)  density = 2.70 (gm/cc)
+                 G = -1643281.01 (J)  H = -1248990.19 (J)  S = 266.75 (J/K)  V = 37.13 (cc)  Cp = 145.08 (J/K)  
+
+**********----------**********
+Title: dummy
+
+T = 1200.00 (C)  P = 1.000 (kbars)  log(10) f O2 = -9.31  delta HM = -6.60  NNO = -1.74  QFM = -1.08  COH = 1.10  IW = 2.44
+
+Constraint Flags: Fractionate Solids  
+
+Liquid           mass = 79.66 (gm)  density = 2.69 (gm/cc)  viscosity = 2.19 (log 10 poise)     (analysis in wt %)
+ 		G = -1288949.60 (J)  H = -972613.45 (J)  S = 214.73 (J/K)  V = 29.63 (cc)  Cp = 118.16 (J/K)  
+        SiO2   TiO2  Al2O3  Fe2O3  Cr2O3    FeO    MnO    MgO    NiO    CoO    CaO   Na2O    K2O   P2O5    H2O    CO2    SO3 Cl2O-1  F2O-1
+       49.12   1.27  15.56   1.11   0.05   8.66   0.00   8.58   0.00   0.00  12.39   2.88   0.04   0.10   0.25   0.00   0.00   0.00   0.00
+
+olivine          mass = 1.11 (gm)  density = 3.26 (gm/cc)     (analysis in mole %)
+                 (Ca0.01Mg0.85Fe''0.15Mn0.00Co0.00Ni0.00)2SiO4
+                 G = -17645.04 (J)  H = -13686.21 (J)  S = 2.69 (J/K)  V = 0.34 (cc)  Cp = 1.38 (J/K)  
+          tephroite      fayalite    co-olivine    ni-olivine  monticellite    forsterite
+               0.00         15.32          0.00          0.00          1.44         83.24
+
+feldspar         mass = 3.05 (gm)  density = 2.67 (gm/cc)     (analysis in mole %)
+                 K0.00Na0.22Ca0.78Al1.78Si2.22O8
+                 G = -52947.16 (J)  H = -41969.24 (J)  S = 7.45 (J/K)  V = 1.14 (cc)  Cp = 3.76 (J/K)  
+             albite     anorthite      sanidine
+              21.66         78.31          0.02
+
+Total solids     mass = 4.15 (gm)  density = 2.81 (gm/cc)
+                 G = -70592.20 (J)  H = -55655.45 (J)  S = 10.14 (J/K)  V = 1.48 (cc)  Cp = 5.14 (J/K)  
+
+Summary of all fractionated phases: (total mass = 16.55 grams)
+
+olivine          mass = 3.86 (gm)  density = 3.25 (gm/cc)	(analysis in mole %)
+		    (Ca0.01Mg0.86Fe''0.14Mn0.00Co0.00Ni0.00)2SiO4
+		    G = -61952.33 (J)  H = -48122.91 (J)  S = 9.39 (J/K)  V = 1.19 (cc)  Cp = 4.84 (J/K)  
+	     tephroite      fayalite    co-olivine    ni-olivine  monticellite    forsterite
+	          0.00         14.37          0.00          0.00          1.38         84.24
+
+feldspar         mass = 12.67 (gm)  density = 2.67 (gm/cc)	(analysis in mole %)
+		    K0.00Na0.20Ca0.80Al1.80Si2.20O8
+		    G = -220176.66 (J)  H = -174587.67 (J)  S = 30.95 (J/K)  V = 4.74 (cc)  Cp = 15.62 (J/K)  
+	        albite     anorthite      sanidine
+	         19.88         80.11          0.02
+
+spinel           mass = 0.02 (gm)  density = 3.93 (gm/cc)	(analysis in mole %)
+		    Fe''0.23Mg0.79Fe'''0.20Al1.32Cr0.45Ti0.01O4
+		    G = -280.34 (J)  H = -213.38 (J)  S = 0.05 (J/K)  V = 0.01 (cc)  Cp = 0.02 (J/K)  
+	      chromite     hercynite     magnetite        spinel    ulvospinel
+	         22.74        -12.73          9.77         78.76          1.47
+
+Viscosity of the System: 2.63 (log 10 poise)
+
+System           mass = 100.36 (gm)  density = 2.71 (gm/cc)
+                 G = -1641951.13 (J)  H = -1251192.87 (J)  S = 265.25 (J/K)  V = 37.05 (cc)  Cp = 143.77 (J/K)  
+
+**********----------**********
+Title: dummy
+
+T = 1195.00 (C)  P = 1.000 (kbars)  log(10) f O2 = -9.37  delta HM = -6.60  NNO = -1.75  QFM = -1.08  COH = 1.09  IW = 2.44
+
+Constraint Flags: Fractionate Solids  
+
+Liquid           mass = 73.26 (gm)  density = 2.69 (gm/cc)  viscosity = 2.21 (log 10 poise)     (analysis in wt %)
+ 		G = -1180477.29 (J)  H = -890797.28 (J)  S = 197.31 (J/K)  V = 27.24 (cc)  Cp = 108.30 (J/K)  
+        SiO2   TiO2  Al2O3  Fe2O3  Cr2O3    FeO    MnO    MgO    NiO    CoO    CaO   Na2O    K2O   P2O5    H2O    CO2    SO3 Cl2O-1  F2O-1
+       49.15   1.36  15.38   1.16   0.05   9.09   0.00   8.29   0.00   0.00  12.07   3.02   0.04   0.11   0.27   0.00   0.00   0.00   0.00
+
+olivine          mass = 0.74 (gm)  density = 3.27 (gm/cc)     (analysis in mole %)
+                 (Ca0.01Mg0.84Fe''0.16Mn0.00Co0.00Ni0.00)2SiO4
+                 G = -11667.01 (J)  H = -9049.94 (J)  S = 1.78 (J/K)  V = 0.23 (cc)  Cp = 0.92 (J/K)  
+          tephroite      fayalite    co-olivine    ni-olivine  monticellite    forsterite
+               0.00         16.12          0.00          0.00          1.42         82.46
+
+clinopyroxene    mass = 2.62 (gm)  density = 3.21 (gm/cc)     (analysis in mole %)
+                 cpx Na0.01Ca0.81Fe''0.14Mg0.91Fe'''0.04Ti0.01Al0.20Si1.88O6
+                 G = -42934.51 (J)  H = -33873.81 (J)  S = 6.17 (J/K)  V = 0.82 (cc)  Cp = 3.13 (J/K)  
+           diopside clinoenstatit  hedenbergite alumino-buffo     buffonite      essenite       jadeite
+              54.02         17.81         14.40          8.83         -6.47         10.13          1.29
+
+feldspar         mass = 3.04 (gm)  density = 2.67 (gm/cc)     (analysis in mole %)
+                 K0.00Na0.23Ca0.77Al1.77Si2.23O8
+                 G = -52820.17 (J)  H = -41907.64 (J)  S = 7.43 (J/K)  V = 1.14 (cc)  Cp = 3.75 (J/K)  
+             albite     anorthite      sanidine
+              22.78         77.20          0.02
+
+spinel           mass = 0.00 (gm)  density = 4.12 (gm/cc)     (analysis in mole %)
+                 Fe''0.34Mg0.70Fe'''0.28Al1.01Cr0.64Ti0.03O4
+                 G = -53.69 (J)  H = -39.78 (J)  S = 0.01 (J/K)  V = 0.00 (cc)  Cp = 0.00 (J/K)  
+           chromite     hercynite     magnetite        spinel    ulvospinel
+              31.93        -19.39         14.18         69.88          3.41
+
+Total solids     mass = 6.40 (gm)  density = 2.94 (gm/cc)
+                 G = -107475.38 (J)  H = -84871.17 (J)  S = 15.40 (J/K)  V = 2.18 (cc)  Cp = 7.80 (J/K)  
+
+Summary of all fractionated phases: (total mass = 20.70 grams)
+
+olivine          mass = 4.96 (gm)  density = 3.25 (gm/cc)	(analysis in mole %)
+		    (Ca0.01Mg0.85Fe''0.15Mn0.00Co0.00Ni0.00)2SiO4
+		    G = -79513.08 (J)  H = -61821.56 (J)  S = 12.05 (J/K)  V = 1.53 (cc)  Cp = 6.22 (J/K)  
+	     tephroite      fayalite    co-olivine    ni-olivine  monticellite    forsterite
+	          0.00         14.58          0.00          0.00          1.40         84.02
+
+feldspar         mass = 15.71 (gm)  density = 2.67 (gm/cc)	(analysis in mole %)
+		    K0.00Na0.20Ca0.80Al1.80Si2.20O8
+		    G = -272884.35 (J)  H = -216615.85 (J)  S = 38.33 (J/K)  V = 5.88 (cc)  Cp = 19.36 (J/K)  
+	        albite     anorthite      sanidine
+	         20.22         79.76          0.02
+
+spinel           mass = 0.02 (gm)  density = 3.93 (gm/cc)	(analysis in mole %)
+		    Fe''0.23Mg0.79Fe'''0.20Al1.32Cr0.45Ti0.01O4
+		    G = -280.11 (J)  H = -213.50 (J)  S = 0.05 (J/K)  V = 0.01 (cc)  Cp = 0.02 (J/K)  
+	      chromite     hercynite     magnetite        spinel    ulvospinel
+	         22.74        -12.73          9.77         78.76          1.47
+
+Viscosity of the System: 2.85 (log 10 poise)
+
+System           mass = 100.36 (gm)  density = 2.72 (gm/cc)
+                 G = -1640630.21 (J)  H = -1254319.36 (J)  S = 263.13 (J/K)  V = 36.84 (cc)  Cp = 141.70 (J/K)  
+
+**********----------**********
+Title: dummy
+
+T = 1190.00 (C)  P = 1.000 (kbars)  log(10) f O2 = -9.42  delta HM = -6.61  NNO = -1.75  QFM = -1.08  COH = 1.08  IW = 2.44
+
+Constraint Flags: Fractionate Solids  
+
+Liquid           mass = 67.59 (gm)  density = 2.69 (gm/cc)  viscosity = 2.23 (log 10 poise)     (analysis in wt %)
+ 		G = -1084474.39 (J)  H = -818373.34 (J)  S = 181.87 (J/K)  V = 25.13 (cc)  Cp = 99.56 (J/K)  
+        SiO2   TiO2  Al2O3  Fe2O3  Cr2O3    FeO    MnO    MgO    NiO    CoO    CaO   Na2O    K2O   P2O5    H2O    CO2    SO3 Cl2O-1  F2O-1
+       49.17   1.46  15.23   1.21   0.05   9.53   0.00   8.00   0.00   0.00  11.73   3.16   0.04   0.12   0.30   0.00   0.00   0.00   0.00
+
+olivine          mass = 0.60 (gm)  density = 3.28 (gm/cc)     (analysis in mole %)
+                 (Ca0.01Mg0.83Fe''0.17Mn0.00Co0.00Ni0.00)2SiO4
+                 G = -9497.86 (J)  H = -7367.38 (J)  S = 1.46 (J/K)  V = 0.18 (cc)  Cp = 0.75 (J/K)  
+          tephroite      fayalite    co-olivine    ni-olivine  monticellite    forsterite
+               0.00         16.96          0.00          0.00          1.40         81.64
+
+clinopyroxene    mass = 2.44 (gm)  density = 3.22 (gm/cc)     (analysis in mole %)
+                 cpx Na0.01Ca0.80Fe''0.15Mg0.90Fe'''0.04Ti0.01Al0.20Si1.87O6
+                 G = -39926.18 (J)  H = -31524.68 (J)  S = 5.74 (J/K)  V = 0.76 (cc)  Cp = 2.92 (J/K)  
+           diopside clinoenstatit  hedenbergite alumino-buffo     buffonite      essenite       jadeite
+              52.80         18.17         15.13          8.92         -6.32          9.97          1.33
+
+feldspar         mass = 2.63 (gm)  density = 2.67 (gm/cc)     (analysis in mole %)
+                 K0.00Na0.24Ca0.76Al1.76Si2.24O8
+                 G = -45573.89 (J)  H = -36192.05 (J)  S = 6.41 (J/K)  V = 0.98 (cc)  Cp = 3.24 (J/K)  
+             albite     anorthite      sanidine
+              23.92         76.05          0.03
+
+spinel           mass = 0.01 (gm)  density = 4.15 (gm/cc)     (analysis in mole %)
+                 Fe''0.36Mg0.68Fe'''0.29Al0.98Cr0.65Ti0.04O4
+                 G = -153.18 (J)  H = -113.15 (J)  S = 0.03 (J/K)  V = 0.00 (cc)  Cp = 0.01 (J/K)  
+           chromite     hercynite     magnetite        spinel    ulvospinel
+              32.46        -19.07         14.69         67.84          4.08
+
+Total solids     mass = 5.69 (gm)  density = 2.94 (gm/cc)
+                 G = -95151.10 (J)  H = -75197.25 (J)  S = 13.64 (J/K)  V = 1.93 (cc)  Cp = 6.91 (J/K)  
+
+Summary of all fractionated phases: (total mass = 27.09 grams)
+
+olivine          mass = 5.70 (gm)  density = 3.25 (gm/cc)	(analysis in mole %)
+		    (Ca0.01Mg0.85Fe''0.15Mn0.00Co0.00Ni0.00)2SiO4
+		    G = -91087.11 (J)  H = -70888.53 (J)  S = 13.80 (J/K)  V = 1.75 (cc)  Cp = 7.13 (J/K)  
+	     tephroite      fayalite    co-olivine    ni-olivine  monticellite    forsterite
+	          0.00         14.78          0.00          0.00          1.40         83.82
+
+clinopyroxene    mass = 2.62 (gm)  density = 3.21 (gm/cc)	(analysis in mole %)
+		    cpx Na0.01Ca0.81Fe''0.14Mg0.91Fe'''0.04Ti0.01Al0.20Si1.88O6
+		    G = -42867.77 (J)  H = -33861.11 (J)  S = 6.16 (J/K)  V = 0.82 (cc)  Cp = 3.13 (J/K)  
+	      diopside clinoenstatit  hedenbergite alumino-buffo     buffonite      essenite       jadeite
+	         54.02         17.81         14.40          8.83         -6.47         10.13          1.29
+
+feldspar         mass = 18.75 (gm)  density = 2.67 (gm/cc)	(analysis in mole %)
+		    K0.00Na0.21Ca0.79Al1.79Si2.21O8
+		    G = -325428.43 (J)  H = -258601.09 (J)  S = 45.67 (J/K)  V = 7.01 (cc)  Cp = 23.09 (J/K)  
+	        albite     anorthite      sanidine
+	         20.64         79.34          0.02
+
+spinel           mass = 0.02 (gm)  density = 3.95 (gm/cc)	(analysis in mole %)
+		    Fe''0.24Mg0.78Fe'''0.20Al1.29Cr0.47Ti0.02O4
+		    G = -310.94 (J)  H = -236.64 (J)  S = 0.05 (J/K)  V = 0.01 (cc)  Cp = 0.03 (J/K)  
+	      chromite     hercynite     magnetite        spinel    ulvospinel
+	         23.69        -13.43         10.23         77.83          1.67
+
+Viscosity of the System: 3.09 (log 10 poise)
+
+System           mass = 100.36 (gm)  density = 2.74 (gm/cc)
+                 G = -1639319.74 (J)  H = -1257157.94 (J)  S = 261.19 (J/K)  V = 36.64 (cc)  Cp = 139.85 (J/K)  
+
+**********----------**********
+Title: dummy
+
+T = 1185.00 (C)  P = 1.000 (kbars)  log(10) f O2 = -9.48  delta HM = -6.61  NNO = -1.74  QFM = -1.08  COH = 1.08  IW = 2.45
+
+Constraint Flags: Fractionate Solids  
+
+Liquid           mass = 62.72 (gm)  density = 2.69 (gm/cc)  viscosity = 2.25 (log 10 poise)     (analysis in wt %)
+ 		G = -1002250.05 (J)  H = -756368.65 (J)  S = 168.63 (J/K)  V = 23.31 (cc)  Cp = 92.09 (J/K)  
+        SiO2   TiO2  Al2O3  Fe2O3  Cr2O3    FeO    MnO    MgO    NiO    CoO    CaO   Na2O    K2O   P2O5    H2O    CO2    SO3 Cl2O-1  F2O-1
+       49.19   1.56  15.08   1.26   0.05   9.96   0.00   7.71   0.00   0.00  11.41   3.29   0.05   0.13   0.32   0.00   0.00   0.00   0.00
+
+olivine          mass = 0.52 (gm)  density = 3.29 (gm/cc)     (analysis in mole %)
+                 (Ca0.01Mg0.82Fe''0.18Mn0.00Co0.00Ni0.00)2SiO4
+                 G = -8126.06 (J)  H = -6303.26 (J)  S = 1.25 (J/K)  V = 0.16 (cc)  Cp = 0.64 (J/K)  
+          tephroite      fayalite    co-olivine    ni-olivine  monticellite    forsterite
+               0.00         17.81          0.00          0.00          1.39         80.80
+
+clinopyroxene    mass = 2.08 (gm)  density = 3.22 (gm/cc)     (analysis in mole %)
+                 cpx Na0.01Ca0.80Fe''0.16Mg0.90Fe'''0.04Ti0.01Al0.20Si1.87O6
+                 G = -33840.16 (J)  H = -26740.05 (J)  S = 4.87 (J/K)  V = 0.64 (cc)  Cp = 2.48 (J/K)  
+           diopside clinoenstatit  hedenbergite alumino-buffo     buffonite      essenite       jadeite
+              51.59         18.52         15.86          9.02         -6.17          9.81          1.38
+
+feldspar         mass = 2.27 (gm)  density = 2.66 (gm/cc)     (analysis in mole %)
+                 K0.00Na0.25Ca0.75Al1.75Si2.25O8
+                 G = -39344.26 (J)  H = -31273.99 (J)  S = 5.53 (J/K)  V = 0.85 (cc)  Cp = 2.79 (J/K)  
+             albite     anorthite      sanidine
+              25.06         74.91          0.03
+
+spinel           mass = 0.01 (gm)  density = 4.18 (gm/cc)     (analysis in mole %)
+                 Fe''0.39Mg0.66Fe'''0.30Al0.94Cr0.66Ti0.05O4
+                 G = -138.31 (J)  H = -101.84 (J)  S = 0.03 (J/K)  V = 0.00 (cc)  Cp = 0.01 (J/K)  
+           chromite     hercynite     magnetite        spinel    ulvospinel
+              32.90        -18.73         15.23         65.72          4.88
+
+Total solids     mass = 4.88 (gm)  density = 2.94 (gm/cc)
+                 G = -81448.79 (J)  H = -64419.13 (J)  S = 11.68 (J/K)  V = 1.66 (cc)  Cp = 5.92 (J/K)  
+
+Summary of all fractionated phases: (total mass = 32.77 grams)
+
+olivine          mass = 6.30 (gm)  density = 3.26 (gm/cc)	(analysis in mole %)
+		    (Ca0.01Mg0.85Fe''0.15Mn0.00Co0.00Ni0.00)2SiO4
+		    G = -100484.97 (J)  H = -78276.69 (J)  S = 15.23 (J/K)  V = 1.93 (cc)  Cp = 7.87 (J/K)  
+	     tephroite      fayalite    co-olivine    ni-olivine  monticellite    forsterite
+	          0.00         14.99          0.00          0.00          1.40         83.62
+
+clinopyroxene    mass = 5.06 (gm)  density = 3.22 (gm/cc)	(analysis in mole %)
+		    cpx Na0.01Ca0.81Fe''0.15Mg0.91Fe'''0.04Ti0.01Al0.20Si1.87O6
+		    G = -82698.66 (J)  H = -65387.66 (J)  S = 11.87 (J/K)  V = 1.57 (cc)  Cp = 6.04 (J/K)  
+	      diopside clinoenstatit  hedenbergite alumino-buffo     buffonite      essenite       jadeite
+	         53.43         17.98         14.75          8.87         -6.40         10.05          1.31
+
+feldspar         mass = 21.38 (gm)  density = 2.67 (gm/cc)	(analysis in mole %)
+		    K0.00Na0.21Ca0.79Al1.79Si2.21O8
+		    G = -370694.75 (J)  H = -294886.81 (J)  S = 51.99 (J/K)  V = 8.00 (cc)  Cp = 26.31 (J/K)  
+	        albite     anorthite      sanidine
+	         21.04         78.94          0.02
+
+spinel           mass = 0.03 (gm)  density = 4.01 (gm/cc)	(analysis in mole %)
+		    Fe''0.28Mg0.75Fe'''0.23Al1.19Cr0.53Ti0.02O4
+		    G = -441.31 (J)  H = -333.35 (J)  S = 0.07 (J/K)  V = 0.01 (cc)  Cp = 0.04 (J/K)  
+	      chromite     hercynite     magnetite        spinel    ulvospinel
+	         26.37        -15.15         11.59         74.78          2.41
+
+Viscosity of the System: 3.37 (log 10 poise)
+
+System           mass = 100.36 (gm)  density = 2.75 (gm/cc)
+                 G = -1638018.54 (J)  H = -1259672.30 (J)  S = 259.47 (J/K)  V = 36.48 (cc)  Cp = 138.28 (J/K)  
+
+**********----------**********
+Title: dummy
+
+T = 1180.00 (C)  P = 1.000 (kbars)  log(10) f O2 = -9.53  delta HM = -6.60  NNO = -1.74  QFM = -1.08  COH = 1.08  IW = 2.46
+
+Constraint Flags: Fractionate Solids  
+
+Liquid           mass = 58.50 (gm)  density = 2.69 (gm/cc)  viscosity = 2.27 (log 10 poise)     (analysis in wt %)
+ 		G = -931037.28 (J)  H = -702688.96 (J)  S = 157.14 (J/K)  V = 21.73 (cc)  Cp = 85.62 (J/K)  
+        SiO2   TiO2  Al2O3  Fe2O3  Cr2O3    FeO    MnO    MgO    NiO    CoO    CaO   Na2O    K2O   P2O5    H2O    CO2    SO3 Cl2O-1  F2O-1
+       49.20   1.65  14.93   1.31   0.05  10.37   0.00   7.44   0.00   0.00  11.10   3.42   0.05   0.14   0.34   0.00   0.00   0.00   0.00
+
+olivine          mass = 0.45 (gm)  density = 3.30 (gm/cc)     (analysis in mole %)
+                 (Ca0.01Mg0.81Fe''0.19Mn0.00Co0.00Ni0.00)2SiO4
+                 G = -7039.37 (J)  H = -5460.23 (J)  S = 1.09 (J/K)  V = 0.14 (cc)  Cp = 0.56 (J/K)  
+          tephroite      fayalite    co-olivine    ni-olivine  monticellite    forsterite
+               0.00         18.67          0.00          0.00          1.37         79.95
+
+clinopyroxene    mass = 1.78 (gm)  density = 3.22 (gm/cc)     (analysis in mole %)
+                 cpx Na0.01Ca0.80Fe''0.17Mg0.90Fe'''0.04Ti0.02Al0.20Si1.87O6
+                 G = -28981.79 (J)  H = -22918.88 (J)  S = 4.17 (J/K)  V = 0.55 (cc)  Cp = 2.12 (J/K)  
+           diopside clinoenstatit  hedenbergite alumino-buffo     buffonite      essenite       jadeite
+              50.38         18.85         16.58          9.14         -6.02          9.65          1.42
+
+feldspar         mass = 1.98 (gm)  density = 2.66 (gm/cc)     (analysis in mole %)
+                 K0.00Na0.26Ca0.74Al1.74Si2.26O8
+                 G = -34354.62 (J)  H = -27333.35 (J)  S = 4.83 (J/K)  V = 0.74 (cc)  Cp = 2.44 (J/K)  
+             albite     anorthite      sanidine
+              26.20         73.77          0.03
+
+spinel           mass = 0.01 (gm)  density = 4.21 (gm/cc)     (analysis in mole %)
+                 Fe''0.42Mg0.64Fe'''0.32Al0.90Cr0.66Ti0.06O4
+                 G = -126.81 (J)  H = -93.04 (J)  S = 0.02 (J/K)  V = 0.00 (cc)  Cp = 0.01 (J/K)  
+           chromite     hercynite     magnetite        spinel    ulvospinel
+              33.25        -18.39         15.80         63.52          5.84
+
+Total solids     mass = 4.23 (gm)  density = 2.94 (gm/cc)
+                 G = -70502.59 (J)  H = -55805.50 (J)  S = 10.11 (J/K)  V = 1.44 (cc)  Cp = 5.13 (J/K)  
+
+Summary of all fractionated phases: (total mass = 37.64 grams)
+
+olivine          mass = 6.81 (gm)  density = 3.26 (gm/cc)	(analysis in mole %)
+		    (Ca0.01Mg0.85Fe''0.15Mn0.00Co0.00Ni0.00)2SiO4
+		    G = -108505.06 (J)  H = -84603.94 (J)  S = 16.45 (J/K)  V = 2.09 (cc)  Cp = 8.50 (J/K)  
+	     tephroite      fayalite    co-olivine    ni-olivine  monticellite    forsterite
+	          0.00         15.20          0.00          0.00          1.40         83.40
+
+clinopyroxene    mass = 7.14 (gm)  density = 3.22 (gm/cc)	(analysis in mole %)
+		    cpx Na0.01Ca0.81Fe''0.15Mg0.90Fe'''0.04Ti0.01Al0.20Si1.87O6
+		    G = -116419.42 (J)  H = -92141.97 (J)  S = 16.71 (J/K)  V = 2.22 (cc)  Cp = 8.51 (J/K)  
+	      diopside clinoenstatit  hedenbergite alumino-buffo     buffonite      essenite       jadeite
+	         52.90         18.14         15.07          8.91         -6.33          9.98          1.33
+
+feldspar         mass = 23.64 (gm)  density = 2.67 (gm/cc)	(analysis in mole %)
+		    K0.00Na0.21Ca0.79Al1.79Si2.21O8
+		    G = -409704.42 (J)  H = -326268.35 (J)  S = 57.42 (J/K)  V = 8.85 (cc)  Cp = 29.09 (J/K)  
+	        albite     anorthite      sanidine
+	         21.43         78.55          0.02
+
+spinel           mass = 0.04 (gm)  density = 4.05 (gm/cc)	(analysis in mole %)
+		    Fe''0.30Mg0.73Fe'''0.25Al1.14Cr0.56Ti0.03O4
+		    G = -556.88 (J)  H = -418.99 (J)  S = 0.09 (J/K)  V = 0.01 (cc)  Cp = 0.05 (J/K)  
+	      chromite     hercynite     magnetite        spinel    ulvospinel
+	         27.78        -15.92         12.37         72.83          2.94
+
+Viscosity of the System: 3.69 (log 10 poise)
+
+System           mass = 100.36 (gm)  density = 2.76 (gm/cc)
+                 G = -1636725.65 (J)  H = -1261927.72 (J)  S = 257.92 (J/K)  V = 36.34 (cc)  Cp = 136.91 (J/K)  
+
+**********----------**********
+Title: dummy
+
+T = 1175.00 (C)  P = 1.000 (kbars)  log(10) f O2 = -9.58  delta HM = -6.59  NNO = -1.73  QFM = -1.07  COH = 1.08  IW = 2.48
+
+Constraint Flags: Fractionate Solids  
+
+Liquid           mass = 54.81 (gm)  density = 2.69 (gm/cc)  viscosity = 2.29 (log 10 poise)     (analysis in wt %)
+ 		G = -868758.44 (J)  H = -655761.96 (J)  S = 147.08 (J/K)  V = 20.35 (cc)  Cp = 79.97 (J/K)  
+        SiO2   TiO2  Al2O3  Fe2O3  Cr2O3    FeO    MnO    MgO    NiO    CoO    CaO   Na2O    K2O   P2O5    H2O    CO2    SO3 Cl2O-1  F2O-1
+       49.21   1.74  14.77   1.36   0.05  10.77   0.00   7.18   0.00   0.00  10.80   3.55   0.05   0.15   0.36   0.00   0.00   0.00   0.00
+
+olivine          mass = 0.40 (gm)  density = 3.31 (gm/cc)     (analysis in mole %)
+                 (Ca0.01Mg0.80Fe''0.20Mn0.00Co0.00Ni0.00)2SiO4
+                 G = -6165.80 (J)  H = -4782.47 (J)  S = 0.96 (J/K)  V = 0.12 (cc)  Cp = 0.49 (J/K)  
+          tephroite      fayalite    co-olivine    ni-olivine  monticellite    forsterite
+               0.00         19.55          0.00          0.00          1.36         79.09
+
+clinopyroxene    mass = 1.54 (gm)  density = 3.23 (gm/cc)     (analysis in mole %)
+                 cpx Na0.01Ca0.79Fe''0.17Mg0.89Fe'''0.04Ti0.02Al0.20Si1.87O6
+                 G = -25044.21 (J)  H = -19820.52 (J)  S = 3.61 (J/K)  V = 0.48 (cc)  Cp = 1.84 (J/K)  
+           diopside clinoenstatit  hedenbergite alumino-buffo     buffonite      essenite       jadeite
+              49.17         19.16         17.31          9.26         -5.87          9.50          1.46
+
+feldspar         mass = 1.75 (gm)  density = 2.66 (gm/cc)     (analysis in mole %)
+                 K0.00Na0.27Ca0.73Al1.73Si2.27O8
+                 G = -30297.37 (J)  H = -24127.89 (J)  S = 4.26 (J/K)  V = 0.66 (cc)  Cp = 2.15 (J/K)  
+             albite     anorthite      sanidine
+              27.33         72.63          0.04
+
+spinel           mass = 0.01 (gm)  density = 4.24 (gm/cc)     (analysis in mole %)
+                 Fe''0.46Mg0.61Fe'''0.33Al0.86Cr0.67Ti0.07O4
+                 G = -117.96 (J)  H = -86.23 (J)  S = 0.02 (J/K)  V = 0.00 (cc)  Cp = 0.01 (J/K)  
+           chromite     hercynite     magnetite        spinel    ulvospinel
+              33.46        -18.07         16.39         61.24          6.98
+
+Total solids     mass = 3.70 (gm)  density = 2.94 (gm/cc)
+                 G = -61625.34 (J)  H = -48817.12 (J)  S = 8.84 (J/K)  V = 1.26 (cc)  Cp = 4.49 (J/K)  
+
+Summary of all fractionated phases: (total mass = 41.86 grams)
+
+olivine          mass = 7.26 (gm)  density = 3.26 (gm/cc)	(analysis in mole %)
+		    (Ca0.01Mg0.85Fe''0.15Mn0.00Co0.00Ni0.00)2SiO4
+		    G = -115433.32 (J)  H = -90090.96 (J)  S = 17.50 (J/K)  V = 2.23 (cc)  Cp = 9.06 (J/K)  
+	     tephroite      fayalite    co-olivine    ni-olivine  monticellite    forsterite
+	          0.00         15.41          0.00          0.00          1.40         83.19
+
+clinopyroxene    mass = 8.92 (gm)  density = 3.22 (gm/cc)	(analysis in mole %)
+		    cpx Na0.01Ca0.80Fe''0.15Mg0.90Fe'''0.04Ti0.01Al0.20Si1.87O6
+		    G = -145261.22 (J)  H = -115085.69 (J)  S = 20.84 (J/K)  V = 2.77 (cc)  Cp = 10.63 (J/K)  
+	      diopside clinoenstatit  hedenbergite alumino-buffo     buffonite      essenite       jadeite
+	         52.40         18.28         15.37          8.96         -6.27          9.92          1.35
+
+feldspar         mass = 25.62 (gm)  density = 2.67 (gm/cc)	(analysis in mole %)
+		    K0.00Na0.22Ca0.78Al1.78Si2.22O8
+		    G = -443700.97 (J)  H = -353721.36 (J)  S = 62.13 (J/K)  V = 9.59 (cc)  Cp = 31.51 (J/K)  
+	        albite     anorthite      sanidine
+	         21.80         78.18          0.02
+
+spinel           mass = 0.05 (gm)  density = 4.08 (gm/cc)	(analysis in mole %)
+		    Fe''0.32Mg0.71Fe'''0.26Al1.10Cr0.57Ti0.03O4
+		    G = -661.01 (J)  H = -496.07 (J)  S = 0.11 (J/K)  V = 0.01 (cc)  Cp = 0.06 (J/K)  
+	      chromite     hercynite     magnetite        spinel    ulvospinel
+	         28.67        -16.32         12.93         71.31          3.41
+
+Viscosity of the System: 4.10 (log 10 poise)
+
+System           mass = 100.36 (gm)  density = 2.77 (gm/cc)
+                 G = -1635440.29 (J)  H = -1263973.16 (J)  S = 256.51 (J/K)  V = 36.21 (cc)  Cp = 135.71 (J/K)  
+
+**********----------**********
+Title: dummy
+
+T = 1170.00 (C)  P = 1.000 (kbars)  log(10) f O2 = -9.63  delta HM = -6.59  NNO = -1.72  QFM = -1.06  COH = 1.09  IW = 2.49
+
+Constraint Flags: Fractionate Solids  
+
+Liquid           mass = 51.54 (gm)  density = 2.69 (gm/cc)  viscosity = 2.31 (log 10 poise)     (analysis in wt %)
+ 		G = -813823.62 (J)  H = -614384.67 (J)  S = 138.20 (J/K)  V = 19.13 (cc)  Cp = 74.98 (J/K)  
+        SiO2   TiO2  Al2O3  Fe2O3  Cr2O3    FeO    MnO    MgO    NiO    CoO    CaO   Na2O    K2O   P2O5    H2O    CO2    SO3 Cl2O-1  F2O-1
+       49.21   1.84  14.62   1.41   0.05  11.17   0.00   6.92   0.00   0.00  10.52   3.67   0.06   0.16   0.39   0.00   0.00   0.00   0.00
+
+olivine          mass = 0.36 (gm)  density = 3.32 (gm/cc)     (analysis in mole %)
+                 (Ca0.01Mg0.80Fe''0.20Mn0.00Co0.00Ni0.00)2SiO4
+                 G = -5454.64 (J)  H = -4230.64 (J)  S = 0.85 (J/K)  V = 0.11 (cc)  Cp = 0.43 (J/K)  
+          tephroite      fayalite    co-olivine    ni-olivine  monticellite    forsterite
+               0.00         20.45          0.00          0.00          1.35         78.20
+
+clinopyroxene    mass = 1.35 (gm)  density = 3.23 (gm/cc)     (analysis in mole %)
+                 cpx Na0.02Ca0.79Fe''0.18Mg0.89Fe'''0.04Ti0.02Al0.20Si1.87O6
+                 G = -21810.52 (J)  H = -17274.86 (J)  S = 3.14 (J/K)  V = 0.42 (cc)  Cp = 1.60 (J/K)  
+           diopside clinoenstatit  hedenbergite alumino-buffo     buffonite      essenite       jadeite
+              47.96         19.45         18.05          9.40         -5.72          9.35          1.51
+
+feldspar         mass = 1.56 (gm)  density = 2.66 (gm/cc)     (analysis in mole %)
+                 K0.00Na0.28Ca0.71Al1.71Si2.29O8
+                 G = -26954.43 (J)  H = -21485.85 (J)  S = 3.79 (J/K)  V = 0.59 (cc)  Cp = 1.92 (J/K)  
+             albite     anorthite      sanidine
+              28.46         71.50          0.04
+
+spinel           mass = 0.01 (gm)  density = 4.27 (gm/cc)     (analysis in mole %)
+                 Fe''0.49Mg0.59Fe'''0.34Al0.82Cr0.67Ti0.08O4
+                 G = -111.32 (J)  H = -81.05 (J)  S = 0.02 (J/K)  V = 0.00 (cc)  Cp = 0.01 (J/K)  
+           chromite     hercynite     magnetite        spinel    ulvospinel
+              33.50        -17.78         16.99         58.94          8.36
+
+Total solids     mass = 3.27 (gm)  density = 2.94 (gm/cc)
+                 G = -54330.90 (J)  H = -43072.40 (J)  S = 7.80 (J/K)  V = 1.11 (cc)  Cp = 3.96 (J/K)  
+
+Summary of all fractionated phases: (total mass = 45.55 grams)
+
+olivine          mass = 7.66 (gm)  density = 3.27 (gm/cc)	(analysis in mole %)
+		    (Ca0.01Mg0.84Fe''0.16Mn0.00Co0.00Ni0.00)2SiO4
+		    G = -121483.52 (J)  H = -94902.68 (J)  S = 18.42 (J/K)  V = 2.35 (cc)  Cp = 9.54 (J/K)  
+	     tephroite      fayalite    co-olivine    ni-olivine  monticellite    forsterite
+	          0.00         15.62          0.00          0.00          1.39         82.98
+
+clinopyroxene    mass = 10.46 (gm)  density = 3.22 (gm/cc)	(analysis in mole %)
+		    cpx Na0.01Ca0.80Fe''0.16Mg0.90Fe'''0.04Ti0.01Al0.20Si1.87O6
+		    G = -170147.72 (J)  H = -134940.23 (J)  S = 24.40 (J/K)  V = 3.25 (cc)  Cp = 12.46 (J/K)  
+	      diopside clinoenstatit  hedenbergite alumino-buffo     buffonite      essenite       jadeite
+	         51.92         18.41         15.66          9.00         -6.21          9.85          1.36
+
+feldspar         mass = 27.37 (gm)  density = 2.67 (gm/cc)	(analysis in mole %)
+		    K0.00Na0.22Ca0.78Al1.78Si2.22O8
+		    G = -473619.68 (J)  H = -377979.56 (J)  S = 66.27 (J/K)  V = 10.24 (cc)  Cp = 33.65 (J/K)  
+	        albite     anorthite      sanidine
+	         22.15         77.83          0.02
+
+spinel           mass = 0.06 (gm)  density = 4.10 (gm/cc)	(analysis in mole %)
+		    Fe''0.34Mg0.70Fe'''0.27Al1.07Cr0.59Ti0.04O4
+		    G = -756.39 (J)  H = -566.57 (J)  S = 0.13 (J/K)  V = 0.01 (cc)  Cp = 0.07 (J/K)  
+	      chromite     hercynite     magnetite        spinel    ulvospinel
+	         29.30        -16.55         13.39         69.99          3.88
+
+Viscosity of the System: 4.75 (log 10 poise)
+
+System           mass = 100.36 (gm)  density = 2.78 (gm/cc)
+                 G = -1634161.83 (J)  H = -1265846.10 (J)  S = 255.22 (J/K)  V = 36.10 (cc)  Cp = 134.66 (J/K)  
+
+**********----------**********
+Title: dummy
+
+T = 1165.00 (C)  P = 1.000 (kbars)  log(10) f O2 = -9.68  delta HM = -6.58  NNO = -1.70  QFM = -1.05  COH = 1.09  IW = 2.51
+
+Constraint Flags: Fractionate Solids  
+
+Liquid           mass = 48.64 (gm)  density = 2.69 (gm/cc)  viscosity = 2.33 (log 10 poise)     (analysis in wt %)
+ 		G = -764995.77 (J)  H = -577621.19 (J)  S = 130.29 (J/K)  V = 18.05 (cc)  Cp = 70.56 (J/K)  
+        SiO2   TiO2  Al2O3  Fe2O3  Cr2O3    FeO    MnO    MgO    NiO    CoO    CaO   Na2O    K2O   P2O5    H2O    CO2    SO3 Cl2O-1  F2O-1
+       49.21   1.93  14.46   1.46   0.05  11.55   0.00   6.68   0.00   0.00  10.24   3.79   0.06   0.16   0.41   0.00   0.00   0.00   0.00
+
+olivine          mass = 0.32 (gm)  density = 3.33 (gm/cc)     (analysis in mole %)
+                 (Ca0.01Mg0.79Fe''0.21Mn0.00Co0.00Ni0.00)2SiO4
+                 G = -4869.36 (J)  H = -3776.42 (J)  S = 0.76 (J/K)  V = 0.10 (cc)  Cp = 0.39 (J/K)  
+          tephroite      fayalite    co-olivine    ni-olivine  monticellite    forsterite
+               0.00         21.37          0.00          0.00          1.33         77.30
+
+clinopyroxene    mass = 1.18 (gm)  density = 3.24 (gm/cc)     (analysis in mole %)
+                 cpx Na0.02Ca0.79Fe''0.19Mg0.88Fe'''0.04Ti0.02Al0.20Si1.87O6
+                 G = -19123.99 (J)  H = -15158.95 (J)  S = 2.76 (J/K)  V = 0.37 (cc)  Cp = 1.41 (J/K)  
+           diopside clinoenstatit  hedenbergite alumino-buffo     buffonite      essenite       jadeite
+              46.76         19.72         18.78          9.56         -5.57          9.20          1.55
+
+feldspar         mass = 1.40 (gm)  density = 2.66 (gm/cc)     (analysis in mole %)
+                 K0.00Na0.30Ca0.70Al1.70Si2.30O8
+                 G = -24167.78 (J)  H = -19282.69 (J)  S = 3.40 (J/K)  V = 0.53 (cc)  Cp = 1.72 (J/K)  
+             albite     anorthite      sanidine
+              29.59         70.36          0.04
+
+spinel           mass = 0.01 (gm)  density = 4.30 (gm/cc)     (analysis in mole %)
+                 Fe''0.53Mg0.57Fe'''0.35Al0.78Cr0.67Ti0.10O4
+                 G = -106.59 (J)  H = -77.28 (J)  S = 0.02 (J/K)  V = 0.00 (cc)  Cp = 0.01 (J/K)  
+           chromite     hercynite     magnetite        spinel    ulvospinel
+              33.32        -17.56         17.58         56.65         10.02
+
+Total solids     mass = 2.91 (gm)  density = 2.94 (gm/cc)
+                 G = -48267.72 (J)  H = -38295.35 (J)  S = 6.93 (J/K)  V = 0.99 (cc)  Cp = 3.52 (J/K)  
+
+Summary of all fractionated phases: (total mass = 48.81 grams)
+
+olivine          mass = 8.02 (gm)  density = 3.27 (gm/cc)	(analysis in mole %)
+		    (Ca0.01Mg0.84Fe''0.16Mn0.00Co0.00Ni0.00)2SiO4
+		    G = -126818.63 (J)  H = -99164.74 (J)  S = 19.23 (J/K)  V = 2.45 (cc)  Cp = 9.97 (J/K)  
+	     tephroite      fayalite    co-olivine    ni-olivine  monticellite    forsterite
+	          0.00         15.83          0.00          0.00          1.39         82.78
+
+clinopyroxene    mass = 11.81 (gm)  density = 3.22 (gm/cc)	(analysis in mole %)
+		    cpx Na0.01Ca0.80Fe''0.16Mg0.90Fe'''0.04Ti0.01Al0.20Si1.87O6
+		    G = -191785.16 (J)  H = -152257.09 (J)  S = 27.49 (J/K)  V = 3.66 (cc)  Cp = 14.05 (J/K)  
+	      diopside clinoenstatit  hedenbergite alumino-buffo     buffonite      essenite       jadeite
+	         51.47         18.53         15.93          9.05         -6.16          9.80          1.38
+
+feldspar         mass = 28.92 (gm)  density = 2.67 (gm/cc)	(analysis in mole %)
+		    K0.00Na0.22Ca0.77Al1.77Si2.23O8
+		    G = -500177.26 (J)  H = -399605.18 (J)  S = 69.93 (J/K)  V = 10.83 (cc)  Cp = 35.54 (J/K)  
+	        albite     anorthite      sanidine
+	         22.49         77.48          0.02
+
+spinel           mass = 0.07 (gm)  density = 4.12 (gm/cc)	(analysis in mole %)
+		    Fe''0.36Mg0.69Fe'''0.28Al1.04Cr0.60Ti0.04O4
+		    G = -845.22 (J)  H = -632.12 (J)  S = 0.15 (J/K)  V = 0.02 (cc)  Cp = 0.07 (J/K)  
+	      chromite     hercynite     magnetite        spinel    ulvospinel
+	         29.76        -16.69         13.78         68.77          4.37
+
+Viscosity of the System: 7.42 (log 10 poise)
+
+System           mass = 100.36 (gm)  density = 2.79 (gm/cc)
+                 G = -1632889.76 (J)  H = -1267575.67 (J)  S = 254.02 (J/K)  V = 36.00 (cc)  Cp = 133.72 (J/K)  
+
+**********----------**********
+Title: dummy
+
+T = 1160.00 (C)  P = 1.000 (kbars)  log(10) f O2 = -9.73  delta HM = -6.57  NNO = -1.69  QFM = -1.04  COH = 1.10  IW = 2.53
+
+Constraint Flags: Fractionate Solids  
+
+Liquid           mass = 46.04 (gm)  density = 2.70 (gm/cc)  viscosity = 2.35 (log 10 poise)     (analysis in wt %)
+ 		G = -721297.82 (J)  H = -544732.47 (J)  S = 123.20 (J/K)  V = 17.08 (cc)  Cp = 66.60 (J/K)  
+        SiO2   TiO2  Al2O3  Fe2O3  Cr2O3    FeO    MnO    MgO    NiO    CoO    CaO   Na2O    K2O   P2O5    H2O    CO2    SO3 Cl2O-1  F2O-1
+       49.20   2.02  14.31   1.51   0.05  11.93   0.00   6.44   0.00   0.00   9.98   3.90   0.06   0.17   0.43   0.00   0.00   0.00   0.00
+
+olivine          mass = 0.29 (gm)  density = 3.35 (gm/cc)     (analysis in mole %)
+                 (Ca0.01Mg0.78Fe''0.22Mn0.00Co0.00Ni0.00)2SiO4
+                 G = -4383.13 (J)  H = -3399.00 (J)  S = 0.69 (J/K)  V = 0.09 (cc)  Cp = 0.35 (J/K)  
+          tephroite      fayalite    co-olivine    ni-olivine  monticellite    forsterite
+               0.00         22.31          0.00          0.00          1.32         76.37
+
+clinopyroxene    mass = 1.05 (gm)  density = 3.24 (gm/cc)     (analysis in mole %)
+                 cpx Na0.02Ca0.78Fe''0.20Mg0.88Fe'''0.04Ti0.02Al0.20Si1.87O6
+                 G = -16869.28 (J)  H = -13382.29 (J)  S = 2.43 (J/K)  V = 0.32 (cc)  Cp = 1.24 (J/K)  
+           diopside clinoenstatit  hedenbergite alumino-buffo     buffonite      essenite       jadeite
+              45.56         19.97         19.51          9.72         -5.42          9.05          1.60
+
+feldspar         mass = 1.26 (gm)  density = 2.66 (gm/cc)     (analysis in mole %)
+                 K0.00Na0.31Ca0.69Al1.69Si2.31O8
+                 G = -21820.67 (J)  H = -17426.43 (J)  S = 3.07 (J/K)  V = 0.48 (cc)  Cp = 1.55 (J/K)  
+             albite     anorthite      sanidine
+              30.72         69.23          0.05
+
+spinel           mass = 0.01 (gm)  density = 4.33 (gm/cc)     (analysis in mole %)
+                 Fe''0.58Mg0.54Fe'''0.36Al0.74Cr0.66Ti0.12O4
+                 G = -103.68 (J)  H = -74.85 (J)  S = 0.02 (J/K)  V = 0.00 (cc)  Cp = 0.01 (J/K)  
+           chromite     hercynite     magnetite        spinel    ulvospinel
+              32.87        -17.48         18.17         54.42         12.03
+
+Total solids     mass = 2.61 (gm)  density = 2.94 (gm/cc)
+                 G = -43176.76 (J)  H = -34282.57 (J)  S = 6.21 (J/K)  V = 0.89 (cc)  Cp = 3.16 (J/K)  
+
+Summary of all fractionated phases: (total mass = 51.71 grams)
+
+olivine          mass = 8.33 (gm)  density = 3.27 (gm/cc)	(analysis in mole %)
+		    (Ca0.01Mg0.84Fe''0.16Mn0.00Co0.00Ni0.00)2SiO4
+		    G = -131564.97 (J)  H = -102974.54 (J)  S = 19.95 (J/K)  V = 2.55 (cc)  Cp = 10.35 (J/K)  
+	     tephroite      fayalite    co-olivine    ni-olivine  monticellite    forsterite
+	          0.00         16.04          0.00          0.00          1.39         82.57
+
+clinopyroxene    mass = 12.99 (gm)  density = 3.23 (gm/cc)	(analysis in mole %)
+		    cpx Na0.01Ca0.80Fe''0.16Mg0.90Fe'''0.04Ti0.01Al0.20Si1.87O6
+		    G = -210722.65 (J)  H = -167465.04 (J)  S = 30.18 (J/K)  V = 4.03 (cc)  Cp = 15.45 (J/K)  
+	      diopside clinoenstatit  hedenbergite alumino-buffo     buffonite      essenite       jadeite
+	         51.04         18.64         16.19          9.09         -6.10          9.74          1.40
+
+feldspar         mass = 30.32 (gm)  density = 2.67 (gm/cc)	(analysis in mole %)
+		    K0.00Na0.23Ca0.77Al1.77Si2.23O8
+		    G = -523932.00 (J)  H = -419036.13 (J)  S = 73.19 (J/K)  V = 11.35 (cc)  Cp = 37.24 (J/K)  
+	        albite     anorthite      sanidine
+	         22.82         77.16          0.02
+
+spinel           mass = 0.07 (gm)  density = 4.14 (gm/cc)	(analysis in mole %)
+		    Fe''0.37Mg0.68Fe'''0.28Al1.02Cr0.60Ti0.05O4
+		    G = -929.43 (J)  H = -694.14 (J)  S = 0.16 (J/K)  V = 0.02 (cc)  Cp = 0.08 (J/K)  
+	      chromite     hercynite     magnetite        spinel    ulvospinel
+	         30.10        -16.77         14.14         67.62          4.91
+
+Viscosity of the System cannot be computed.
+
+System           mass = 100.36 (gm)  density = 2.80 (gm/cc)
+                 G = -1631623.63 (J)  H = -1269184.89 (J)  S = 252.90 (J/K)  V = 35.91 (cc)  Cp = 132.87 (J/K)  
+
+**********----------**********
+Title: dummy
+
+T = 1155.00 (C)  P = 1.000 (kbars)  log(10) f O2 = -9.77  delta HM = -6.55  NNO = -1.67  QFM = -1.02  COH = 1.11  IW = 2.55
+
+Constraint Flags: Fractionate Solids  
+
+Liquid           mass = 43.70 (gm)  density = 2.70 (gm/cc)  viscosity = 2.36 (log 10 poise)     (analysis in wt %)
+ 		G = -681947.31 (J)  H = -515126.78 (J)  S = 116.81 (J/K)  V = 16.20 (cc)  Cp = 63.03 (J/K)  
+        SiO2   TiO2  Al2O3  Fe2O3  Cr2O3    FeO    MnO    MgO    NiO    CoO    CaO   Na2O    K2O   P2O5    H2O    CO2    SO3 Cl2O-1  F2O-1
+       49.20   2.11  14.15   1.56   0.04  12.30   0.00   6.21   0.00   0.00   9.72   4.01   0.07   0.18   0.46   0.00   0.00   0.00   0.00
+
+olivine          mass = 0.26 (gm)  density = 3.36 (gm/cc)     (analysis in mole %)
+                 (Ca0.01Mg0.77Fe''0.23Mn0.00Co0.00Ni0.00)2SiO4
+                 G = -3975.92 (J)  H = -3082.84 (J)  S = 0.63 (J/K)  V = 0.08 (cc)  Cp = 0.32 (J/K)  
+          tephroite      fayalite    co-olivine    ni-olivine  monticellite    forsterite
+               0.00         23.27          0.00          0.00          1.31         75.42
+
+clinopyroxene    mass = 0.93 (gm)  density = 3.24 (gm/cc)     (analysis in mole %)
+                 cpx Na0.02Ca0.78Fe''0.20Mg0.87Fe'''0.04Ti0.02Al0.20Si1.86O6
+                 G = -14960.20 (J)  H = -11877.26 (J)  S = 2.16 (J/K)  V = 0.29 (cc)  Cp = 1.10 (J/K)  
+           diopside clinoenstatit  hedenbergite alumino-buffo     buffonite      essenite       jadeite
+              44.37         20.20         20.24          9.91         -5.26          8.90          1.65
+
+feldspar         mass = 1.15 (gm)  density = 2.65 (gm/cc)     (analysis in mole %)
+                 K0.00Na0.32Ca0.68Al1.68Si2.32O8
+                 G = -19825.38 (J)  H = -15847.91 (J)  S = 2.79 (J/K)  V = 0.43 (cc)  Cp = 1.41 (J/K)  
+             albite     anorthite      sanidine
+              31.85         68.10          0.05
+
+spinel           mass = 0.01 (gm)  density = 4.36 (gm/cc)     (analysis in mole %)
+                 Fe''0.62Mg0.52Fe'''0.37Al0.69Cr0.64Ti0.14O4
+                 G = -102.69 (J)  H = -73.80 (J)  S = 0.02 (J/K)  V = 0.00 (cc)  Cp = 0.01 (J/K)  
+           chromite     hercynite     magnetite        spinel    ulvospinel
+              32.08        -17.60         18.72         52.31         14.49
+
+Total solids     mass = 2.35 (gm)  density = 2.94 (gm/cc)
+                 G = -38864.20 (J)  H = -30881.82 (J)  S = 5.59 (J/K)  V = 0.80 (cc)  Cp = 2.84 (J/K)  
+
+Summary of all fractionated phases: (total mass = 54.31 grams)
+
+olivine          mass = 8.62 (gm)  density = 3.27 (gm/cc)	(analysis in mole %)
+		    (Ca0.01Mg0.84Fe''0.16Mn0.00Co0.00Ni0.00)2SiO4
+		    G = -135821.97 (J)  H = -106408.68 (J)  S = 20.60 (J/K)  V = 2.63 (cc)  Cp = 10.69 (J/K)  
+	     tephroite      fayalite    co-olivine    ni-olivine  monticellite    forsterite
+	          0.00         16.24          0.00          0.00          1.39         82.37
+
+clinopyroxene    mass = 14.03 (gm)  density = 3.23 (gm/cc)	(analysis in mole %)
+		    cpx Na0.01Ca0.80Fe''0.16Mg0.90Fe'''0.04Ti0.02Al0.20Si1.87O6
+		    G = -227393.67 (J)  H = -180902.51 (J)  S = 32.55 (J/K)  V = 4.35 (cc)  Cp = 16.68 (J/K)  
+	      diopside clinoenstatit  hedenbergite alumino-buffo     buffonite      essenite       jadeite
+	         50.64         18.73         16.43          9.14         -6.05          9.69          1.41
+
+feldspar         mass = 31.58 (gm)  density = 2.67 (gm/cc)	(analysis in mole %)
+		    K0.00Na0.23Ca0.77Al1.77Si2.23O8
+		    G = -545325.11 (J)  H = -436618.46 (J)  S = 76.12 (J/K)  V = 11.82 (cc)  Cp = 38.77 (J/K)  
+	        albite     anorthite      sanidine
+	         23.14         76.84          0.03
+
+spinel           mass = 0.08 (gm)  density = 4.16 (gm/cc)	(analysis in mole %)
+		    Fe''0.39Mg0.66Fe'''0.29Al0.99Cr0.61Ti0.06O4
+		    G = -1010.82 (J)  H = -753.95 (J)  S = 0.18 (J/K)  V = 0.02 (cc)  Cp = 0.09 (J/K)  
+	      chromite     hercynite     magnetite        spinel    ulvospinel
+	         30.33        -16.83         14.49         66.50          5.51
+
+Viscosity of the System cannot be computed.
+
+System           mass = 100.36 (gm)  density = 2.80 (gm/cc)
+                 G = -1630363.08 (J)  H = -1270692.19 (J)  S = 251.84 (J/K)  V = 35.82 (cc)  Cp = 132.11 (J/K)  
+
+**********----------**********
+Title: dummy
+
+T = 1150.00 (C)  P = 1.000 (kbars)  log(10) f O2 = -9.82  delta HM = -6.54  NNO = -1.66  QFM = -1.01  COH = 1.12  IW = 2.57
+
+Constraint Flags: Fractionate Solids  
+
+Liquid           mass = 41.57 (gm)  density = 2.70 (gm/cc)  viscosity = 2.38 (log 10 poise)     (analysis in wt %)
+ 		G = -646308.96 (J)  H = -488323.82 (J)  S = 111.01 (J/K)  V = 15.41 (cc)  Cp = 59.80 (J/K)  
+        SiO2   TiO2  Al2O3  Fe2O3  Cr2O3    FeO    MnO    MgO    NiO    CoO    CaO   Na2O    K2O   P2O5    H2O    CO2    SO3 Cl2O-1  F2O-1
+       49.19   2.20  13.99   1.61   0.04  12.66   0.00   5.98   0.00   0.00   9.47   4.12   0.07   0.19   0.48   0.00   0.00   0.00   0.00
+
+olivine          mass = 0.24 (gm)  density = 3.37 (gm/cc)     (analysis in mole %)
+                 (Ca0.01Mg0.76Fe''0.24Mn0.00Co0.00Ni0.00)2SiO4
+                 G = -3632.53 (J)  H = -2816.15 (J)  S = 0.57 (J/K)  V = 0.07 (cc)  Cp = 0.29 (J/K)  
+          tephroite      fayalite    co-olivine    ni-olivine  monticellite    forsterite
+               0.00         24.25          0.00          0.00          1.30         74.44
+
+clinopyroxene    mass = 0.83 (gm)  density = 3.25 (gm/cc)     (analysis in mole %)
+                 cpx Na0.02Ca0.78Fe''0.21Mg0.86Fe'''0.04Ti0.03Al0.21Si1.86O6
+                 G = -13331.71 (J)  H = -10592.81 (J)  S = 1.92 (J/K)  V = 0.26 (cc)  Cp = 0.98 (J/K)  
+           diopside clinoenstatit  hedenbergite alumino-buffo     buffonite      essenite       jadeite
+              43.18         20.39         20.98         10.10         -5.10          8.75          1.70
+
+feldspar         mass = 1.05 (gm)  density = 2.65 (gm/cc)     (analysis in mole %)
+                 K0.00Na0.33Ca0.67Al1.67Si2.33O8
+                 G = -18115.14 (J)  H = -14494.50 (J)  S = 2.54 (J/K)  V = 0.40 (cc)  Cp = 1.29 (J/K)  
+             albite     anorthite      sanidine
+              32.98         66.97          0.05
+
+spinel           mass = 0.01 (gm)  density = 4.38 (gm/cc)     (analysis in mole %)
+                 Fe''0.67Mg0.50Fe'''0.38Al0.65Cr0.62Ti0.18O4
+                 G = -104.07 (J)  H = -74.44 (J)  S = 0.02 (J/K)  V = 0.00 (cc)  Cp = 0.01 (J/K)  
+           chromite     hercynite     magnetite        spinel    ulvospinel
+              30.86        -18.02         19.25         50.35         17.56
+
+Total solids     mass = 2.13 (gm)  density = 2.94 (gm/cc)
+                 G = -35183.45 (J)  H = -27977.91 (J)  S = 5.06 (J/K)  V = 0.73 (cc)  Cp = 2.58 (J/K)  
+
+Summary of all fractionated phases: (total mass = 56.66 grams)
+
+olivine          mass = 8.88 (gm)  density = 3.28 (gm/cc)	(analysis in mole %)
+		    (Ca0.01Mg0.84Fe''0.16Mn0.00Co0.00Ni0.00)2SiO4
+		    G = -139668.97 (J)  H = -109528.26 (J)  S = 21.18 (J/K)  V = 2.71 (cc)  Cp = 11.01 (J/K)  
+	     tephroite      fayalite    co-olivine    ni-olivine  monticellite    forsterite
+	          0.00         16.44          0.00          0.00          1.39         82.17
+
+clinopyroxene    mass = 14.96 (gm)  density = 3.23 (gm/cc)	(analysis in mole %)
+		    cpx Na0.01Ca0.80Fe''0.17Mg0.89Fe'''0.04Ti0.02Al0.20Si1.87O6
+		    G = -242145.22 (J)  H = -192840.43 (J)  S = 34.64 (J/K)  V = 4.63 (cc)  Cp = 17.78 (J/K)  
+	      diopside clinoenstatit  hedenbergite alumino-buffo     buffonite      essenite       jadeite
+	         50.25         18.83         16.67          9.19         -6.00          9.64          1.43
+
+feldspar         mass = 32.72 (gm)  density = 2.67 (gm/cc)	(analysis in mole %)
+		    K0.00Na0.23Ca0.77Al1.77Si2.23O8
+		    G = -564709.84 (J)  H = -452629.20 (J)  S = 78.76 (J/K)  V = 12.25 (cc)  Cp = 40.16 (J/K)  
+	        albite     anorthite      sanidine
+	         23.44         76.53          0.03
+
+spinel           mass = 0.09 (gm)  density = 4.17 (gm/cc)	(analysis in mole %)
+		    Fe''0.41Mg0.65Fe'''0.30Al0.97Cr0.61Ti0.06O4
+		    G = -1091.33 (J)  H = -812.94 (J)  S = 0.20 (J/K)  V = 0.02 (cc)  Cp = 0.10 (J/K)  
+	      chromite     hercynite     magnetite        spinel    ulvospinel
+	         30.47        -16.89         14.82         65.39          6.22
+
+Viscosity of the System cannot be computed.
+
+System           mass = 100.36 (gm)  density = 2.81 (gm/cc)
+                 G = -1629107.79 (J)  H = -1272112.55 (J)  S = 250.85 (J/K)  V = 35.75 (cc)  Cp = 131.42 (J/K)  
+
+**********----------**********
+Title: dummy
+
+T = 1145.00 (C)  P = 1.000 (kbars)  log(10) f O2 = -9.86  delta HM = -6.53  NNO = -1.64  QFM = -0.99  COH = 1.13  IW = 2.59
+
+Constraint Flags: Fractionate Solids  
+
+Liquid           mass = 39.63 (gm)  density = 2.70 (gm/cc)  viscosity = 2.39 (log 10 poise)     (analysis in wt %)
+ 		G = -613858.95 (J)  H = -463927.67 (J)  S = 105.72 (J/K)  V = 14.68 (cc)  Cp = 56.87 (J/K)  
+        SiO2   TiO2  Al2O3  Fe2O3  Cr2O3    FeO    MnO    MgO    NiO    CoO    CaO   Na2O    K2O   P2O5    H2O    CO2    SO3 Cl2O-1  F2O-1
+       49.18   2.28  13.83   1.66   0.04  13.01   0.00   5.77   0.00   0.00   9.24   4.22   0.07   0.20   0.50   0.00   0.00   0.00   0.00
+
+olivine          mass = 0.23 (gm)  density = 3.38 (gm/cc)     (analysis in mole %)
+                 (Ca0.01Mg0.75Fe''0.25Mn0.00Co0.00Ni0.00)2SiO4
+                 G = -3341.26 (J)  H = -2589.85 (J)  S = 0.53 (J/K)  V = 0.07 (cc)  Cp = 0.27 (J/K)  
+          tephroite      fayalite    co-olivine    ni-olivine  monticellite    forsterite
+               0.00         25.27          0.00          0.00          1.29         73.44
+
+clinopyroxene    mass = 0.75 (gm)  density = 3.25 (gm/cc)     (analysis in mole %)
+                 cpx Na0.02Ca0.78Fe''0.22Mg0.86Fe'''0.04Ti0.03Al0.21Si1.86O6
+                 G = -11934.81 (J)  H = -9490.51 (J)  S = 1.72 (J/K)  V = 0.23 (cc)  Cp = 0.88 (J/K)  
+           diopside clinoenstatit  hedenbergite alumino-buffo     buffonite      essenite       jadeite
+              42.01         20.56         21.71         10.32         -4.94          8.60          1.75
+
+feldspar         mass = 0.96 (gm)  density = 2.65 (gm/cc)     (analysis in mole %)
+                 K0.00Na0.34Ca0.66Al1.66Si2.34O8
+                 G = -16638.65 (J)  H = -13325.74 (J)  S = 2.34 (J/K)  V = 0.36 (cc)  Cp = 1.19 (J/K)  
+             albite     anorthite      sanidine
+              34.10         65.84          0.06
+
+spinel           mass = 0.01 (gm)  density = 4.40 (gm/cc)     (analysis in mole %)
+                 Fe''0.73Mg0.49Fe'''0.39Al0.59Cr0.58Ti0.21O4
+                 G = -108.90 (J)  H = -77.51 (J)  S = 0.02 (J/K)  V = 0.00 (cc)  Cp = 0.01 (J/K)  
+           chromite     hercynite     magnetite        spinel    ulvospinel
+              29.08        -18.88         19.72         48.60         21.48
+
+Total solids     mass = 1.95 (gm)  density = 2.94 (gm/cc)
+                 G = -32023.61 (J)  H = -25483.61 (J)  S = 4.61 (J/K)  V = 0.66 (cc)  Cp = 2.35 (J/K)  
+
+Summary of all fractionated phases: (total mass = 58.78 grams)
+
+olivine          mass = 9.13 (gm)  density = 3.28 (gm/cc)	(analysis in mole %)
+		    (Ca0.01Mg0.83Fe''0.17Mn0.00Co0.00Ni0.00)2SiO4
+		    G = -143170.05 (J)  H = -112382.61 (J)  S = 21.71 (J/K)  V = 2.78 (cc)  Cp = 11.29 (J/K)  
+	     tephroite      fayalite    co-olivine    ni-olivine  monticellite    forsterite
+	          0.00         16.64          0.00          0.00          1.38         81.97
+
+clinopyroxene    mass = 15.79 (gm)  density = 3.23 (gm/cc)	(analysis in mole %)
+		    cpx Na0.01Ca0.80Fe''0.17Mg0.89Fe'''0.04Ti0.02Al0.20Si1.87O6
+		    G = -255259.10 (J)  H = -203498.78 (J)  S = 36.50 (J/K)  V = 4.89 (cc)  Cp = 18.75 (J/K)  
+	      diopside clinoenstatit  hedenbergite alumino-buffo     buffonite      essenite       jadeite
+	         49.88         18.91         16.90          9.24         -5.96          9.60          1.44
+
+feldspar         mass = 33.77 (gm)  density = 2.67 (gm/cc)	(analysis in mole %)
+		    K0.00Na0.24Ca0.76Al1.76Si2.24O8
+		    G = -582372.48 (J)  H = -467292.85 (J)  S = 81.15 (J/K)  V = 12.65 (cc)  Cp = 41.42 (J/K)  
+	        albite     anorthite      sanidine
+	         23.74         76.23          0.03
+
+spinel           mass = 0.10 (gm)  density = 4.19 (gm/cc)	(analysis in mole %)
+		    Fe''0.43Mg0.64Fe'''0.30Al0.95Cr0.61Ti0.07O4
+		    G = -1173.31 (J)  H = -872.79 (J)  S = 0.21 (J/K)  V = 0.02 (cc)  Cp = 0.10 (J/K)  
+	      chromite     hercynite     magnetite        spinel    ulvospinel
+	         30.50        -16.98         15.15         64.27          7.06
+
+Viscosity of the System cannot be computed.
+
+System           mass = 100.36 (gm)  density = 2.81 (gm/cc)
+                 G = -1627857.49 (J)  H = -1273458.32 (J)  S = 249.90 (J/K)  V = 35.68 (cc)  Cp = 130.79 (J/K)  
+
+**********----------**********
+Title: dummy
+
+T = 1140.00 (C)  P = 1.000 (kbars)  log(10) f O2 = -9.91  delta HM = -6.51  NNO = -1.63  QFM = -0.98  COH = 1.14  IW = 2.61
+
+Constraint Flags: Fractionate Solids  
+
+Liquid           mass = 37.86 (gm)  density = 2.70 (gm/cc)  viscosity = 2.41 (log 10 poise)     (analysis in wt %)
+ 		G = -584155.50 (J)  H = -441604.71 (J)  S = 100.87 (J/K)  V = 14.02 (cc)  Cp = 54.18 (J/K)  
+        SiO2   TiO2  Al2O3  Fe2O3  Cr2O3    FeO    MnO    MgO    NiO    CoO    CaO   Na2O    K2O   P2O5    H2O    CO2    SO3 Cl2O-1  F2O-1
+       49.17   2.37  13.67   1.71   0.04  13.35   0.00   5.55   0.00   0.00   9.01   4.32   0.07   0.21   0.53   0.00   0.00   0.00   0.00
+
+olivine          mass = 0.21 (gm)  density = 3.40 (gm/cc)     (analysis in mole %)
+                 (Ca0.01Mg0.74Fe''0.26Mn0.00Co0.00Ni0.00)2SiO4
+                 G = -3092.93 (J)  H = -2396.82 (J)  S = 0.49 (J/K)  V = 0.06 (cc)  Cp = 0.25 (J/K)  
+          tephroite      fayalite    co-olivine    ni-olivine  monticellite    forsterite
+               0.00         26.32          0.00          0.00          1.29         72.40
+
+clinopyroxene    mass = 0.67 (gm)  density = 3.26 (gm/cc)     (analysis in mole %)
+                 cpx Na0.02Ca0.78Fe''0.22Mg0.85Fe'''0.04Ti0.03Al0.21Si1.86O6
+                 G = -10733.79 (J)  H = -8542.37 (J)  S = 1.55 (J/K)  V = 0.21 (cc)  Cp = 0.79 (J/K)  
+           diopside clinoenstatit  hedenbergite alumino-buffo     buffonite      essenite       jadeite
+              40.85         20.68         22.43         10.56         -4.77          8.45          1.80
+
+feldspar         mass = 0.89 (gm)  density = 2.65 (gm/cc)     (analysis in mole %)
+                 K0.00Na0.35Ca0.65Al1.65Si2.35O8
+                 G = -15356.71 (J)  H = -12310.75 (J)  S = 2.16 (J/K)  V = 0.34 (cc)  Cp = 1.09 (J/K)  
+             albite     anorthite      sanidine
+              35.22         64.72          0.06
+
+spinel           mass = 0.01 (gm)  density = 4.43 (gm/cc)     (analysis in mole %)
+                 Fe''0.80Mg0.47Fe'''0.40Al0.53Cr0.53Ti0.27O4
+                 G = -119.57 (J)  H = -84.64 (J)  S = 0.02 (J/K)  V = 0.00 (cc)  Cp = 0.01 (J/K)  
+           chromite     hercynite     magnetite        spinel    ulvospinel
+              26.55        -20.35         20.11         47.08         26.61
+
+Total solids     mass = 1.79 (gm)  density = 2.94 (gm/cc)
+                 G = -29303.00 (J)  H = -23334.58 (J)  S = 4.22 (J/K)  V = 0.61 (cc)  Cp = 2.15 (J/K)  
+
+Summary of all fractionated phases: (total mass = 60.72 grams)
+
+olivine          mass = 9.35 (gm)  density = 3.28 (gm/cc)	(analysis in mole %)
+		    (Ca0.01Mg0.83Fe''0.17Mn0.00Co0.00Ni0.00)2SiO4
+		    G = -146377.55 (J)  H = -115012.03 (J)  S = 22.20 (J/K)  V = 2.85 (cc)  Cp = 11.56 (J/K)  
+	     tephroite      fayalite    co-olivine    ni-olivine  monticellite    forsterite
+	          0.00         16.84          0.00          0.00          1.38         81.77
+
+clinopyroxene    mass = 16.54 (gm)  density = 3.23 (gm/cc)	(analysis in mole %)
+		    cpx Na0.01Ca0.80Fe''0.17Mg0.89Fe'''0.04Ti0.02Al0.20Si1.87O6
+		    G = -266967.90 (J)  H = -213059.21 (J)  S = 38.15 (J/K)  V = 5.12 (cc)  Cp = 19.62 (J/K)  
+	      diopside clinoenstatit  hedenbergite alumino-buffo     buffonite      essenite       jadeite
+	         49.53         18.98         17.11          9.28         -5.91          9.55          1.45
+
+feldspar         mass = 34.73 (gm)  density = 2.67 (gm/cc)	(analysis in mole %)
+		    K0.00Na0.24Ca0.76Al1.76Si2.24O8
+		    G = -598547.82 (J)  H = -480793.54 (J)  S = 83.33 (J/K)  V = 13.01 (cc)  Cp = 42.58 (J/K)  
+	        albite     anorthite      sanidine
+	         24.03         75.94          0.03
+
+spinel           mass = 0.10 (gm)  density = 4.21 (gm/cc)	(analysis in mole %)
+		    Fe''0.45Mg0.63Fe'''0.31Al0.92Cr0.61Ti0.08O4
+		    G = -1260.19 (J)  H = -935.93 (J)  S = 0.23 (J/K)  V = 0.02 (cc)  Cp = 0.11 (J/K)  
+	      chromite     hercynite     magnetite        spinel    ulvospinel
+	         30.39        -17.12         15.48         63.12          8.12
+
+Viscosity of the System cannot be computed.
+
+System           mass = 100.36 (gm)  density = 2.82 (gm/cc)
+                 G = -1626611.97 (J)  H = -1274739.99 (J)  S = 249.00 (J/K)  V = 35.62 (cc)  Cp = 130.21 (J/K)  
+
+**********----------**********
+Title: dummy
+
+T = 1135.00 (C)  P = 1.000 (kbars)  log(10) f O2 = -9.96  delta HM = -6.50  NNO = -1.61  QFM = -0.97  COH = 1.14  IW = 2.63
+
+Constraint Flags: Fractionate Solids  
+
+Liquid           mass = 36.22 (gm)  density = 2.70 (gm/cc)  viscosity = 2.42 (log 10 poise)     (analysis in wt %)
+ 		G = -556810.83 (J)  H = -421062.41 (J)  S = 96.40 (J/K)  V = 13.40 (cc)  Cp = 51.70 (J/K)  
+        SiO2   TiO2  Al2O3  Fe2O3  Cr2O3    FeO    MnO    MgO    NiO    CoO    CaO   Na2O    K2O   P2O5    H2O    CO2    SO3 Cl2O-1  F2O-1
+       49.16   2.45  13.51   1.76   0.03  13.68   0.00   5.35   0.00   0.00   8.79   4.42   0.08   0.22   0.55   0.00   0.00   0.00   0.00
+
+olivine          mass = 0.20 (gm)  density = 3.41 (gm/cc)     (analysis in mole %)
+                 (Ca0.01Mg0.73Fe''0.27Mn0.00Co0.00Ni0.00)2SiO4
+                 G = -2880.07 (J)  H = -2231.27 (J)  S = 0.46 (J/K)  V = 0.06 (cc)  Cp = 0.24 (J/K)  
+          tephroite      fayalite    co-olivine    ni-olivine  monticellite    forsterite
+               0.00         27.40          0.00          0.00          1.28         71.32
+
+clinopyroxene    mass = 0.61 (gm)  density = 3.26 (gm/cc)     (analysis in mole %)
+                 cpx Na0.02Ca0.77Fe''0.23Mg0.84Fe'''0.04Ti0.03Al0.21Si1.85O6
+                 G = -9705.95 (J)  H = -7730.66 (J)  S = 1.40 (J/K)  V = 0.19 (cc)  Cp = 0.72 (J/K)  
+           diopside clinoenstatit  hedenbergite alumino-buffo     buffonite      essenite       jadeite
+              39.70         20.77         23.16         10.82         -4.59          8.29          1.85
+
+feldspar         mass = 0.83 (gm)  density = 2.65 (gm/cc)     (analysis in mole %)
+                 K0.00Na0.36Ca0.64Al1.64Si2.36O8
+                 G = -14240.76 (J)  H = -11427.02 (J)  S = 2.00 (J/K)  V = 0.31 (cc)  Cp = 1.02 (J/K)  
+             albite     anorthite      sanidine
+              36.33         63.60          0.07
+
+spinel           mass = 0.01 (gm)  density = 4.44 (gm/cc)     (analysis in mole %)
+                 Fe''0.88Mg0.46Fe'''0.41Al0.47Cr0.46Ti0.33O4
+                 G = -141.23 (J)  H = -99.38 (J)  S = 0.03 (J/K)  V = 0.00 (cc)  Cp = 0.01 (J/K)  
+           chromite     hercynite     magnetite        spinel    ulvospinel
+              23.08        -22.52         20.30         45.80         33.33
+
+Total solids     mass = 1.65 (gm)  density = 2.94 (gm/cc)
+                 G = -26968.00 (J)  H = -21488.33 (J)  S = 3.89 (J/K)  V = 0.56 (cc)  Cp = 1.98 (J/K)  
+
+Summary of all fractionated phases: (total mass = 62.50 grams)
+
+olivine          mass = 9.56 (gm)  density = 3.29 (gm/cc)	(analysis in mole %)
+		    (Ca0.01Mg0.83Fe''0.17Mn0.00Co0.00Ni0.00)2SiO4
+		    G = -149334.61 (J)  H = -117449.68 (J)  S = 22.64 (J/K)  V = 2.91 (cc)  Cp = 11.80 (J/K)  
+	     tephroite      fayalite    co-olivine    ni-olivine  monticellite    forsterite
+	          0.00         17.04          0.00          0.00          1.38         81.58
+
+clinopyroxene    mass = 17.21 (gm)  density = 3.23 (gm/cc)	(analysis in mole %)
+		    cpx Na0.01Ca0.79Fe''0.17Mg0.89Fe'''0.04Ti0.02Al0.20Si1.87O6
+		    G = -277468.40 (J)  H = -221675.42 (J)  S = 39.62 (J/K)  V = 5.32 (cc)  Cp = 20.40 (J/K)  
+	      diopside clinoenstatit  hedenbergite alumino-buffo     buffonite      essenite       jadeite
+	         49.19         19.05         17.32          9.33         -5.87          9.51          1.47
+
+feldspar         mass = 35.62 (gm)  density = 2.67 (gm/cc)	(analysis in mole %)
+		    K0.00Na0.24Ca0.76Al1.76Si2.24O8
+		    G = -613431.35 (J)  H = -493284.58 (J)  S = 85.32 (J/K)  V = 13.34 (cc)  Cp = 43.65 (J/K)  
+	        albite     anorthite      sanidine
+	         24.31         75.66          0.03
+
+spinel           mass = 0.11 (gm)  density = 4.22 (gm/cc)	(analysis in mole %)
+		    Fe''0.48Mg0.62Fe'''0.32Al0.89Cr0.60Ti0.10O4
+		    G = -1357.83 (J)  H = -1006.42 (J)  S = 0.25 (J/K)  V = 0.03 (cc)  Cp = 0.12 (J/K)  
+	      chromite     hercynite     magnetite        spinel    ulvospinel
+	         30.10        -17.36         15.84         61.88          9.54
+
+Viscosity of the System cannot be computed.
+
+System           mass = 100.36 (gm)  density = 2.82 (gm/cc)
+                 G = -1625371.03 (J)  H = -1275966.83 (J)  S = 248.13 (J/K)  V = 35.56 (cc)  Cp = 129.67 (J/K)  
+
+**********----------**********
+Title: dummy
+
+T = 1130.00 (C)  P = 1.000 (kbars)  log(10) f O2 = -10.00  delta HM = -6.49  NNO = -1.60  QFM = -0.95  COH = 1.15  IW = 2.65
+
+Constraint Flags: Fractionate Solids  
+
+Liquid           mass = 34.69 (gm)  density = 2.70 (gm/cc)  viscosity = 2.44 (log 10 poise)     (analysis in wt %)
+ 		G = -531462.94 (J)  H = -402028.24 (J)  S = 92.25 (J/K)  V = 12.84 (cc)  Cp = 49.41 (J/K)  
+        SiO2   TiO2  Al2O3  Fe2O3  Cr2O3    FeO    MnO    MgO    NiO    CoO    CaO   Na2O    K2O   P2O5    H2O    CO2    SO3 Cl2O-1  F2O-1
+       49.16   2.53  13.34   1.81   0.03  14.01   0.00   5.15   0.00   0.00   8.58   4.51   0.08   0.23   0.58   0.00   0.00   0.00   0.00
+
+olivine          mass = 0.19 (gm)  density = 3.42 (gm/cc)     (analysis in mole %)
+                 (Ca0.01Mg0.71Fe''0.29Mn0.00Co0.00Ni0.00)2SiO4
+                 G = -2696.04 (J)  H = -2088.04 (J)  S = 0.43 (J/K)  V = 0.05 (cc)  Cp = 0.22 (J/K)  
+          tephroite      fayalite    co-olivine    ni-olivine  monticellite    forsterite
+               0.00         28.51          0.00          0.00          1.28         70.21
+
+clinopyroxene    mass = 0.56 (gm)  density = 3.27 (gm/cc)     (analysis in mole %)
+                 cpx Na0.02Ca0.77Fe''0.24Mg0.84Fe'''0.04Ti0.03Al0.21Si1.85O6
+                 G = -8841.79 (J)  H = -7048.14 (J)  S = 1.28 (J/K)  V = 0.17 (cc)  Cp = 0.66 (J/K)  
+           diopside clinoenstatit  hedenbergite alumino-buffo     buffonite      essenite       jadeite
+              38.58         20.82         23.88         11.10         -4.41          8.13          1.91
+
+feldspar         mass = 0.77 (gm)  density = 2.64 (gm/cc)     (analysis in mole %)
+                 K0.00Na0.37Ca0.62Al1.62Si2.38O8
+                 G = -13272.38 (J)  H = -10660.15 (J)  S = 1.86 (J/K)  V = 0.29 (cc)  Cp = 0.95 (J/K)  
+             albite     anorthite      sanidine
+              37.44         62.49          0.07
+
+spinel           mass = 0.02 (gm)  density = 4.46 (gm/cc)     (analysis in mole %)
+                 Fe''0.97Mg0.45Fe'''0.40Al0.39Cr0.38Ti0.42O4
+                 G = -182.94 (J)  H = -127.99 (J)  S = 0.04 (J/K)  V = 0.00 (cc)  Cp = 0.02 (J/K)  
+           chromite     hercynite     magnetite        spinel    ulvospinel
+              18.78        -25.13         20.16         44.69         41.50
+
+Total solids     mass = 1.53 (gm)  density = 2.94 (gm/cc)
+                 G = -24993.15 (J)  H = -19924.32 (J)  S = 3.61 (J/K)  V = 0.52 (cc)  Cp = 1.84 (J/K)  
+
+Summary of all fractionated phases: (total mass = 64.14 grams)
+
+olivine          mass = 9.75 (gm)  density = 3.29 (gm/cc)	(analysis in mole %)
+		    (Ca0.01Mg0.83Fe''0.17Mn0.00Co0.00Ni0.00)2SiO4
+		    G = -152076.87 (J)  H = -119722.95 (J)  S = 23.06 (J/K)  V = 2.96 (cc)  Cp = 12.03 (J/K)  
+	     tephroite      fayalite    co-olivine    ni-olivine  monticellite    forsterite
+	          0.00         17.24          0.00          0.00          1.38         81.38
+
+clinopyroxene    mass = 17.82 (gm)  density = 3.24 (gm/cc)	(analysis in mole %)
+		    cpx Na0.01Ca0.79Fe''0.18Mg0.89Fe'''0.04Ti0.02Al0.20Si1.87O6
+		    G = -286934.52 (J)  H = -229483.47 (J)  S = 40.94 (J/K)  V = 5.51 (cc)  Cp = 21.11 (J/K)  
+	      diopside clinoenstatit  hedenbergite alumino-buffo     buffonite      essenite       jadeite
+	         48.87         19.11         17.51          9.38         -5.82          9.47          1.48
+
+feldspar         mass = 36.44 (gm)  density = 2.67 (gm/cc)	(analysis in mole %)
+		    K0.00Na0.25Ca0.75Al1.75Si2.25O8
+		    G = -627189.86 (J)  H = -504896.83 (J)  S = 87.16 (J/K)  V = 13.65 (cc)  Cp = 44.64 (J/K)  
+	        albite     anorthite      sanidine
+	         24.58         75.39          0.03
+
+spinel           mass = 0.13 (gm)  density = 4.24 (gm/cc)	(analysis in mole %)
+		    Fe''0.51Mg0.60Fe'''0.32Al0.85Cr0.59Ti0.12O4
+		    G = -1477.17 (J)  H = -1091.84 (J)  S = 0.27 (J/K)  V = 0.03 (cc)  Cp = 0.13 (J/K)  
+	      chromite     hercynite     magnetite        spinel    ulvospinel
+	         29.49        -17.81         16.22         60.50         11.60
+
+Viscosity of the System cannot be computed.
+
+System           mass = 100.36 (gm)  density = 2.83 (gm/cc)
+                 G = -1624134.51 (J)  H = -1277147.65 (J)  S = 247.29 (J/K)  V = 35.51 (cc)  Cp = 129.16 (J/K)  
+
+**********----------**********
+Title: dummy
+
+T = 1125.00 (C)  P = 1.000 (kbars)  log(10) f O2 = -10.06  delta HM = -6.48  NNO = -1.59  QFM = -0.94  COH = 1.16  IW = 2.67
+
+Constraint Flags: Fractionate Solids  
+
+Liquid           mass = 33.26 (gm)  density = 2.70 (gm/cc)  viscosity = 2.45 (log 10 poise)     (analysis in wt %)
+ 		G = -507759.82 (J)  H = -384237.65 (J)  S = 88.35 (J/K)  V = 12.30 (cc)  Cp = 47.26 (J/K)  
+        SiO2   TiO2  Al2O3  Fe2O3  Cr2O3    FeO    MnO    MgO    NiO    CoO    CaO   Na2O    K2O   P2O5    H2O    CO2    SO3 Cl2O-1  F2O-1
+       49.17   2.61  13.18   1.85   0.02  14.32   0.00   4.95   0.00   0.00   8.37   4.61   0.08   0.24   0.60   0.00   0.00   0.00   0.00
+
+olivine          mass = 0.18 (gm)  density = 3.44 (gm/cc)     (analysis in mole %)
+                 (Ca0.01Mg0.70Fe''0.30Mn0.00Co0.00Ni0.00)2SiO4
+                 G = -2534.17 (J)  H = -1961.93 (J)  S = 0.41 (J/K)  V = 0.05 (cc)  Cp = 0.21 (J/K)  
+          tephroite      fayalite    co-olivine    ni-olivine  monticellite    forsterite
+               0.00         29.68          0.00          0.00          1.27         69.05
+
+clinopyroxene    mass = 0.51 (gm)  density = 3.27 (gm/cc)     (analysis in mole %)
+                 cpx Na0.02Ca0.77Fe''0.25Mg0.83Fe'''0.04Ti0.04Al0.21Si1.85O6
+                 G = -8138.63 (J)  H = -6492.97 (J)  S = 1.18 (J/K)  V = 0.16 (cc)  Cp = 0.60 (J/K)  
+           diopside clinoenstatit  hedenbergite alumino-buffo     buffonite      essenite       jadeite
+              37.47         20.82         24.59         11.41         -4.22          7.97          1.97
+
+feldspar         mass = 0.72 (gm)  density = 2.64 (gm/cc)     (analysis in mole %)
+                 K0.00Na0.39Ca0.61Al1.61Si2.39O8
+                 G = -12441.12 (J)  H = -10002.07 (J)  S = 1.74 (J/K)  V = 0.27 (cc)  Cp = 0.89 (J/K)  
+             albite     anorthite      sanidine
+              38.54         61.38          0.08
+
+spinel           mass = 0.03 (gm)  density = 4.47 (gm/cc)     (analysis in mole %)
+                 Fe''1.06Mg0.44Fe'''0.39Al0.32Cr0.28Ti0.50O4
+                 G = -254.83 (J)  H = -177.46 (J)  S = 0.06 (J/K)  V = 0.01 (cc)  Cp = 0.02 (J/K)  
+           chromite     hercynite     magnetite        spinel    ulvospinel
+              14.23        -27.48         19.60         43.61         50.04
+
+Total solids     mass = 1.44 (gm)  density = 2.95 (gm/cc)
+                 G = -23368.74 (J)  H = -18634.43 (J)  S = 3.39 (J/K)  V = 0.49 (cc)  Cp = 1.72 (J/K)  
+
+Summary of all fractionated phases: (total mass = 65.66 grams)
+
+olivine          mass = 9.94 (gm)  density = 3.29 (gm/cc)	(analysis in mole %)
+		    (Ca0.01Mg0.83Fe''0.17Mn0.00Co0.00Ni0.00)2SiO4
+		    G = -154633.31 (J)  H = -121854.09 (J)  S = 23.44 (J/K)  V = 3.02 (cc)  Cp = 12.24 (J/K)  
+	     tephroite      fayalite    co-olivine    ni-olivine  monticellite    forsterite
+	          0.00         17.44          0.00          0.00          1.38         81.18
+
+clinopyroxene    mass = 18.37 (gm)  density = 3.24 (gm/cc)	(analysis in mole %)
+		    cpx Na0.01Ca0.79Fe''0.18Mg0.89Fe'''0.04Ti0.02Al0.20Si1.87O6
+		    G = -295530.57 (J)  H = -236612.24 (J)  S = 42.14 (J/K)  V = 5.67 (cc)  Cp = 21.76 (J/K)  
+	      diopside clinoenstatit  hedenbergite alumino-buffo     buffonite      essenite       jadeite
+	         48.56         19.16         17.70          9.44         -5.78          9.43          1.49
+
+feldspar         mass = 37.21 (gm)  density = 2.67 (gm/cc)	(analysis in mole %)
+		    K0.00Na0.25Ca0.75Al1.75Si2.25O8
+		    G = -639971.63 (J)  H = -515746.81 (J)  S = 88.85 (J/K)  V = 13.94 (cc)  Cp = 45.56 (J/K)  
+	        albite     anorthite      sanidine
+	         24.85         75.12          0.03
+
+spinel           mass = 0.14 (gm)  density = 4.27 (gm/cc)	(analysis in mole %)
+		    Fe''0.56Mg0.59Fe'''0.33Al0.81Cr0.57Ti0.15O4
+		    G = -1638.23 (J)  H = -1206.01 (J)  S = 0.31 (J/K)  V = 0.03 (cc)  Cp = 0.15 (J/K)  
+	      chromite     hercynite     magnetite        spinel    ulvospinel
+	         28.37        -18.58         16.64         58.84         14.73
+
+Viscosity of the System cannot be computed.
+
+System           mass = 100.36 (gm)  density = 2.83 (gm/cc)
+                 G = -1622902.31 (J)  H = -1278291.22 (J)  S = 246.48 (J/K)  V = 35.46 (cc)  Cp = 128.69 (J/K)  
+
+**********----------**********
+Title: dummy
+
+T = 1120.00 (C)  P = 1.000 (kbars)  log(10) f O2 = -10.11  delta HM = -6.47  NNO = -1.58  QFM = -0.94  COH = 1.16  IW = 2.68
+
+Constraint Flags: Fractionate Solids  
+
+Liquid           mass = 31.90 (gm)  density = 2.70 (gm/cc)  viscosity = 2.47 (log 10 poise)     (analysis in wt %)
+ 		G = -485363.72 (J)  H = -367436.94 (J)  S = 84.65 (J/K)  V = 11.80 (cc)  Cp = 45.22 (J/K)  
+        SiO2   TiO2  Al2O3  Fe2O3  Cr2O3    FeO    MnO    MgO    NiO    CoO    CaO   Na2O    K2O   P2O5    H2O    CO2    SO3 Cl2O-1  F2O-1
+       49.19   2.67  13.02   1.90   0.01  14.62   0.00   4.75   0.00   0.00   8.17   4.71   0.09   0.25   0.63   0.00   0.00   0.00   0.00
+
+olivine          mass = 0.17 (gm)  density = 3.45 (gm/cc)     (analysis in mole %)
+                 (Ca0.01Mg0.69Fe''0.31Mn0.00Co0.00Ni0.00)2SiO4
+                 G = -2387.71 (J)  H = -1847.71 (J)  S = 0.39 (J/K)  V = 0.05 (cc)  Cp = 0.20 (J/K)  
+          tephroite      fayalite    co-olivine    ni-olivine  monticellite    forsterite
+               0.00         30.90          0.00          0.00          1.27         67.83
+
+clinopyroxene    mass = 0.48 (gm)  density = 3.28 (gm/cc)     (analysis in mole %)
+                 cpx Na0.02Ca0.77Fe''0.25Mg0.82Fe'''0.04Ti0.04Al0.22Si1.84O6
+                 G = -7589.97 (J)  H = -6060.27 (J)  S = 1.10 (J/K)  V = 0.15 (cc)  Cp = 0.56 (J/K)  
+           diopside clinoenstatit  hedenbergite alumino-buffo     buffonite      essenite       jadeite
+              36.37         20.77         25.31         11.73         -4.02          7.81          2.03
+
+feldspar         mass = 0.68 (gm)  density = 2.64 (gm/cc)     (analysis in mole %)
+                 K0.00Na0.40Ca0.60Al1.60Si2.40O8
+                 G = -11739.96 (J)  H = -9447.45 (J)  S = 1.65 (J/K)  V = 0.26 (cc)  Cp = 0.84 (J/K)  
+             albite     anorthite      sanidine
+              39.63         60.29          0.08
+
+spinel           mass = 0.04 (gm)  density = 4.48 (gm/cc)     (analysis in mole %)
+                 Fe''1.15Mg0.42Fe'''0.38Al0.27Cr0.20Ti0.58O4
+                 G = -363.20 (J)  H = -252.16 (J)  S = 0.08 (J/K)  V = 0.01 (cc)  Cp = 0.04 (J/K)  
+           chromite     hercynite     magnetite        spinel    ulvospinel
+               9.99        -29.07         18.79         42.44         57.86
+
+Total solids     mass = 1.37 (gm)  density = 2.96 (gm/cc)
+                 G = -22080.84 (J)  H = -17607.59 (J)  S = 3.21 (J/K)  V = 0.46 (cc)  Cp = 1.63 (J/K)  
+
+Summary of all fractionated phases: (total mass = 67.09 grams)
+
+olivine          mass = 10.11 (gm)  density = 3.30 (gm/cc)	(analysis in mole %)
+		    (Ca0.01Mg0.82Fe''0.18Mn0.00Co0.00Ni0.00)2SiO4
+		    G = -157026.22 (J)  H = -123860.17 (J)  S = 23.81 (J/K)  V = 3.07 (cc)  Cp = 12.44 (J/K)  
+	     tephroite      fayalite    co-olivine    ni-olivine  monticellite    forsterite
+	          0.00         17.64          0.00          0.00          1.37         80.98
+
+clinopyroxene    mass = 18.88 (gm)  density = 3.24 (gm/cc)	(analysis in mole %)
+		    cpx Na0.02Ca0.79Fe''0.18Mg0.89Fe'''0.04Ti0.02Al0.20Si1.87O6
+		    G = -303418.08 (J)  H = -243188.81 (J)  S = 43.23 (J/K)  V = 5.83 (cc)  Cp = 22.35 (J/K)  
+	      diopside clinoenstatit  hedenbergite alumino-buffo     buffonite      essenite       jadeite
+	         48.26         19.20         17.89          9.49         -5.74          9.39          1.51
+
+feldspar         mass = 37.93 (gm)  density = 2.67 (gm/cc)	(analysis in mole %)
+		    K0.00Na0.25Ca0.75Al1.75Si2.25O8
+		    G = -651914.38 (J)  H = -525943.00 (J)  S = 90.42 (J/K)  V = 14.21 (cc)  Cp = 46.42 (J/K)  
+	        albite     anorthite      sanidine
+	         25.11         74.86          0.03
+
+spinel           mass = 0.16 (gm)  density = 4.30 (gm/cc)	(analysis in mole %)
+		    Fe''0.63Mg0.57Fe'''0.34Al0.74Cr0.53Ti0.19O4
+		    G = -1871.11 (J)  H = -1369.69 (J)  S = 0.36 (J/K)  V = 0.04 (cc)  Cp = 0.17 (J/K)  
+	      chromite     hercynite     magnetite        spinel    ulvospinel
+	         26.50        -19.75         17.03         56.83         19.39
+
+Viscosity of the System cannot be computed.
+
+System           mass = 100.36 (gm)  density = 2.83 (gm/cc)
+                 G = -1621674.35 (J)  H = -1279406.20 (J)  S = 245.68 (J/K)  V = 35.41 (cc)  Cp = 128.23 (J/K)  
+
+**********----------**********
+Title: dummy
+
+T = 1115.00 (C)  P = 1.000 (kbars)  log(10) f O2 = -10.17  delta HM = -6.47  NNO = -1.57  QFM = -0.93  COH = 1.15  IW = 2.69
+
+Constraint Flags: Fractionate Solids  
+
+Liquid           mass = 30.59 (gm)  density = 2.70 (gm/cc)  viscosity = 2.49 (log 10 poise)     (analysis in wt %)
+ 		G = -463945.96 (J)  H = -351379.37 (J)  S = 81.09 (J/K)  V = 11.31 (cc)  Cp = 43.26 (J/K)  
+        SiO2   TiO2  Al2O3  Fe2O3  Cr2O3    FeO    MnO    MgO    NiO    CoO    CaO   Na2O    K2O   P2O5    H2O    CO2    SO3 Cl2O-1  F2O-1
+       49.24   2.73  12.86   1.93   0.01  14.90   0.00   4.55   0.00   0.00   7.97   4.80   0.09   0.26   0.65   0.00   0.00   0.00   0.00
+
+olivine          mass = 0.16 (gm)  density = 3.47 (gm/cc)     (analysis in mole %)
+                 (Ca0.01Mg0.68Fe''0.32Mn0.00Co0.00Ni0.00)2SiO4
+                 G = -2250.22 (J)  H = -1740.39 (J)  S = 0.37 (J/K)  V = 0.05 (cc)  Cp = 0.19 (J/K)  
+          tephroite      fayalite    co-olivine    ni-olivine  monticellite    forsterite
+               0.00         32.18          0.00          0.00          1.27         66.56
+
+clinopyroxene    mass = 0.46 (gm)  density = 3.28 (gm/cc)     (analysis in mole %)
+                 cpx Na0.02Ca0.77Fe''0.26Mg0.81Fe'''0.04Ti0.04Al0.22Si1.84O6
+                 G = -7190.01 (J)  H = -5745.66 (J)  S = 1.04 (J/K)  V = 0.14 (cc)  Cp = 0.53 (J/K)  
+           diopside clinoenstatit  hedenbergite alumino-buffo     buffonite      essenite       jadeite
+              35.29         20.70         26.05         12.06         -3.83          7.64          2.09
+
+feldspar         mass = 0.65 (gm)  density = 2.64 (gm/cc)     (analysis in mole %)
+                 K0.00Na0.41Ca0.59Al1.59Si2.41O8
+                 G = -11165.46 (J)  H = -8993.80 (J)  S = 1.56 (J/K)  V = 0.25 (cc)  Cp = 0.80 (J/K)  
+             albite     anorthite      sanidine
+              40.70         59.21          0.09
+
+spinel           mass = 0.05 (gm)  density = 4.48 (gm/cc)     (analysis in mole %)
+                 Fe''1.23Mg0.41Fe'''0.36Al0.22Cr0.13Ti0.65O4
+                 G = -514.98 (J)  H = -356.92 (J)  S = 0.11 (J/K)  V = 0.01 (cc)  Cp = 0.05 (J/K)  
+           chromite     hercynite     magnetite        spinel    ulvospinel
+               6.25        -29.90         17.91         41.14         64.59
+
+Total solids     mass = 1.32 (gm)  density = 2.98 (gm/cc)
+                 G = -21120.67 (J)  H = -16836.78 (J)  S = 3.09 (J/K)  V = 0.44 (cc)  Cp = 1.57 (J/K)  
+
+Summary of all fractionated phases: (total mass = 68.45 grams)
+
+olivine          mass = 10.28 (gm)  density = 3.30 (gm/cc)	(analysis in mole %)
+		    (Ca0.01Mg0.82Fe''0.18Mn0.00Co0.00Ni0.00)2SiO4
+		    G = -159271.12 (J)  H = -125753.02 (J)  S = 24.15 (J/K)  V = 3.11 (cc)  Cp = 12.63 (J/K)  
+	     tephroite      fayalite    co-olivine    ni-olivine  monticellite    forsterite
+	          0.00         17.85          0.00          0.00          1.37         80.78
+
+clinopyroxene    mass = 19.36 (gm)  density = 3.24 (gm/cc)	(analysis in mole %)
+		    cpx Na0.02Ca0.79Fe''0.18Mg0.88Fe'''0.04Ti0.02Al0.20Si1.87O6
+		    G = -310751.97 (J)  H = -249335.44 (J)  S = 44.24 (J/K)  V = 5.97 (cc)  Cp = 22.90 (J/K)  
+	      diopside clinoenstatit  hedenbergite alumino-buffo     buffonite      essenite       jadeite
+	         47.97         19.24         18.07          9.54         -5.70          9.35          1.52
+
+feldspar         mass = 38.61 (gm)  density = 2.67 (gm/cc)	(analysis in mole %)
+		    K0.00Na0.25Ca0.75Al1.75Si2.25O8
+		    G = -663148.71 (J)  H = -535588.62 (J)  S = 91.89 (J/K)  V = 14.47 (cc)  Cp = 47.24 (J/K)  
+	        albite     anorthite      sanidine
+	         25.37         74.60          0.03
+
+spinel           mass = 0.20 (gm)  density = 4.33 (gm/cc)	(analysis in mole %)
+		    Fe''0.71Mg0.54Fe'''0.35Al0.66Cr0.48Ti0.26O4
+		    G = -2212.16 (J)  H = -1608.02 (J)  S = 0.44 (J/K)  V = 0.05 (cc)  Cp = 0.20 (J/K)  
+	      chromite     hercynite     magnetite        spinel    ulvospinel
+	         23.82        -21.27         17.31         54.49         25.64
+
+Viscosity of the System cannot be computed.
+
+System           mass = 100.36 (gm)  density = 2.84 (gm/cc)
+                 G = -1620450.59 (J)  H = -1280501.25 (J)  S = 244.89 (J/K)  V = 35.36 (cc)  Cp = 127.79 (J/K)  
+
+**********----------**********
+Title: dummy
+
+T = 1110.00 (C)  P = 1.000 (kbars)  log(10) f O2 = -10.24  delta HM = -6.48  NNO = -1.58  QFM = -0.94  COH = 1.14  IW = 2.69
+
+Constraint Flags: Fractionate Solids  
+
+Liquid           mass = 29.30 (gm)  density = 2.70 (gm/cc)  viscosity = 2.51 (log 10 poise)     (analysis in wt %)
+ 		G = -443082.03 (J)  H = -335747.34 (J)  S = 77.60 (J/K)  V = 10.84 (cc)  Cp = 41.33 (J/K)  
+        SiO2   TiO2  Al2O3  Fe2O3  Cr2O3    FeO    MnO    MgO    NiO    CoO    CaO   Na2O    K2O   P2O5    H2O    CO2    SO3 Cl2O-1  F2O-1
+       49.34   2.75  12.71   1.96   0.00  15.16   0.00   4.34   0.00   0.00   7.77   4.91   0.09   0.27   0.68   0.00   0.00   0.00   0.00
+
+olivine          mass = 0.15 (gm)  density = 3.49 (gm/cc)     (analysis in mole %)
+                 (Ca0.01Mg0.66Fe''0.34Mn0.00Co0.00Ni0.00)2SiO4
+                 G = -2113.64 (J)  H = -1633.72 (J)  S = 0.35 (J/K)  V = 0.04 (cc)  Cp = 0.18 (J/K)  
+          tephroite      fayalite    co-olivine    ni-olivine  monticellite    forsterite
+               0.00         33.53          0.00          0.00          1.27         65.20
+
+clinopyroxene    mass = 0.44 (gm)  density = 3.29 (gm/cc)     (analysis in mole %)
+                 cpx Na0.02Ca0.77Fe''0.27Mg0.80Fe'''0.04Ti0.04Al0.22Si1.84O6
+                 G = -6980.90 (J)  H = -5583.11 (J)  S = 1.01 (J/K)  V = 0.14 (cc)  Cp = 0.52 (J/K)  
+           diopside clinoenstatit  hedenbergite alumino-buffo     buffonite      essenite       jadeite
+              34.20         20.62         26.81         12.36         -3.63          7.48          2.15
+
+feldspar         mass = 0.63 (gm)  density = 2.64 (gm/cc)     (analysis in mole %)
+                 K0.00Na0.42Ca0.58Al1.58Si2.42O8
+                 G = -10742.09 (J)  H = -8661.16 (J)  S = 1.50 (J/K)  V = 0.24 (cc)  Cp = 0.77 (J/K)  
+             albite     anorthite      sanidine
+              41.75         58.15          0.09
+
+spinel           mass = 0.08 (gm)  density = 4.49 (gm/cc)     (analysis in mole %)
+                 Fe''1.30Mg0.40Fe'''0.34Al0.19Cr0.06Ti0.70O4
+                 G = -747.68 (J)  H = -517.78 (J)  S = 0.17 (J/K)  V = 0.02 (cc)  Cp = 0.07 (J/K)  
+           chromite     hercynite     magnetite        spinel    ulvospinel
+               3.06        -30.08         17.08         39.73         70.21
+
+Total solids     mass = 1.30 (gm)  density = 3.00 (gm/cc)
+                 G = -20584.32 (J)  H = -16395.77 (J)  S = 3.03 (J/K)  V = 0.43 (cc)  Cp = 1.54 (J/K)  
+
+Summary of all fractionated phases: (total mass = 69.76 grams)
+
+olivine          mass = 10.44 (gm)  density = 3.30 (gm/cc)	(analysis in mole %)
+		    (Ca0.01Mg0.82Fe''0.18Mn0.00Co0.00Ni0.00)2SiO4
+		    G = -161377.09 (J)  H = -127539.48 (J)  S = 24.46 (J/K)  V = 3.16 (cc)  Cp = 12.81 (J/K)  
+	     tephroite      fayalite    co-olivine    ni-olivine  monticellite    forsterite
+	          0.00         18.05          0.00          0.00          1.37         80.58
+
+clinopyroxene    mass = 19.82 (gm)  density = 3.24 (gm/cc)	(analysis in mole %)
+		    cpx Na0.02Ca0.79Fe''0.18Mg0.88Fe'''0.04Ti0.02Al0.20Si1.87O6
+		    G = -317681.24 (J)  H = -255170.09 (J)  S = 45.19 (J/K)  V = 6.11 (cc)  Cp = 23.42 (J/K)  
+	      diopside clinoenstatit  hedenbergite alumino-buffo     buffonite      essenite       jadeite
+	         47.69         19.27         18.25          9.60         -5.65          9.31          1.53
+
+feldspar         mass = 39.26 (gm)  density = 2.67 (gm/cc)	(analysis in mole %)
+		    K0.00Na0.26Ca0.74Al1.74Si2.26O8
+		    G = -673801.71 (J)  H = -544784.43 (J)  S = 93.28 (J/K)  V = 14.71 (cc)  Cp = 48.00 (J/K)  
+	        albite     anorthite      sanidine
+	         25.63         74.34          0.03
+
+spinel           mass = 0.25 (gm)  density = 4.36 (gm/cc)	(analysis in mole %)
+		    Fe''0.81Mg0.52Fe'''0.35Al0.58Cr0.41Ti0.33O4
+		    G = -2704.67 (J)  H = -1951.06 (J)  S = 0.54 (J/K)  V = 0.06 (cc)  Cp = 0.25 (J/K)  
+	      chromite     hercynite     magnetite        spinel    ulvospinel
+	         20.48        -22.91         17.43         51.95         33.06
+
+Viscosity of the System cannot be computed.
+
+System           mass = 100.36 (gm)  density = 2.84 (gm/cc)
+                 G = -1619231.06 (J)  H = -1281588.18 (J)  S = 244.11 (J/K)  V = 35.32 (cc)  Cp = 127.36 (J/K)  
+
+**********----------**********
+Title: dummy
+
+T = 1105.00 (C)  P = 1.000 (kbars)  log(10) f O2 = -10.33  delta HM = -6.51  NNO = -1.60  QFM = -0.97  COH = 1.11  IW = 2.67
+
+Constraint Flags: Fractionate Solids  
+
+Liquid           mass = 27.91 (gm)  density = 2.70 (gm/cc)  viscosity = 2.55 (log 10 poise)     (analysis in wt %)
+ 		G = -421129.52 (J)  H = -319319.19 (J)  S = 73.87 (J/K)  V = 10.34 (cc)  Cp = 39.27 (J/K)  
+        SiO2   TiO2  Al2O3  Fe2O3  Cr2O3    FeO    MnO    MgO    NiO    CoO    CaO   Na2O    K2O   P2O5    H2O    CO2    SO3 Cl2O-1  F2O-1
+       49.56   2.71  12.57   1.97   0.00  15.36   0.00   4.12   0.00   0.00   7.56   5.04   0.10   0.29   0.72   0.00   0.00   0.00   0.00
+
+olivine          mass = 0.14 (gm)  density = 3.50 (gm/cc)     (analysis in mole %)
+                 (Ca0.01Mg0.65Fe''0.35Mn0.00Co0.00Ni0.00)2SiO4
+                 G = -1941.92 (J)  H = -1499.73 (J)  S = 0.32 (J/K)  V = 0.04 (cc)  Cp = 0.16 (J/K)  
+          tephroite      fayalite    co-olivine    ni-olivine  monticellite    forsterite
+               0.00         35.03          0.00          0.00          1.27         63.70
+
+clinopyroxene    mass = 0.48 (gm)  density = 3.29 (gm/cc)     (analysis in mole %)
+                 cpx Na0.02Ca0.77Fe''0.28Mg0.79Fe'''0.04Ti0.04Al0.22Si1.84O6
+                 G = -7525.40 (J)  H = -6023.11 (J)  S = 1.09 (J/K)  V = 0.15 (cc)  Cp = 0.56 (J/K)  
+           diopside clinoenstatit  hedenbergite alumino-buffo     buffonite      essenite       jadeite
+              33.05         20.67         27.73         12.47         -3.48          7.35          2.20
+
+feldspar         mass = 0.63 (gm)  density = 2.64 (gm/cc)     (analysis in mole %)
+                 K0.00Na0.43Ca0.57Al1.57Si2.43O8
+                 G = -10798.89 (J)  H = -8715.46 (J)  S = 1.51 (J/K)  V = 0.24 (cc)  Cp = 0.77 (J/K)  
+             albite     anorthite      sanidine
+              42.77         57.13          0.10
+
+spinel           mass = 0.15 (gm)  density = 4.50 (gm/cc)     (analysis in mole %)
+                 Fe''1.36Mg0.38Fe'''0.33Al0.17Cr0.01Ti0.74O4
+                 G = -1423.86 (J)  H = -985.73 (J)  S = 0.32 (J/K)  V = 0.03 (cc)  Cp = 0.14 (J/K)  
+           chromite     hercynite     magnetite        spinel    ulvospinel
+               0.65        -29.55         16.50         38.08         74.32
+
+Total solids     mass = 1.40 (gm)  density = 3.05 (gm/cc)
+                 G = -21690.07 (J)  H = -17224.02 (J)  S = 3.24 (J/K)  V = 0.46 (cc)  Cp = 1.64 (J/K)  
+
+Summary of all fractionated phases: (total mass = 71.05 grams)
+
+olivine          mass = 10.59 (gm)  density = 3.31 (gm/cc)	(analysis in mole %)
+		    (Ca0.01Mg0.82Fe''0.18Mn0.00Co0.00Ni0.00)2SiO4
+		    G = -163345.17 (J)  H = -129220.16 (J)  S = 24.76 (J/K)  V = 3.20 (cc)  Cp = 12.98 (J/K)  
+	     tephroite      fayalite    co-olivine    ni-olivine  monticellite    forsterite
+	          0.00         18.26          0.00          0.00          1.37         80.37
+
+clinopyroxene    mass = 20.26 (gm)  density = 3.24 (gm/cc)	(analysis in mole %)
+		    cpx Na0.02Ca0.79Fe''0.18Mg0.88Fe'''0.04Ti0.02Al0.20Si1.87O6
+		    G = -324396.90 (J)  H = -260844.73 (J)  S = 46.11 (J/K)  V = 6.24 (cc)  Cp = 23.93 (J/K)  
+	      diopside clinoenstatit  hedenbergite alumino-buffo     buffonite      essenite       jadeite
+	         47.40         19.30         18.44          9.66         -5.61          9.27          1.55
+
+feldspar         mass = 39.88 (gm)  density = 2.67 (gm/cc)	(analysis in mole %)
+		    K0.00Na0.26Ca0.74Al1.74Si2.26O8
+		    G = -684024.85 (J)  H = -553651.29 (J)  S = 94.60 (J/K)  V = 14.95 (cc)  Cp = 48.74 (J/K)  
+	        albite     anorthite      sanidine
+	         25.88         74.09          0.03
+
+spinel           mass = 0.33 (gm)  density = 4.39 (gm/cc)	(analysis in mole %)
+		    Fe''0.92Mg0.49Fe'''0.35Al0.50Cr0.33Ti0.41O4
+		    G = -3429.43 (J)  H = -2455.00 (J)  S = 0.71 (J/K)  V = 0.07 (cc)  Cp = 0.32 (J/K)  
+	      chromite     hercynite     magnetite        spinel    ulvospinel
+	         16.66        -24.48         17.35         49.27         41.20
+
+Viscosity of the System cannot be computed.
+
+System           mass = 100.36 (gm)  density = 2.85 (gm/cc)
+                 G = -1618015.94 (J)  H = -1282714.40 (J)  S = 243.30 (J/K)  V = 35.27 (cc)  Cp = 126.88 (J/K)  
+
+**********----------**********
+Title: dummy
+
+T = 1100.00 (C)  P = 1.000 (kbars)  log(10) f O2 = -10.45  delta HM = -6.57  NNO = -1.66  QFM = -1.02  COH = 1.05  IW = 2.62
+
+Constraint Flags: Fractionate Solids  
+
+Liquid           mass = 26.75 (gm)  density = 2.69 (gm/cc)  viscosity = 2.60 (log 10 poise)     (analysis in wt %)
+ 		G = -403212.62 (J)  H = -306066.63 (J)  S = 70.75 (J/K)  V = 9.94 (cc)  Cp = 37.56 (J/K)  
+        SiO2   TiO2  Al2O3  Fe2O3  Cr2O3    FeO    MnO    MgO    NiO    CoO    CaO   Na2O    K2O   P2O5    H2O    CO2    SO3 Cl2O-1  F2O-1
+       49.88   2.59  12.51   1.94   0.00  15.44   0.00   3.94   0.00   0.00   7.39   5.16   0.10   0.30   0.75   0.00   0.00   0.00   0.00
+
+olivine          mass = 0.09 (gm)  density = 3.55 (gm/cc)     (analysis in mole %)
+                 (Ca0.00Mg0.62Fe''0.38Mn0.00Co0.00Ni0.00)2SiO4
+                 G = -1227.75 (J)  H = -945.14 (J)  S = 0.21 (J/K)  V = 0.03 (cc)  Cp = 0.10 (J/K)  
+          tephroite      fayalite    co-olivine    ni-olivine  monticellite    forsterite
+               0.00         38.40          0.00          0.00          0.00         61.60
+
+clinopyroxene    mass = 0.42 (gm)  density = 3.29 (gm/cc)     (analysis in mole %)
+                 cpx Na0.04Ca0.75Fe''0.27Mg0.77Fe'''0.04Ti0.04Al0.24Si1.83O6
+                 G = -6514.05 (J)  H = -5218.21 (J)  S = 0.94 (J/K)  V = 0.13 (cc)  Cp = 0.49 (J/K)  
+           diopside clinoenstatit  hedenbergite alumino-buffo     buffonite      essenite       jadeite
+              30.93         20.86         27.41         12.58         -3.64          7.80          4.05
+
+feldspar         mass = 0.48 (gm)  density = 2.63 (gm/cc)     (analysis in mole %)
+                 K0.00Na0.43Ca0.56Al1.56Si2.44O8
+                 G = -8200.90 (J)  H = -6625.29 (J)  S = 1.15 (J/K)  V = 0.18 (cc)  Cp = 0.59 (J/K)  
+             albite     anorthite      sanidine
+              43.34         56.39          0.27
+
+spinel           mass = 0.19 (gm)  density = 4.56 (gm/cc)     (analysis in mole %)
+                 Fe''1.47Mg0.35Fe'''0.36Al0.01Cr0.00Ti0.81O4
+                 G = -1728.80 (J)  H = -1180.51 (J)  S = 0.40 (J/K)  V = 0.04 (cc)  Cp = 0.18 (J/K)  
+           chromite     hercynite     magnetite        spinel    ulvospinel
+               0.03        -34.42         18.19         34.73         81.47
+
+Total solids     mass = 1.17 (gm)  density = 3.13 (gm/cc)
+                 G = -17671.49 (J)  H = -13969.15 (J)  S = 2.70 (J/K)  V = 0.38 (cc)  Cp = 1.35 (J/K)  
+
+Summary of all fractionated phases: (total mass = 72.44 grams)
+
+olivine          mass = 10.73 (gm)  density = 3.31 (gm/cc)	(analysis in mole %)
+		    (Ca0.01Mg0.82Fe''0.18Mn0.00Co0.00Ni0.00)2SiO4
+		    G = -165140.32 (J)  H = -130767.67 (J)  S = 25.03 (J/K)  V = 3.24 (cc)  Cp = 13.13 (J/K)  
+	     tephroite      fayalite    co-olivine    ni-olivine  monticellite    forsterite
+	          0.00         18.46          0.00          0.00          1.37         80.17
+
+clinopyroxene    mass = 20.74 (gm)  density = 3.25 (gm/cc)	(analysis in mole %)
+		    cpx Na0.02Ca0.79Fe''0.19Mg0.88Fe'''0.04Ti0.02Al0.21Si1.87O6
+		    G = -331652.26 (J)  H = -266962.13 (J)  S = 47.11 (J/K)  V = 6.39 (cc)  Cp = 24.48 (J/K)  
+	      diopside clinoenstatit  hedenbergite alumino-buffo     buffonite      essenite       jadeite
+	         47.07         19.33         18.65          9.72         -5.56          9.23          1.56
+
+feldspar         mass = 40.51 (gm)  density = 2.67 (gm/cc)	(analysis in mole %)
+		    K0.00Na0.26Ca0.74Al1.74Si2.26O8
+		    G = -694298.31 (J)  H = -562576.13 (J)  S = 95.93 (J/K)  V = 15.18 (cc)  Cp = 49.49 (J/K)  
+	        albite     anorthite      sanidine
+	         26.14         73.82          0.04
+
+spinel           mass = 0.47 (gm)  density = 4.42 (gm/cc)	(analysis in mole %)
+		    Fe''1.05Mg0.46Fe'''0.34Al0.40Cr0.24Ti0.51O4
+		    G = -4829.80 (J)  H = -3427.01 (J)  S = 1.02 (J/K)  V = 0.11 (cc)  Cp = 0.46 (J/K)  
+	      chromite     hercynite     magnetite        spinel    ulvospinel
+	         11.88        -25.99         17.10         45.93         51.08
+
+Viscosity of the System cannot be computed.
+
+System           mass = 100.36 (gm)  density = 2.85 (gm/cc)
+                 G = -1616804.79 (J)  H = -1283768.72 (J)  S = 242.53 (J/K)  V = 35.23 (cc)  Cp = 126.47 (J/K)  
+
+**********----------**********
+Title: dummy
+
+T = 1095.00 (C)  P = 1.000 (kbars)  log(10) f O2 = -10.53  delta HM = -6.58  NNO = -1.67  QFM = -1.03  COH = 1.03  IW = 2.62
+
+Constraint Flags: Fractionate Solids  
+
+Liquid           mass = 26.72 (gm)  density = 2.69 (gm/cc)  viscosity = 2.63 (log 10 poise)     (analysis in wt %)
+ 		G = -402506.53 (J)  H = -305983.54 (J)  S = 70.55 (J/K)  V = 9.92 (cc)  Cp = 37.53 (J/K)  
+        SiO2   TiO2  Al2O3  Fe2O3  Cr2O3    FeO    MnO    MgO    NiO    CoO    CaO   Na2O    K2O   P2O5    H2O    CO2    SO3 Cl2O-1  F2O-1
+       49.88   2.59  12.51   1.94   0.00  15.44   0.00   3.94   0.00   0.00   7.39   5.16   0.10   0.30   0.75   0.00   0.00   0.00   0.00
+
+olivine          mass = 0.00 (gm)  density = 3.87 (gm/cc)     (analysis in mole %)
+                 (Ca-0.0Mg0.34Fe''0.66Mn0.00Co0.00Ni0.00)2SiO4
+                 G = -38.59 (J)  H = -28.47 (J)  S = 0.01 (J/K)  V = 0.00 (cc)  Cp = 0.00 (J/K)  
+          tephroite      fayalite    co-olivine    ni-olivine  monticellite    forsterite
+               0.00         66.48          0.00          0.00         -0.00         33.52
+
+clinopyroxene    mass = 0.01 (gm)  density = 3.28 (gm/cc)     (analysis in mole %)
+                 cpx Na0.04Ca0.65Fe''0.34Mg0.85Fe'''0.03Ti0.01Al0.17Si1.91O6
+                 G = -146.55 (J)  H = -117.21 (J)  S = 0.02 (J/K)  V = 0.00 (cc)  Cp = 0.01 (J/K)  
+           diopside clinoenstatit  hedenbergite alumino-buffo     buffonite      essenite       jadeite
+              22.93         30.46         33.56          5.60         -4.07          7.22          4.30
+
+feldspar         mass = 0.01 (gm)  density = 2.59 (gm/cc)     (analysis in mole %)
+                 K0.00Na0.66Ca0.33Al1.33Si2.67O8
+                 G = -247.74 (J)  H = -199.67 (J)  S = 0.04 (J/K)  V = 0.01 (cc)  Cp = 0.02 (J/K)  
+             albite     anorthite      sanidine
+              66.12         33.42          0.46
+
+spinel           mass = 0.00 (gm)  density = 4.73 (gm/cc)     (analysis in mole %)
+                 Fe''1.68Mg0.10Fe'''0.42Al0.00Cr0.00Ti0.79O4
+                 G = -23.71 (J)  H = -15.73 (J)  S = 0.01 (J/K)  V = 0.00 (cc)  Cp = 0.00 (J/K)  
+           chromite     hercynite     magnetite        spinel    ulvospinel
+               0.00        -10.17         20.99         10.37         78.81
+
+rhm-oxide        mass = 0.00 (gm)  density = 4.53 (gm/cc)     (analysis in mole %)
+                 Mn0.00Fe''0.78Mg0.12Fe'''0.10Al0.11Ti0.90O3
+                 G = -19.25 (J)  H = -14.16 (J)  S = 0.00 (J/K)  V = 0.00 (cc)  Cp = 0.00 (J/K)  
+         geikielite      hematite      ilmenite   pyrophanite      corundum
+              12.28          4.77         77.60          0.00          5.34
+
+Total solids     mass = 0.03 (gm)  density = 3.09 (gm/cc)
+                 G = -475.83 (J)  H = -375.25 (J)  S = 0.07 (J/K)  V = 0.01 (cc)  Cp = 0.04 (J/K)  
+
+Summary of all fractionated phases: (total mass = 73.61 grams)
+
+olivine          mass = 10.81 (gm)  density = 3.31 (gm/cc)	(analysis in mole %)
+		    (Ca0.01Mg0.81Fe''0.19Mn0.00Co0.00Ni0.00)2SiO4
+		    G = -166220.71 (J)  H = -131761.40 (J)  S = 25.19 (J/K)  V = 3.27 (cc)  Cp = 13.23 (J/K)  
+	     tephroite      fayalite    co-olivine    ni-olivine  monticellite    forsterite
+	          0.00         18.61          0.00          0.00          1.36         80.03
+
+clinopyroxene    mass = 21.15 (gm)  density = 3.25 (gm/cc)	(analysis in mole %)
+		    cpx Na0.02Ca0.79Fe''0.19Mg0.88Fe'''0.04Ti0.02Al0.21Si1.87O6
+		    G = -337892.16 (J)  H = -272277.00 (J)  S = 47.96 (J/K)  V = 6.51 (cc)  Cp = 24.95 (J/K)  
+	      diopside clinoenstatit  hedenbergite alumino-buffo     buffonite      essenite       jadeite
+	         46.76         19.36         18.82          9.78         -5.52          9.20          1.61
+
+feldspar         mass = 40.98 (gm)  density = 2.67 (gm/cc)	(analysis in mole %)
+		    K0.00Na0.26Ca0.74Al1.74Si2.26O8
+		    G = -701968.81 (J)  H = -569413.70 (J)  S = 96.89 (J/K)  V = 15.36 (cc)  Cp = 50.04 (J/K)  
+	        albite     anorthite      sanidine
+	         26.35         73.62          0.04
+
+spinel           mass = 0.66 (gm)  density = 4.46 (gm/cc)	(analysis in mole %)
+		    Fe''1.16Mg0.43Fe'''0.35Al0.29Cr0.17Ti0.59O4
+		    G = -6535.43 (J)  H = -4594.57 (J)  S = 1.42 (J/K)  V = 0.15 (cc)  Cp = 0.64 (J/K)  
+	      chromite     hercynite     magnetite        spinel    ulvospinel
+	          8.67        -28.28         17.39         42.90         59.32
+
+Viscosity of the System cannot be computed.
+
+System           mass = 100.36 (gm)  density = 2.85 (gm/cc)
+                 G = -1615599.46 (J)  H 

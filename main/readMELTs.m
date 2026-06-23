@@ -26,6 +26,7 @@ end
 
 file=fopen(filepath);
 [~,filename]=fileparts(filepath); % Output sheet
+filename=char(filename);
 detailmine=opts.mineral;
 switch opts.MELTsMode
     case 'Fractionate'
