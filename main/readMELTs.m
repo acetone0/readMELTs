@@ -41,7 +41,7 @@ for i=1:numel(liquidfieldname), liquid.CompName(i)=liquidfieldname(i); end
 
 mineralcheckname = ["olivine","garnet","clinopyroxene","orthopyroxene",...
     "amphibole","biotite","muscovite","feldspar","quartz","leucite",...
-    "sillimanite","rhm-oxide","whitlockite","spinel","fluid"];
+    "sillimanite","rhm-oxide","whitlockite","spinel","apatite","fluid"];
 
 for i=1:numel(mineralcheckname)
     mineralfieldname=legalfieldname(char(mineralcheckname(i)));
@@ -82,7 +82,7 @@ textscan(file,'%s',9); tblock=textscan(file,'%s',1);
 minenum=0;
 while ~isequal(tblock{1}{1},'Viscosity')
     minename=string(tblock{1}{1});
-    if isequal(minename,"rhm"), minename="rhmoxide"; textscan(file,'%s',1); end
+    minename=legalfieldname(char(minename));
     if isempty(mineraldata.(minename).Fraction), minenum=minenum+1; end
     tblock=textscan(file,'%s%s%f%s',1);
     mineraldata.(minename).Fraction(cnt,1)=tblock{3};
@@ -255,6 +255,12 @@ switch mineraldata.Name
         mineraldata.isMgNum=true;
         disp('# Rhm-oxide Load')
 
+    case "apatite" % Ca5(PO4)3OH
+        mineraldata.MassBase=NaN;
+        mineraldata.Length=1;
+        mineraldata.Space=1;
+        mineraldata.isMgNum=false;
+        disp('# Apatite Load')
 end
 
 end
