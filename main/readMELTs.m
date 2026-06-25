@@ -22,18 +22,17 @@ arguments
         ["olivine","garnet","clinopyroxene","orthopyroxene",...
     "amphibole","biotite","muscovite","feldspar","quartz","leucite",...
     "sillimanite","rhmoxide","whitlockite","spinel","fluid"])} = []
+    opts.RedoxBuffer char {mustBeMember(opts.RedoxBuffer,...
+        {'IW','None'})} = 'IW'
 end
 
 file=fopen(filepath);
 [~,filename]=fileparts(filepath); % Output sheet
 filename=char(filename);
 detailmine=opts.mineral;
-switch opts.MELTsMode
-    case 'Fractionate'
-        statestep = 39; endstep = 5;
-    case 'Equilibrate'
-        statestep = 37; endstep = 4;
-end
+statestep=33; endstep=4;
+if isequal(opts.MELTsMode,'Fractionate'), statestep=statestep+2; endstep=endstep+1; end
+if ~isequal(opts.RedoxBuffer,'None'), statestep=statestep+4; end
 
 liquidfieldname = ["SiO2","TiO2","Al2O3","Fe2O3","Cr2O3","FeO","MnO","MgO",...
     "NiO","CoO","CaO","Na2O","K2O","P2O5","H2O","CO2","SO3","Cl2O","F2O"];
@@ -41,7 +40,8 @@ for i=1:numel(liquidfieldname), liquid.CompName(i)=liquidfieldname(i); end
 
 mineralcheckname = ["olivine","garnet","clinopyroxene","orthopyroxene",...
     "amphibole","biotite","muscovite","feldspar","quartz","leucite",...
-    "sillimanite","rhm-oxide","whitlockite","spinel","fluid"];
+    "sillimanite","rhm-oxide","whitlockite","spinel","apatite","aenigmatite",...
+    "sphene","fluid"];
 
 for i=1:numel(mineralcheckname)
     mineralfieldname=legalfieldname(char(mineralcheckname(i)));
@@ -58,7 +58,7 @@ cnt = 1; % Counts for the whole loop
 while ~isempty(cblock{1})
     
 tblock=textscan(file,'%s',statestep); % temporal block
-if cnt==1, state.RedoxBuffer=string(tblock{1}{37}); end
+if cnt==1, state.RedoxBuffer=string(opts.RedoxBuffer); end
 state.Tpath(cnt,1)=double(string(tblock{1}{5})); % (˚C)
 state.Ppath(cnt,1)=double(string(tblock{1}{9})); % (kbar)
 state.lgfO2path(cnt,1)=double(string(tblock{1}{15})); 
@@ -82,11 +82,19 @@ textscan(file,'%s',9); tblock=textscan(file,'%s',1);
 minenum=0;
 while ~isequal(tblock{1}{1},'Viscosity')
     minename=string(tblock{1}{1});
-    if isequal(minename,"rhm"), minename="rhmoxide"; textscan(file,'%s',1); end
+    if isequal(minename,"rhm"), minename="rhm-oxide"; textscan(file,'%s',1); end
+    minename=legalfieldname(char(minename));
     if isempty(mineraldata.(minename).Fraction), minenum=minenum+1; end
     tblock=textscan(file,'%s%s%f%s',1);
-    mineraldata.(minename).Fraction(cnt,1)=tblock{3};
-    tblock=textscan(file,'%s%s%f%s',1);
+    if height(mineraldata.(minename).Fraction)==cnt
+        tempfrac=mineraldata.(minename).Fraction(cnt,1);
+        mineraldata.(minename).Fraction(cnt,1)=tempfrac+tblock{3};
+        repele=true;
+    else
+        mineraldata.(minename).Fraction(cnt,1)=tblock{3};
+        repele=false;
+    end
+    tblock=textscan(file,'%s%s%f',1);
     mineraldata.(minename).Density=tblock{3};
     textscan(file,'%*[^\n]',1);
     tblock=textscan(file,'%s',mineraldata.(minename).Length);
@@ -95,9 +103,16 @@ while ~isequal(tblock{1}{1},'Viscosity')
     for eleidx=1:numel(mineraldata.(minename).Elecheck)
         elelen=elelen+length(char(mineraldata.(minename).Elecheck(eleidx)));
         elecomp=double(string(comp((elelen+1):(elelen+4))))*mineraldata.(minename).Rate(eleidx);
-        mineraldata.(minename).EleComp(cnt,eleidx)=elecomp;
+        if repele
+            tempelecomp=mineraldata.(minename).EleComp(cnt,eleidx);
+            mineraldata.(minename).EleComp(cnt,eleidx)=tempelecomp*tempfrac+...
+                (mineraldata.(minename).Fraction(cnt,1)-tempfrac)*mineraldata.(minename).EleComp(cnt,eleidx);
+        else
+            mineraldata.(minename).EleComp(cnt,eleidx)=elecomp;
+        end
         elelen=elelen+4;
     end
+    clearvars repele
     textscan(file,'%*[^\n]',mineraldata.(minename).Space);
     tblock=textscan(file,'%s',1);
     
@@ -213,6 +228,13 @@ switch mineraldata.Name
         mineraldata.MgNum=NaN;
         disp('# Clinopyroxene Load')
 
+    case "orthopyroxene"
+        mineraldata.MassBase=NaN;
+        mineraldata.Length=2;
+        mineraldata.Space=3;
+        mineraldata.isMgNum=false;
+        disp('# Orthopyroxene Load')
+
     case "spinel" % Fe'',Mg,Fe''',Al,Cr,Ti,O4
         mineraldata.MassBase=16*4;
         mineraldata.Length=1;
@@ -255,6 +277,40 @@ switch mineraldata.Name
         mineraldata.isMgNum=true;
         disp('# Rhm-oxide Load')
 
+    case "apatite" % Ca5(PO4)3OH
+        mineraldata.MassBase=NaN;
+        mineraldata.Length=1;
+        mineraldata.Space=1;
+        mineraldata.isMgNum=false;
+        disp('# Apatite Load')
+
+    case 'whitlockite'
+        mineraldata.MassBase=NaN;
+        mineraldata.Length=1;
+        mineraldata.Space=1;
+        mineraldata.isMgNum=false;
+        disp('# Whitlockite Load')
+
+    case 'aenigmatite'
+        mineraldata.MassBase=NaN;
+        mineraldata.Length=1;
+        mineraldata.Space=1;
+        mineraldata.isMgNum=false;
+        disp('# Aenigmatite Load')
+
+    case 'garnet'
+        mineraldata.MassBase=NaN;
+        mineraldata.Length=1;
+        mineraldata.Space=3;
+        mineraldata.isMgNum=false;
+        disp('# Garnet Load')
+
+    case 'sphene'
+        mineraldata.MassBase=NaN;
+        mineraldata.Length=1;
+        mineraldata.Space=1;
+        mineraldata.isMgNum=false;
+        disp('# Sphene Load')
 end
 
 end
